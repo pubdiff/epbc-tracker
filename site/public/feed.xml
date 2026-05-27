@@ -6,7 +6,7 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed.xml" rel="self" type="application/rss+xml" />
     <description>Weekly diff of every EPBC Act referral. Tracks new submissions, decisions, and status changes. A pubdiff tracker.</description>
     <language>en-au</language>
-    <lastBuildDate>Wed, 27 May 2026 11:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 22:02:49 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
 
   </channel>

@@ -1,6 +1,6 @@
 {
   "runId": "2026-05-27",
-  "fetchedAt": "2026-05-27T10:33:32.740Z",
+  "fetchedAt": "2026-05-27T22:02:46.311Z",
   "sourceEndpoint": "https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/EPBC_Referrals/MapServer/0/query",
   "count": 7612,
   "referrals": [
