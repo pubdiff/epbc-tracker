@@ -1,0 +1,12 @@
+The dataset produced by this tracker (everything in `data/`, including the
+weekly snapshots, the cumulative index, and the diffs) is made available under
+the Creative Commons Attribution 4.0 International License (CC-BY-4.0).
+
+You may share and adapt this dataset for any purpose, including commercially,
+provided you give appropriate credit. Suggested attribution:
+
+  Source: pubdiff/epbc-tracker (https://github.com/pubdiff/epbc-tracker)
+  Derived from DCCEEW EPBC Referrals data
+  (© Commonwealth of Australia, used under open-data terms).
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode

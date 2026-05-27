@@ -1,0 +1,82 @@
+name: scrape
+
+on:
+  schedule:
+    # Wednesday 20:00 UTC = Thursday 06:00 AEST (after DCCEEW's typical weekly update window)
+    - cron: "0 20 * * 3"
+  workflow_dispatch:
+    inputs:
+      skip-post:
+        description: "Skip Bluesky posting (dry run)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: scrape (fetch + parse + index + diff + feed)
+        run: pnpm run scrape
+
+      # Commit data BEFORE posting. If posting fails, we still have the new
+      # snapshot/diff/feed committed - next week diffs against an up-to-date
+      # baseline rather than re-detecting the same changes.
+      - name: commit data (pre-post)
+        id: commit-pre
+        run: |
+          git config user.name "pubdiff-bot"
+          git config user.email "bot@pubdiff.com"
+          git add data/ site/public/feed.xml site/public/feed.json
+          if ! git diff --staged --quiet; then
+            git commit -m "scrape: $(date -u +%Y-%m-%d)"
+            echo "committed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "no changes to commit"
+            echo "committed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: post to bluesky
+        if: ${{ !inputs.skip-post }}
+        # Bluesky failures are recoverable next week via idempotency, so they
+        # must not fail the workflow or block the push.
+        continue-on-error: true
+        env:
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+        run: pnpm run post
+
+      # Pick up any _posted.json updates from the post step.
+      - name: commit _posted.json (post-post)
+        if: ${{ always() }}
+        run: |
+          git config user.name "pubdiff-bot"
+          git config user.email "bot@pubdiff.com"
+          git add data/_posted.json || true
+          if ! git diff --staged --quiet; then
+            git commit -m "scrape: $(date -u +%Y-%m-%d) bluesky log"
+          fi
+
+      - name: push
+        if: ${{ always() }}
+        run: git push || echo "nothing to push"
