@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { recentActivity, refSlug, trackerStats } from "@/lib/data";
+import { jurisdictionName } from "@/lib/jurisdictions";
 
 export default async function HomePage() {
   const [stats, activity] = await Promise.all([trackerStats(), recentActivity(40)]);
@@ -76,9 +77,16 @@ export default async function HomePage() {
             <h3 className="font-semibold mb-2">By jurisdiction</h3>
             <ul className="space-y-1">
               {stats.byJurisdiction.map(([j, n]) => (
-                <li key={j} className="flex justify-between">
-                  <span>{j}</span>
-                  <span className="text-[var(--color-muted)]">{n.toLocaleString()}</span>
+                <li key={j} className="flex justify-between gap-3">
+                  <Link href={`/state/${j.toLowerCase()}/`} className="truncate">
+                    {jurisdictionName(j)}{" "}
+                    <span className="text-[var(--color-muted)] font-mono text-xs">
+                      {j}
+                    </span>
+                  </Link>
+                  <span className="text-[var(--color-muted)] font-mono">
+                    {n.toLocaleString()}
+                  </span>
                 </li>
               ))}
             </ul>
