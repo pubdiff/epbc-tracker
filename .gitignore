@@ -17,3 +17,6 @@ data/raw/*.json
 ROADMAP.md
 NOTES.md
 .notes/
+notes/
+*-PLAN.md
+*-HAR-CAPTURE.md
