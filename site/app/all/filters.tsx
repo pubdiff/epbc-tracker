@@ -316,3 +316,34 @@ export function ClearButton({ onClick }: { onClick: () => void }) {
     </button>
   );
 }
+
+// ---- CSV download button ----
+
+export function CsvDownloadButton({
+  onClick,
+  count,
+}: {
+  onClick: () => void;
+  count: number;
+}) {
+  const disabled = count === 0;
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      disabled={disabled}
+      className={
+        disabled
+          ? "px-2 py-1 text-xs border border-[var(--color-rule)] rounded bg-white text-[var(--color-muted)] cursor-not-allowed"
+          : "px-2 py-1 text-xs border border-[var(--color-rule)] rounded bg-white hover:border-[var(--color-accent)] hover:text-[var(--color-accent)]"
+      }
+      title={
+        disabled
+          ? "Nothing to download"
+          : `Download ${count.toLocaleString()} referral${count === 1 ? "" : "s"} as CSV`
+      }
+    >
+      Download CSV
+    </button>
+  );
+}

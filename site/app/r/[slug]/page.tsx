@@ -43,8 +43,10 @@ function ReferralDetail({ r }: { r: ReferralIndexed }) {
           {r.referenceNumber}
         </div>
         <h1 className="text-2xl font-semibold mt-1">{r.name ?? "(unnamed referral)"}</h1>
-        <div className="text-sm text-[var(--color-muted)] mt-1">
-          First observed by tracker {r.firstSeen} - last observed {r.lastSeen}
+        <div className="text-sm text-[var(--color-muted)] mt-1 flex flex-wrap gap-x-3 gap-y-1">
+          {r.year != null ? <span>Submitted {r.year}</span> : null}
+          <span>First observed by tracker {r.firstSeen}</span>
+          <span>Last observed {r.lastSeen}</span>
         </div>
       </header>
 

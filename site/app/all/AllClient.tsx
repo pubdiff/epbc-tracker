@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useVirtualizer } from "@tanstack/react-virtual";
 import { BASE_PATH } from "@/lib/site-config";
 import { refSlug } from "@/lib/slug";
+import { downloadCsv, toCsv } from "@/lib/csv";
 import {
   applyFilters,
   useFilters,
@@ -13,6 +14,7 @@ import {
 import {
   ChipMulti,
   ClearButton,
+  CsvDownloadButton,
   DecisionToggle,
   DropdownMulti,
   SortSelect,
@@ -66,6 +68,23 @@ export function AllClient() {
     return applyFilters(load.data.items, filters);
   }, [load, filters]);
 
+  const exportCsv = () => {
+    const csv = toCsv(filtered, [
+      { key: "ref", header: "reference_number" },
+      { key: "name", header: "name" },
+      { key: "juris", header: "jurisdiction" },
+      { key: "cat", header: "category" },
+      { key: "yr", header: "year" },
+      { key: "stage", header: "stage" },
+      { key: "status", header: "status" },
+      { key: "decided", header: "decided" },
+      { key: "first", header: "first_observed" },
+      { key: "last", header: "last_observed" },
+    ]);
+    const today = new Date().toISOString().slice(0, 10);
+    downloadCsv(csv, `epbc-referrals-${today}.csv`);
+  };
+
   if (load.status === "loading") {
     return (
       <div className="py-8 text-sm text-[var(--color-muted)]">
@@ -99,6 +118,8 @@ export function AllClient() {
         clear={clear}
         active={active}
         facets={data.facets}
+        filteredCount={filtered.length}
+        onExportCsv={exportCsv}
       />
 
       <ResultsList items={filtered} />
@@ -112,12 +133,16 @@ function FilterStrip({
   clear,
   active,
   facets,
+  filteredCount,
+  onExportCsv,
 }: {
   filters: ReturnType<typeof useFilters>["filters"];
   setFilters: ReturnType<typeof useFilters>["setFilters"];
   clear: () => void;
   active: boolean;
   facets: ReferralsFile["facets"];
+  filteredCount: number;
+  onExportCsv: () => void;
 }) {
   const yearMin = facets.yearMin ?? 2000;
   const yearMax = facets.yearMax ?? new Date().getFullYear();
@@ -146,6 +171,7 @@ function FilterStrip({
           value={filters.sort}
           onChange={(sort) => setFilters((f) => ({ ...f, sort }))}
         />
+        <CsvDownloadButton onClick={onExportCsv} count={filteredCount} />
         {active ? <ClearButton onClick={clear} /> : null}
       </div>
 
