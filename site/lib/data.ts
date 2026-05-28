@@ -4,6 +4,8 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 
+export { refSlug } from "./slug";
+
 const REPO_ROOT = join(process.cwd(), "..");
 const DATA_DIR = join(REPO_ROOT, "data");
 const INDEX_PATH = join(DATA_DIR, "_index.json");
@@ -96,9 +98,6 @@ export async function loadDiffs(): Promise<Diff[]> {
   return diffs;
 }
 
-export function refSlug(referenceNumber: string): string {
-  return referenceNumber.replace(/[^a-zA-Z0-9]/g, "-");
-}
 
 export interface ActivityItem {
   kind: "added" | "decision" | "stage" | "status";

@@ -45,7 +45,7 @@ jobs:
         run: |
           git config user.name "pubdiff-bot"
           git config user.email "bot@pubdiff.com"
-          git add data/ site/public/feed.xml site/public/feed.json
+          git add data/ site/public/feed.xml site/public/feed.json site/public/data/referrals.json
           if ! git diff --staged --quiet; then
             git commit -m "scrape: $(date -u +%Y-%m-%d)"
             echo "committed=true" >> "$GITHUB_OUTPUT"
