@@ -181,16 +181,19 @@ export async function trackerStats(): Promise<{
   firstSeen: string;
   lastUpdate: string;
   byJurisdiction: Array<[string, number]>;
+  byCategory: Array<[string, number]>;
   byStage: Array<[string, number]>;
 }> {
   const idx = await loadIndex();
   const all = Object.values(idx);
   const byJurisdiction = new Map<string, number>();
+  const byCategory = new Map<string, number>();
   const byStage = new Map<string, number>();
   let earliest = "9999-12-31";
   let latest = "0000-01-01";
   for (const r of all) {
     if (r.jurisdiction) byJurisdiction.set(r.jurisdiction, (byJurisdiction.get(r.jurisdiction) ?? 0) + 1);
+    if (r.category) byCategory.set(r.category, (byCategory.get(r.category) ?? 0) + 1);
     if (r.stage) byStage.set(r.stage, (byStage.get(r.stage) ?? 0) + 1);
     if (r.firstSeen < earliest) earliest = r.firstSeen;
     if (r.lastSeen > latest) latest = r.lastSeen;
@@ -200,6 +203,7 @@ export async function trackerStats(): Promise<{
     firstSeen: earliest,
     lastUpdate: latest,
     byJurisdiction: [...byJurisdiction.entries()].sort((a, b) => b[1] - a[1]),
+    byCategory: [...byCategory.entries()].sort((a, b) => b[1] - a[1]),
     byStage: [...byStage.entries()].sort((a, b) => b[1] - a[1]),
   };
 }

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { recentActivity, refSlug, trackerStats } from "@/lib/data";
+import { categorySlug } from "@/lib/categories";
 import { jurisdictionName } from "@/lib/jurisdictions";
 
 export default async function HomePage() {
@@ -72,7 +73,7 @@ export default async function HomePage() {
 
       <section>
         <h2 className="text-xl font-semibold mb-3">Coverage</h2>
-        <div className="grid sm:grid-cols-2 gap-6 text-sm">
+        <div className="grid sm:grid-cols-3 gap-6 text-sm">
           <div>
             <h3 className="font-semibold mb-2">By jurisdiction</h3>
             <ul className="space-y-1">
@@ -83,6 +84,21 @@ export default async function HomePage() {
                     <span className="text-[var(--color-muted)] font-mono text-xs">
                       {j}
                     </span>
+                  </Link>
+                  <span className="text-[var(--color-muted)] font-mono">
+                    {n.toLocaleString()}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div>
+            <h3 className="font-semibold mb-2">By category</h3>
+            <ul className="space-y-1">
+              {stats.byCategory.map(([c, n]) => (
+                <li key={c} className="flex justify-between gap-3">
+                  <Link href={`/category/${categorySlug(c)}/`} className="truncate">
+                    {c}
                   </Link>
                   <span className="text-[var(--color-muted)] font-mono">
                     {n.toLocaleString()}
