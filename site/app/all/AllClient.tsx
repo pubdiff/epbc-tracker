@@ -87,7 +87,6 @@ export function AllClient() {
 
   return (
     <div>
-      <h1 className="text-2xl font-semibold mb-2">All referrals</h1>
       <p className="text-[var(--color-muted)] mb-4" aria-live="polite">
         {active
           ? `Showing ${showing.toLocaleString()} of ${total.toLocaleString()} referrals`
@@ -124,8 +123,8 @@ function FilterStrip({
   const yearMax = facets.yearMax ?? new Date().getFullYear();
 
   return (
-    <div className="border-y border-[var(--color-rule)] py-3 mb-4 space-y-3 text-sm">
-      <div className="flex flex-wrap items-center gap-3">
+    <div className="border-y border-[var(--color-rule)] py-3 mb-4 space-y-2 sm:space-y-3 text-sm">
+      <div className="flex flex-wrap items-center gap-x-3 gap-y-2">
         <TextSearch
           value={filters.q}
           onChange={(q) => setFilters((f) => ({ ...f, q }))}
@@ -150,7 +149,15 @@ function FilterStrip({
         {active ? <ClearButton onClick={clear} /> : null}
       </div>
 
-      <div className="flex flex-wrap items-center gap-3">
+      <div className="flex flex-wrap items-center gap-2">
+        <DropdownMulti
+          label="Jurisdiction"
+          options={facets.jurisdictions}
+          selected={filters.jurisdictions}
+          onChange={(jurisdictions) =>
+            setFilters((f) => ({ ...f, jurisdictions }))
+          }
+        />
         <DropdownMulti
           label="Category"
           options={facets.categories}
@@ -164,13 +171,6 @@ function FilterStrip({
           onChange={(statuses) => setFilters((f) => ({ ...f, statuses }))}
         />
       </div>
-
-      <ChipMulti
-        label="Jurisdiction"
-        options={facets.jurisdictions}
-        selected={filters.jurisdictions}
-        onChange={(jurisdictions) => setFilters((f) => ({ ...f, jurisdictions }))}
-      />
 
       <ChipMulti
         label="Stage"
