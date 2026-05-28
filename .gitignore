@@ -12,3 +12,8 @@ dist/
 # Raw API responses - large (~5MB each), recoverable by re-running fetch.
 # We keep the normalised snapshots committed; raw is for debugging only.
 data/raw/*.json
+
+# Internal planning - kept local, not pushed
+ROADMAP.md
+NOTES.md
+.notes/
