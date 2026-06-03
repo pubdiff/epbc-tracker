@@ -8,11 +8,15 @@ name: enrich
 # portal blocks GitHub's IPs, redesigns, or Playwright breaks, the core tracker
 # is unaffected.
 #
-# Currently workflow_dispatch-only. Promote to a schedule (offset from scrape's
-# Wednesday cron) once a manual run confirms the portal serves GitHub-hosted
-# runners. See B1-PLAN.md.
+# A 2026-06-03 manual dispatch confirmed the portal serves GitHub-hosted runner
+# IPs and the Playwright bootstrap works headless in CI, so this runs weekly,
+# 24h after scrape's Wednesday cron - late enough that the week's new referrals
+# are already in the index and waiting to be enriched. See B1-PLAN.md.
 
 on:
+  schedule:
+    # Thursday 20:00 UTC = Friday 06:00 AEST, 24h after the scrape workflow.
+    - cron: "0 20 * * 4"
   workflow_dispatch:
     inputs:
       max-pages:
