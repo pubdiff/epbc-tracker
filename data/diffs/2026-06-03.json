@@ -1,0 +1,31 @@
+{
+  "runId": "2026-06-03",
+  "added": [],
+  "changed": [
+    {
+      "referenceNumber": "2020/8805",
+      "from": {
+        "name": "Tasman Highway Upgrade – Hobart Airport to Sorell Causeway",
+        "decision": null,
+        "determination": null,
+        "status": "Under Assessment",
+        "stage": "Assessment"
+      },
+      "to": {
+        "name": "Tasman Highway Upgrade ��� Hobart Airport to Sorell Causeway",
+        "decision": "Controlled Action",
+        "determination": "CA",
+        "status": "Further Information Requested",
+        "stage": "Further Information Request"
+      }
+    }
+  ],
+  "removed": [],
+  "stats": {
+    "totalCurrent": 7612,
+    "totalPrevious": 7612,
+    "addedCount": 0,
+    "changedCount": 1,
+    "removedCount": 0
+  }
+}

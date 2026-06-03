@@ -6,8 +6,14 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed.xml" rel="self" type="application/rss+xml" />
     <description>Weekly diff of every EPBC Act referral. Tracks new submissions, decisions, and status changes. A pubdiff tracker.</description>
     <language>en-au</language>
-    <lastBuildDate>Wed, 03 Jun 2026 03:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 22:30:42 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
-
+    <item>
+      <title>Controlled Action: 2020/8805</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2020-8805</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2020/8805:2026-06-03:4</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2020/8805 - status: &quot;Under Assessment&quot; → &quot;Further Information Requested&quot;; stage: &quot;Assessment&quot; → &quot;Further Information Request&quot;; decision: &quot;(none)&quot; → &quot;Controlled Action&quot;; determination: &quot;(none)&quot; → &quot;CA&quot;</description>
+    </item>
   </channel>
 </rss>

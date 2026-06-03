@@ -5,5 +5,17 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed.json",
   "description": "Weekly diff of every EPBC Act referral. Tracks new submissions, decisions, and status changes. A pubdiff tracker.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:change:2020/8805:2026-06-03:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2020-8805",
+      "title": "Controlled Action: 2020/8805",
+      "content_text": "2020/8805 - status: \"Under Assessment\" → \"Further Information Requested\"; stage: \"Assessment\" → \"Further Information Request\"; decision: \"(none)\" → \"Controlled Action\"; determination: \"(none)\" → \"CA\"",
+      "content_html": "<p>2020/8805 - status: &quot;Under Assessment&quot; → &quot;Further Information Requested&quot;; stage: &quot;Assessment&quot; → &quot;Further Information Request&quot;; decision: &quot;(none)&quot; → &quot;Controlled Action&quot;; determination: &quot;(none)&quot; → &quot;CA&quot;</p>",
+      "date_published": "2026-06-03T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    }
+  ]
 }
