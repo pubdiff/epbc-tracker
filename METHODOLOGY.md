@@ -2,7 +2,7 @@
 
 ## What this tracks
 
-Every referral submitted under the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act). The source dataset records the spatial extent and basic metadata for each referral. Per-referral detail (proponent, conditions, full decision text, exact submission/decision dates) lives on the EPBC Act Public Portal and is not currently scraped (planned for v1.1).
+Every referral submitted under the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act). The primary source records the spatial extent and basic metadata for each referral. A second source (the EPBC Act Public Portal) adds the **proponent**, location and a "valid date" at the listing level. Deeper per-referral detail (conditions, full decision text, exact decision dates) sits behind a login on the portal and is out of scope.
 
 ## Source
 
@@ -14,7 +14,7 @@ https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/EPBC_Referra
 
 This is the web service backing [the Referrals Spatial Database - Public](https://fed.dcceew.gov.au/datasets/erin::epbc-referrals-public-dataset/about). DCCEEW updates it weekly. A quarterly bulk download is published on [data.gov.au](https://data.gov.au/data/dataset/referrals-spatial-database).
 
-Browseable counterpart for humans: the [EPBC Act Public Portal](https://epbcpublicportal.environment.gov.au/all-referrals/).
+The secondary source is the [EPBC Act Public Portal](https://epbcpublicportal.environment.gov.au/all-referrals/), a Microsoft Power Apps portal over the same underlying Dynamics 365 CRM. Its listing grid (the `entity-grid-data.json` service behind the all-referrals page) returns the **proponent / approval holder**, a free-text **location**, and a **valid date** per referral - fields the ArcGIS layer omits. We read only the public, logged-out listing view. Per-referral detail pages require authentication and are not accessed.
 
 ## Schema
 
@@ -38,18 +38,43 @@ The ArcGIS layer exposes these attributes. We map them to a stable internal sche
 
 Geometry is fetched with `returnGeometry=false` - the tracker does not depend on polygon data for v1.
 
+### Portal enrichment fields
+
+The Public Portal listing adds these, joined to the index by reference number (`ticketnumber` → `referenceNumber`):
+
+| Portal field (CRM logical name) | Internal field | Notes |
+|---|---|---|
+| mara_proposerapprovalholdername | proponent | Applicant / approval holder entity, e.g. "BHP Pty Ltd" |
+| mara_location | location | Free-text site location, e.g. street + suburb + state |
+| mara_validdate | validDate | A single portal date (ISO). Semantics not yet pinned to "submitted" vs "validated" - surfaced as-is, labelled "Valid date". |
+| statuscode | statusReason | More granular status than the ArcGIS `status` |
+| title | portalProjectTitle | Portal's project title; shown only when it differs from `name` |
+| incidentid | incidentId | CRM GUID, retained for re-fetch |
+
+Each enriched record carries an `enrichedAt` date. Records with no `enrichedAt` were never matched in the portal (e.g. too old for the portal's window, or not yet enriched). The site degrades gracefully: the "Project details" block only renders when `enrichedAt` is present.
+
 ## Pipeline
 
 ```
-fetch          paged ArcGIS query -> data/raw/YYYY-MM-DD.json
-parse          raw -> normalised  -> data/snapshots/YYYY-MM-DD.json
-index-update   update data/_index.json with first/last-seen + per-record history
-diff           latest snapshot vs prior -> data/diffs/YYYY-MM-DD.json
-feed           recent diffs -> site/public/feed.xml + feed.json
-post           latest diff -> Bluesky thread, with idempotency via data/_posted.json
+fetch              paged ArcGIS query -> data/raw/YYYY-MM-DD.json
+parse              raw -> normalised  -> data/snapshots/YYYY-MM-DD.json
+index-update       update data/_index.json with first/last-seen + per-record history
+diff               latest snapshot vs prior -> data/diffs/YYYY-MM-DD.json
+feed               recent diffs -> site/public/feed.xml + feed.json
+build-site-data    _index.json -> site/public/data/referrals.json (filter UI payload)
+post               latest diff -> Bluesky thread, with idempotency via data/_posted.json
 ```
 
 Each step is idempotent and rerunnable. The git commit at the end of each scrape run is the durable record.
+
+Portal enrichment runs as a **separate** pipeline so a portal outage never breaks the core tracker:
+
+```
+enrich-portal            portal listing -> data/_portal-enrichment.json (resumable)
+merge-portal-enrichment  join enrichment into data/_index.json by reference number
+```
+
+`index-update` preserves enrichment fields across weekly ArcGIS refreshes (it spreads the prior record and only overwrites ArcGIS-sourced fields), so enrichment persists once merged. The enrichment crawler bootstraps a portal session two ways: from a captured browser HAR (one-shot backfill, `--bootstrap har`) or via headless Playwright (unattended weekly, `--bootstrap playwright`). The portal's anti-forgery token and encrypted view config are produced by client-side JS, so the session must come from a real browser request rather than being reconstructed.
 
 ## Diff semantics
 
@@ -77,8 +102,9 @@ The very first scrape run has no prior snapshot to compare to. Every record will
 
 ## Known limitations
 
-- **No proponent.** The source layer doesn't expose the applicant entity. Would need per-referral scraping of the Public Portal.
-- **No exact dates.** Only the submission year is published in this layer; submission and decision dates need the Public Portal.
+- **Proponent comes from a second source.** The ArcGIS layer doesn't expose the applicant; we add it from the Public Portal listing. Records older than the portal's listing window (or not yet enriched) have no proponent - check `enrichedAt`.
+- **No exact decision dates.** The ArcGIS layer gives submission year only. The portal exposes a single "valid date" at the listing level (surfaced as-is); exact submission and decision dates live on login-gated detail pages and are not scraped.
+- **Portal "valid date" semantics unconfirmed.** It is labelled "Valid date" verbatim rather than asserted as the submission or decision date, pending confirmation against DCCEEW documentation.
 - **No deep-link to per-referral portal page.** REFERRAL_URL is a generic landing page. Users need to search the portal for the reference number.
 - **History begins from first observation.** Records observed before this tracker existed have no captured pre-history. A v1.1 backfill from the data.gov.au quarterly snapshot is planned.
 - **Polygon data omitted.** v1 does not include the spatial layer. A future map view would need to re-enable geometry in the query.
@@ -107,4 +133,5 @@ Bluesky posts are capped at 25 per scrape run (a hard ceiling against a misbehav
 ## License and attribution
 
 - DCCEEW data: `EPBC Referrals Spatial Database © Australian Government Department of Climate Change, Energy, the Environment and Water`. We mirror and derive from this under fair-use / open-data norms; the original is government-published.
+- Portal enrichment: derived from the public, logged-out listing view of the EPBC Act Public Portal, also © Australian Government DCCEEW. Same open-data basis.
 - This tracker's derived dataset, code and presentation: CC-BY-4.0 (data) / MIT (code).
