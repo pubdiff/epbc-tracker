@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EPBC Tracker - pubdiff</title>
+    <title>EPBC Tracker - ACT - pubdiff</title>
     <link>https://pubdiff.github.io/epbc-tracker</link>
-    <atom:link href="https://pubdiff.github.io/epbc-tracker/feed.xml" rel="self" type="application/rss+xml" />
-    <description>Weekly diff of every EPBC Act referral. Tracks new submissions, decisions, and status changes. A pubdiff tracker.</description>
+    <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/act.xml" rel="self" type="application/rss+xml" />
+    <description>EPBC Act referral changes where the primary jurisdiction is ACT.</description>
     <language>en-au</language>
     <lastBuildDate>Wed, 03 Jun 2026 03:09:33 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>

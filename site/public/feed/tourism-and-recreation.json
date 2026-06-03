@@ -1,0 +1,9 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "EPBC Tracker - Tourism and Recreation - pubdiff",
+  "home_page_url": "https://pubdiff.github.io/epbc-tracker",
+  "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/tourism-and-recreation.json",
+  "description": "EPBC Act referral changes in the Tourism and Recreation category.",
+  "language": "en-AU",
+  "items": []
+}

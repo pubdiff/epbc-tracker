@@ -188,6 +188,8 @@ export async function trackerStats(): Promise<{
   total: number;
   firstSeen: string;
   lastUpdate: string;
+  lastEnriched: string | null;
+  enrichedCount: number;
   byJurisdiction: Array<[string, number]>;
   byCategory: Array<[string, number]>;
   byStage: Array<[string, number]>;
@@ -199,17 +201,25 @@ export async function trackerStats(): Promise<{
   const byStage = new Map<string, number>();
   let earliest = "9999-12-31";
   let latest = "0000-01-01";
+  let lastEnriched: string | null = null;
+  let enrichedCount = 0;
   for (const r of all) {
     if (r.jurisdiction) byJurisdiction.set(r.jurisdiction, (byJurisdiction.get(r.jurisdiction) ?? 0) + 1);
     if (r.category) byCategory.set(r.category, (byCategory.get(r.category) ?? 0) + 1);
     if (r.stage) byStage.set(r.stage, (byStage.get(r.stage) ?? 0) + 1);
     if (r.firstSeen < earliest) earliest = r.firstSeen;
     if (r.lastSeen > latest) latest = r.lastSeen;
+    if (r.enrichedAt) {
+      enrichedCount++;
+      if (!lastEnriched || r.enrichedAt > lastEnriched) lastEnriched = r.enrichedAt;
+    }
   }
   return {
     total: all.length,
     firstSeen: earliest,
     lastUpdate: latest,
+    lastEnriched,
+    enrichedCount,
     byJurisdiction: [...byJurisdiction.entries()].sort((a, b) => b[1] - a[1]),
     byCategory: [...byCategory.entries()].sort((a, b) => b[1] - a[1]),
     byStage: [...byStage.entries()].sort((a, b) => b[1] - a[1]),

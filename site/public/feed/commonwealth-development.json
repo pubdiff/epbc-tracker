@@ -1,0 +1,9 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "EPBC Tracker - Commonwealth Development - pubdiff",
+  "home_page_url": "https://pubdiff.github.io/epbc-tracker",
+  "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/commonwealth-development.json",
+  "description": "EPBC Act referral changes in the Commonwealth Development category.",
+  "language": "en-AU",
+  "items": []
+}

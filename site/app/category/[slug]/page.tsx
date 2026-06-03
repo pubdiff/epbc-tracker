@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { loadIndex, refSlug, type ReferralIndexed } from "@/lib/data";
 import { categorySlug } from "@/lib/categories";
 import { jurisdictionName } from "@/lib/jurisdictions";
+import { withBase } from "@/lib/site-config";
 
 interface ParamsArg {
   params: Promise<{ slug: string }>;
@@ -99,6 +100,11 @@ export default async function CategoryPage({ params }: ParamsArg) {
         <p className="text-[var(--color-muted)] mt-2 max-w-2xl">
           EPBC Act referrals categorised as {name}. Includes referrals across all
           jurisdictions and all stages - browse, filter, or export below.
+        </p>
+        <p className="text-sm mt-2">
+          <a href={withBase(`/feed/${slug}.xml`)}>
+            Subscribe to {name} changes (RSS) →
+          </a>
         </p>
       </header>
 

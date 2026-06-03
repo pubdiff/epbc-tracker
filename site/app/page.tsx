@@ -15,6 +15,20 @@ export default async function HomePage() {
           Protection and Biodiversity Conservation Act 1999. Sourced from DCCEEW.
           New referrals and decisions are surfaced as they are added or change.
         </p>
+        <div className="mt-3 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-[var(--color-muted)]">
+          <span className="inline-flex items-center gap-1.5">
+            <span className="inline-block w-2 h-2 rounded-full bg-green-600" aria-hidden />
+            Last scrape {stats.lastUpdate}
+          </span>
+          {stats.lastEnriched ? (
+            <>
+              <span aria-hidden>·</span>
+              <span>
+                Proponents enriched {stats.lastEnriched} ({stats.enrichedCount.toLocaleString()} referrals)
+              </span>
+            </>
+          ) : null}
+        </div>
       </section>
 
       <section className="grid grid-cols-2 sm:grid-cols-4 gap-4 border-y border-[var(--color-rule)] py-5">
@@ -25,7 +39,12 @@ export default async function HomePage() {
       </section>
 
       <section>
-        <h2 className="text-xl font-semibold mb-3">Recent activity</h2>
+        <div className="flex items-baseline justify-between mb-3 gap-3 flex-wrap">
+          <h2 className="text-xl font-semibold">Recent activity</h2>
+          <Link href="/diffs/" className="text-sm">
+            Full diff archive →
+          </Link>
+        </div>
         {activity.length === 0 ? (
           <p className="text-[var(--color-muted)]">
             No diff items yet. Tracking has just started - changes will appear

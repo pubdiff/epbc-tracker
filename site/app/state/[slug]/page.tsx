@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { loadIndex, refSlug, type ReferralIndexed } from "@/lib/data";
 import { jurisdictionName } from "@/lib/jurisdictions";
+import { withBase } from "@/lib/site-config";
 
 interface ParamsArg {
   params: Promise<{ slug: string }>;
@@ -98,6 +99,11 @@ export default async function StatePage({ params }: ParamsArg) {
         <p className="text-[var(--color-muted)] mt-2 max-w-2xl">
           EPBC Act referrals where the primary jurisdiction is {name}. Includes referrals
           across all stages and all categories - browse, filter, or export below.
+        </p>
+        <p className="text-sm mt-2">
+          <a href={withBase(`/feed/${code.toLowerCase()}.xml`)}>
+            Subscribe to {code} changes (RSS) →
+          </a>
         </p>
       </header>
 

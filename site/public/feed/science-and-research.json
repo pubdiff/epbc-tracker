@@ -1,0 +1,9 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "EPBC Tracker - Science and Research - pubdiff",
+  "home_page_url": "https://pubdiff.github.io/epbc-tracker",
+  "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/science-and-research.json",
+  "description": "EPBC Act referral changes in the Science and Research category.",
+  "language": "en-AU",
+  "items": []
+}

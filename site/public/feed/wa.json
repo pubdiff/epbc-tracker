@@ -1,0 +1,9 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "EPBC Tracker - WA - pubdiff",
+  "home_page_url": "https://pubdiff.github.io/epbc-tracker",
+  "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/wa.json",
+  "description": "EPBC Act referral changes where the primary jurisdiction is WA.",
+  "language": "en-AU",
+  "items": []
+}

@@ -1,0 +1,9 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "EPBC Tracker - Water Management and Use - pubdiff",
+  "home_page_url": "https://pubdiff.github.io/epbc-tracker",
+  "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/water-management-and-use.json",
+  "description": "EPBC Act referral changes in the Water Management and Use category.",
+  "language": "en-AU",
+  "items": []
+}

@@ -1,0 +1,9 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "EPBC Tracker - QLD - pubdiff",
+  "home_page_url": "https://pubdiff.github.io/epbc-tracker",
+  "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/qld.json",
+  "description": "EPBC Act referral changes where the primary jurisdiction is QLD.",
+  "language": "en-AU",
+  "items": []
+}

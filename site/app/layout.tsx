@@ -37,6 +37,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </Link>
             <nav className="text-sm flex gap-5">
               <Link href="/all/">All referrals</Link>
+              <Link href="/diffs/">Diffs</Link>
               <Link href="/about/">About</Link>
               <a href={withBase("/feed.xml")}>RSS</a>
               <a href="https://bsky.app/profile/pubdiff.bsky.social">Bluesky</a>

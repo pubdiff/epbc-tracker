@@ -1,0 +1,9 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "EPBC Tracker - Exploration (mineral, oil and gas - non-marine) - pubdiff",
+  "home_page_url": "https://pubdiff.github.io/epbc-tracker",
+  "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/exploration-mineral-oil-and-gas-non-marine.json",
+  "description": "EPBC Act referral changes in the Exploration (mineral, oil and gas - non-marine) category.",
+  "language": "en-AU",
+  "items": []
+}
