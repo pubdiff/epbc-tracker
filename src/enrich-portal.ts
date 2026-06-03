@@ -3,18 +3,20 @@
 // no per-record fetches (detail pages are login-gated).
 //
 // Usage:
-//   pnpm tsx src/enrich-portal.ts --har notes/portal-auth.har
+//   pnpm tsx src/enrich-portal.ts --har notes/portal-auth.har          # one-shot
 //   pnpm tsx src/enrich-portal.ts --har notes/portal-auth.har --resume
-//   pnpm tsx src/enrich-portal.ts --har notes/portal-auth.har --max-pages 5  # smoke test
+//   pnpm tsx src/enrich-portal.ts --bootstrap playwright               # unattended
+//   pnpm tsx src/enrich-portal.ts --har notes/portal-auth.har --max-pages 5  # smoke
 //
 // Outputs:
 //   data/_portal-enrichment.json   - raw enrichment keyed by ticketNumber
 //   data/_enrichment-progress.json - resume state (last completed page + count)
 
 import { bootstrapFromHar } from "./portal/bootstrap-from-har.ts";
+import { bootstrapWithPlaywright } from "./portal/bootstrap-playwright.ts";
 import { crawlAll, PortalFetchError } from "./portal/fetch.ts";
 import { normalizeRecord } from "./portal/normalize.ts";
-import type { PortalEnrichment } from "./portal/types.ts";
+import type { PortalEnrichment, PortalSession } from "./portal/types.ts";
 import { DATA_DIR, readJSON, writeJSON } from "./lib.ts";
 
 const ENRICHMENT_PATH = `${DATA_DIR}/_portal-enrichment.json`;
@@ -37,6 +39,7 @@ interface EnrichmentFile {
 }
 
 interface Args {
+  bootstrap: "har" | "playwright";
   harPath: string;
   resume: boolean;
   maxPages?: number;
@@ -46,6 +49,7 @@ interface Args {
 
 function parseArgs(argv: string[]): Args {
   const args: Args = {
+    bootstrap: "har",
     harPath: "",
     resume: false,
     pageSize: DEFAULT_PAGE_SIZE,
@@ -58,14 +62,22 @@ function parseArgs(argv: string[]): Args {
       if (!v) throw new Error(`Missing value for ${a}`);
       return v;
     };
-    if (a === "--har") args.harPath = nextArg();
-    else if (a === "--resume") args.resume = true;
+    if (a === "--har") {
+      args.harPath = nextArg();
+      args.bootstrap = "har";
+    } else if (a === "--bootstrap") {
+      const v = nextArg();
+      if (v !== "har" && v !== "playwright") {
+        throw new Error(`--bootstrap must be 'har' or 'playwright', got '${v}'`);
+      }
+      args.bootstrap = v;
+    } else if (a === "--resume") args.resume = true;
     else if (a === "--max-pages") args.maxPages = Number(nextArg());
     else if (a === "--page-size") args.pageSize = Number(nextArg());
     else if (a === "--delay-ms") args.delayMs = Number(nextArg());
   }
-  if (!args.harPath) {
-    throw new Error("Missing --har <path>");
+  if (args.bootstrap === "har" && !args.harPath) {
+    throw new Error("Missing --har <path> (or pass --bootstrap playwright)");
   }
   return args;
 }
@@ -74,8 +86,14 @@ async function main(): Promise<void> {
   const args = parseArgs(process.argv.slice(2));
   console.log("enrich-portal:", args);
 
-  const session = await bootstrapFromHar(args.harPath);
-  console.log(`bootstrapped session from ${args.harPath}`);
+  let session: PortalSession;
+  if (args.bootstrap === "playwright") {
+    session = await bootstrapWithPlaywright();
+    console.log("bootstrapped session via playwright");
+  } else {
+    session = await bootstrapFromHar(args.harPath);
+    console.log(`bootstrapped session from ${args.harPath}`);
+  }
 
   const existing =
     (await readJSON<EnrichmentFile>(ENRICHMENT_PATH))?.records ?? {};

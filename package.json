@@ -18,7 +18,10 @@
     "post": "tsx src/post-bluesky.ts",
     "enrich-portal": "tsx src/enrich-portal.ts",
     "merge-portal-enrichment": "tsx src/merge-portal-enrichment.ts",
-    "scrape": "pnpm run fetch && pnpm run parse && pnpm run index-update && pnpm run diff && pnpm run feed && pnpm run build-site-data",
+    "enrich:weekly": "pnpm run enrich-portal -- --bootstrap playwright --max-pages 10 --delay-ms 2000 && pnpm run merge-portal-enrichment",
+    "scrape:collect": "pnpm run fetch && pnpm run parse && pnpm run index-update && pnpm run diff",
+    "scrape:render": "pnpm run feed && pnpm run build-site-data",
+    "scrape": "pnpm run scrape:collect && pnpm run scrape:render",
     "scrape:full": "pnpm run scrape && pnpm run post",
     "site:dev": "cd site && pnpm dev",
     "site:build": "cd site && pnpm build",
@@ -29,6 +32,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.0",
+    "playwright": "^1.60.0",
     "tsx": "^4.7.0",
     "typescript": "^5.4.0"
   },

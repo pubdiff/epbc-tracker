@@ -1,0 +1,68 @@
+name: enrich
+
+# Portal enrichment: pulls proponent + location + valid date for the most
+# recent referrals from the EPBC Public Portal and merges them into the index.
+#
+# Decoupled from the core `scrape` workflow on purpose - the ArcGIS tracker is
+# the reliable backbone; portal enrichment is best-effort and additive. If the
+# portal blocks GitHub's IPs, redesigns, or Playwright breaks, the core tracker
+# is unaffected.
+#
+# Currently workflow_dispatch-only. Promote to a schedule (offset from scrape's
+# Wednesday cron) once a manual run confirms the portal serves GitHub-hosted
+# runners. See B1-PLAN.md.
+
+on:
+  workflow_dispatch:
+    inputs:
+      max-pages:
+        description: "How many 50-record pages to refresh (newest first)"
+        type: string
+        default: "10"
+
+permissions:
+  contents: write
+
+concurrency:
+  # Share the scrape group so enrich and scrape never commit concurrently.
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: install playwright firefox
+        run: pnpm exec playwright install --with-deps firefox
+
+      - name: enrich from portal + merge
+        run: |
+          pnpm run enrich-portal -- --bootstrap playwright --max-pages "${{ inputs.max-pages }}" --delay-ms 2000
+          pnpm run merge-portal-enrichment
+
+      - name: rebuild site data
+        run: pnpm run build-site-data
+
+      - name: commit + push
+        run: |
+          git config user.name "pubdiff-bot"
+          git config user.email "bot@pubdiff.com"
+          git add data/_index.json data/_portal-enrichment.json site/public/data/referrals.json
+          if ! git diff --staged --quiet; then
+            git commit -m "enrich: $(date -u +%Y-%m-%d) portal refresh"
+            git push || echo "nothing to push"
+          else
+            echo "no enrichment changes"
+          fi
