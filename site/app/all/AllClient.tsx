@@ -41,7 +41,7 @@ type LoadState =
   | { status: "error"; message: string }
   | { status: "ready"; data: ReferralsFile };
 
-const ROW_HEIGHT = 56;
+const ROW_HEIGHT = 64;
 
 export function AllClient() {
   const [load, setLoad] = useState<LoadState>({ status: "loading" });
@@ -72,9 +72,11 @@ export function AllClient() {
     const csv = toCsv(filtered, [
       { key: "ref", header: "reference_number" },
       { key: "name", header: "name" },
+      { key: "prop", header: "proponent" },
       { key: "juris", header: "jurisdiction" },
       { key: "cat", header: "category" },
       { key: "yr", header: "year" },
+      { key: "vd", header: "valid_date" },
       { key: "stage", header: "stage" },
       { key: "status", header: "status" },
       { key: "decided", header: "decided" },
@@ -233,7 +235,7 @@ function ResultsList({ items }: { items: ReferralLite[] }) {
         style={{ gridTemplateColumns: "9rem 1fr 5rem 4rem 8rem 8rem" }}
       >
         <div>Reference</div>
-        <div>Name</div>
+        <div>Name / Proponent</div>
         <div>Juris.</div>
         <div>Year</div>
         <div>Stage</div>
@@ -273,8 +275,15 @@ function ResultsList({ items }: { items: ReferralLite[] }) {
                 <div className="font-mono whitespace-nowrap overflow-hidden text-ellipsis">
                   <Link href={`/r/${refSlug(it.ref)}/`}>{it.ref}</Link>
                 </div>
-                <div className="whitespace-nowrap overflow-hidden text-ellipsis pr-2">
-                  {it.name ?? "(unnamed)"}
+                <div className="overflow-hidden pr-2">
+                  <div className="whitespace-nowrap overflow-hidden text-ellipsis">
+                    {it.name ?? "(unnamed)"}
+                  </div>
+                  {it.prop ? (
+                    <div className="whitespace-nowrap overflow-hidden text-ellipsis text-xs text-[var(--color-muted)]">
+                      {it.prop}
+                    </div>
+                  ) : null}
                 </div>
                 <div className="whitespace-nowrap">{it.juris ?? "-"}</div>
                 <div className="font-mono">{it.yr ?? "-"}</div>

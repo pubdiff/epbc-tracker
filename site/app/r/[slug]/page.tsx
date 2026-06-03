@@ -64,6 +64,26 @@ function ReferralDetail({ r }: { r: ReferralIndexed }) {
         </dl>
       </section>
 
+      {r.enrichedAt ? (
+        <section>
+          <h2 className="text-lg font-semibold mb-3">
+            Project details{" "}
+            <span className="text-xs font-normal text-[var(--color-muted)]">
+              via EPBC Public Portal
+            </span>
+          </h2>
+          <dl className="grid grid-cols-1 sm:grid-cols-2 gap-y-2 gap-x-6 text-sm">
+            <Row k="Proponent" v={r.proponent ?? null} />
+            <Row k="Valid date" v={r.validDate ?? null} />
+            <Row k="Location" v={r.location ?? null} />
+            <Row k="Status reason" v={r.statusReason ?? null} />
+            {r.portalProjectTitle && r.portalProjectTitle !== r.name ? (
+              <Row k="Portal title" v={r.portalProjectTitle} />
+            ) : null}
+          </dl>
+        </section>
+      ) : null}
+
       <section>
         <h2 className="text-lg font-semibold mb-3">Observed history</h2>
         {r.history.length === 0 ? (

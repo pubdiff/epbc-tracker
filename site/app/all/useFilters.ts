@@ -14,6 +14,8 @@ export type ReferralLite = {
   decided: boolean;
   first: string;
   last: string;
+  prop?: string | null;
+  vd?: string | null;
 };
 
 export type DecisionFilter = "any" | "decided" | "pending";
@@ -142,7 +144,8 @@ export function applyFilters(items: ReferralLite[], filters: Filters): ReferralL
     if (hasQ) {
       const inName = it.name ? it.name.toLowerCase().includes(q) : false;
       const inRef = it.ref.toLowerCase().includes(q);
-      if (!inName && !inRef) return false;
+      const inProp = it.prop ? it.prop.toLowerCase().includes(q) : false;
+      if (!inName && !inRef && !inProp) return false;
     }
     return true;
   });

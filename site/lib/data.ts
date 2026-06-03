@@ -36,6 +36,14 @@ export interface ReferralIndexed {
   firstSeen: string;
   lastSeen: string;
   history: ReferralHistoryEntry[];
+  // Portal-derived enrichment (optional).
+  proponent?: string | null;
+  location?: string | null;
+  portalProjectTitle?: string | null;
+  validDate?: string | null;
+  statusReason?: string | null;
+  incidentId?: string | null;
+  enrichedAt?: string | null;
 }
 
 export type ReferralIndex = Record<string, ReferralIndexed>;

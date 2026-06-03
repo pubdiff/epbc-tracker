@@ -13,6 +13,10 @@ dist/
 # We keep the normalised snapshots committed; raw is for debugging only.
 data/raw/*.json
 
+# Transient resume state for the portal enrichment crawl. Recoverable; the
+# merged result lands in _index.json which IS committed.
+data/_enrichment-progress.json
+
 # Internal planning - kept local, not pushed
 ROADMAP.md
 NOTES.md

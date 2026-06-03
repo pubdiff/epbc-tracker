@@ -23,6 +23,8 @@ export interface ReferralLite {
   decided: boolean;     // !!decision (true once a decision is recorded)
   first: string;        // firstSeen (YYYY-MM-DD)
   last: string;         // lastSeen (YYYY-MM-DD)
+  prop?: string | null; // proponent (portal-enriched)
+  vd?: string | null;   // validDate (portal-enriched)
 }
 
 export interface ReferralsLiteFile {
@@ -63,6 +65,8 @@ async function main(): Promise<void> {
     decided: !!r.decision,
     first: r.firstSeen,
     last: r.lastSeen,
+    ...(r.proponent ? { prop: r.proponent } : {}),
+    ...(r.validDate ? { vd: r.validDate } : {}),
   }));
 
   // sort by last observed desc so the file's natural order is useful

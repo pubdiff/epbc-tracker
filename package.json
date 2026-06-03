@@ -16,6 +16,8 @@
     "feed": "tsx src/feed.ts",
     "build-site-data": "tsx src/build-site-data.ts",
     "post": "tsx src/post-bluesky.ts",
+    "enrich-portal": "tsx src/enrich-portal.ts",
+    "merge-portal-enrichment": "tsx src/merge-portal-enrichment.ts",
     "scrape": "pnpm run fetch && pnpm run parse && pnpm run index-update && pnpm run diff && pnpm run feed && pnpm run build-site-data",
     "scrape:full": "pnpm run scrape && pnpm run post",
     "site:dev": "cd site && pnpm dev",

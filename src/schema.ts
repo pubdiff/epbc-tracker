@@ -1,9 +1,10 @@
 // Schema for EPBC referral records.
 //
-// Field availability is constrained by what the DCCEEW EPBC_Referrals MapServer
-// publishes. The ArcGIS layer does NOT include proponent name or exact submitted/
-// decision dates - only the year. Those fields require scraping the EPBC Act
-// Public Portal per-referral and are parked as v1.1 work.
+// ArcGIS is the primary data layer (`Referral` fields). The EPBC Public Portal
+// adds proponent + location + a single "valid date" via listing-level scrape;
+// these land on `ReferralIndexed` as portal-prefixed fields with an
+// `enrichedAt` timestamp. Detail pages (longer description, exact decision
+// dates, conditions) require login and are out of scope for v1.
 
 export interface RawArcGisAttributes {
   OBJECTID: number;
@@ -60,6 +61,18 @@ export interface ReferralIndexed extends Referral {
   firstSeen: string;             // ISO date (YYYY-MM-DD)
   lastSeen: string;              // ISO date (YYYY-MM-DD)
   history: ReferralHistoryEntry[];
+
+  // Portal-derived enrichment (listing-level only, optional).
+  // Present when we've successfully matched this referral to the EPBC Public
+  // Portal entity-grid response. Absent for records older than what the portal
+  // exposes (5000-record cap, ~2009-onwards) or runs that haven't enriched yet.
+  proponent?: string | null;       // mara_proposerapprovalholdername
+  location?: string | null;        // mara_location, free-text
+  portalProjectTitle?: string | null;
+  validDate?: string | null;       // mara_validdate, ISO date
+  statusReason?: string | null;    // statuscode, granular
+  incidentId?: string | null;      // CRM GUID for re-fetch
+  enrichedAt?: string | null;      // ISO date of last portal enrichment
 }
 
 export type ReferralIndex = Record<string, ReferralIndexed>;
