@@ -44,6 +44,25 @@ export interface ReferralIndexed {
   statusReason?: string | null;
   incidentId?: string | null;
   enrichedAt?: string | null;
+  // AEC political-donation enrichment (B4).
+  donations?: DonationMatch | null;
+  donationsEnrichedAt?: string | null;
+}
+
+export interface DonationRecord {
+  financialYear: string;
+  recipient: string;
+  date: string | null;
+  value: number;
+}
+
+export interface DonationMatch {
+  donorName: string;
+  matchType: "exact" | "alias";
+  total: number;
+  count: number;
+  recipients: string[];
+  records: DonationRecord[];
 }
 
 export type ReferralIndex = Record<string, ReferralIndexed>;

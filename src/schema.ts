@@ -73,6 +73,30 @@ export interface ReferralIndexed extends Referral {
   statusReason?: string | null;    // statuscode, granular
   incidentId?: string | null;      // CRM GUID for re-fetch
   enrichedAt?: string | null;      // ISO date of last portal enrichment
+
+  // AEC political-donation enrichment (B4). Present when this referral's
+  // proponent exact-normalised-matches a disclosed donor in the AEC
+  // Transparency Register. See src/donations.ts + notes/B4-SPIKE.md.
+  donations?: DonationMatch | null;
+  donationsEnrichedAt?: string | null; // ISO date of last donations enrichment
+}
+
+// Mirrors src/donations.ts (kept here so schema is the single import for the
+// indexed record shape).
+export interface DonationRecord {
+  financialYear: string;
+  recipient: string;
+  date: string | null;
+  value: number;
+}
+
+export interface DonationMatch {
+  donorName: string;
+  matchType: "exact" | "alias";
+  total: number;
+  count: number;
+  recipients: string[];
+  records: DonationRecord[];
 }
 
 export type ReferralIndex = Record<string, ReferralIndexed>;

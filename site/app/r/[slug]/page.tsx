@@ -1,4 +1,4 @@
-import { loadIndex, refSlug, type ReferralIndexed } from "@/lib/data";
+import { loadIndex, refSlug, type DonationMatch, type ReferralIndexed } from "@/lib/data";
 import { notFound } from "next/navigation";
 
 // Module-scoped slug -> referral map. Built once per build, shared across the
@@ -84,6 +84,8 @@ function ReferralDetail({ r }: { r: ReferralIndexed }) {
         </section>
       ) : null}
 
+      {r.donations ? <DonationsSection proponent={r.proponent ?? null} d={r.donations} /> : null}
+
       <RelatedSearches r={r} />
 
       <section>
@@ -134,6 +136,78 @@ function Row({ k, v }: { k: string; v: string | null }) {
       <dt className="text-[var(--color-muted)]">{k}</dt>
       <dd>{v ?? "-"}</dd>
     </>
+  );
+}
+
+const AUD = new Intl.NumberFormat("en-AU", {
+  style: "currency",
+  currency: "AUD",
+  maximumFractionDigits: 0,
+});
+
+// Disclosed political donations by this referral's proponent, joined from the
+// AEC Transparency Register by normalised entity name. We surface the data
+// without editorialising; every figure links back to the AEC source.
+function DonationsSection({ proponent, d }: { proponent: string | null; d: DonationMatch }) {
+  return (
+    <section>
+      <h2 className="text-lg font-semibold mb-3">
+        Disclosed political donations{" "}
+        <span className="text-xs font-normal text-[var(--color-muted)]">
+          via AEC Transparency Register
+        </span>
+      </h2>
+      <p className="text-sm text-[var(--color-muted)] mb-3">
+        This proponent
+        {proponent && proponent.trim().toUpperCase() !== d.donorName.toUpperCase() ? (
+          <>
+            {" "}({proponent}){" "}matches the disclosed donor{" "}
+            <span className="text-[var(--color-ink)]">{d.donorName}</span>
+          </>
+        ) : (
+          <>
+            {" "}is recorded as the disclosed donor{" "}
+            <span className="text-[var(--color-ink)]">{d.donorName}</span>
+          </>
+        )}
+        . Matched by {d.matchType === "exact" ? "exact normalised name" : "a curated name alias"}; verify
+        identity before relying on it. The AEC discloses only donations above an annually indexed threshold
+        (&gt;$16,900 for 2024-25), so smaller or more recent gifts may not appear.
+      </p>
+      <p className="text-sm mb-3">
+        <span className="font-semibold">{AUD.format(d.total)}</span> across {d.count}{" "}
+        disclosed {d.count === 1 ? "donation" : "donations"} to{" "}
+        {d.recipients.length} {d.recipients.length === 1 ? "recipient" : "recipients"}.
+      </p>
+      <div className="overflow-x-auto">
+        <table className="text-sm w-full border-collapse">
+          <thead>
+            <tr className="text-left text-[var(--color-muted)] border-b border-[var(--color-rule)]">
+              <th className="py-1 pr-4 font-normal">Financial year</th>
+              <th className="py-1 pr-4 font-normal">Recipient</th>
+              <th className="py-1 font-normal text-right">Value</th>
+            </tr>
+          </thead>
+          <tbody>
+            {d.records.map((rec, i) => (
+              <tr key={`${rec.financialYear}-${rec.recipient}-${i}`} className="border-b border-[var(--color-rule)]">
+                <td className="py-1 pr-4 font-mono whitespace-nowrap">{rec.financialYear}</td>
+                <td className="py-1 pr-4">{rec.recipient}</td>
+                <td className="py-1 text-right whitespace-nowrap">{AUD.format(rec.value)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p className="text-xs text-[var(--color-muted)] mt-3">
+        Source:{" "}
+        <a href="https://transparency.aec.gov.au/" target="_blank" rel="noopener noreferrer">
+          AEC Transparency Register
+        </a>{" "}
+        (annual returns). Donations are filed under the donor&apos;s own name; a project-specific
+        subsidiary may donate under its parent entity, and vice versa.
+      </p>
+    </section>
   );
 }
 
