@@ -84,6 +84,8 @@ function ReferralDetail({ r }: { r: ReferralIndexed }) {
         </section>
       ) : null}
 
+      <RelatedSearches r={r} />
+
       <section>
         <h2 className="text-lg font-semibold mb-3">Observed history</h2>
         {r.history.length === 0 ? (
@@ -132,5 +134,69 @@ function Row({ k, v }: { k: string; v: string | null }) {
       <dt className="text-[var(--color-muted)]">{k}</dt>
       <dd>{v ?? "-"}</dd>
     </>
+  );
+}
+
+interface SearchLink {
+  label: string;
+  url: string;
+}
+
+function projectSearchLinks(name: string): SearchLink[] {
+  const phrase = `"${name}"`;
+  return [
+    { label: "Google", url: `https://www.google.com/search?q=${encodeURIComponent(phrase)}` },
+    { label: "Google News", url: `https://news.google.com/search?q=${encodeURIComponent(phrase)}` },
+    { label: "AustLII", url: `https://www.austlii.edu.au/cgi-bin/sinosrch.cgi?method=auto&query=${encodeURIComponent(name)}` },
+  ];
+}
+
+function proponentSearchLinks(proponent: string): SearchLink[] {
+  const phrase = `"${proponent}"`;
+  return [
+    { label: "Google", url: `https://www.google.com/search?q=${encodeURIComponent(phrase)}` },
+    { label: "Google News", url: `https://news.google.com/search?q=${encodeURIComponent(phrase)}` },
+    { label: "ABN Lookup", url: `https://abr.business.gov.au/Search/ResultsActive?SearchText=${encodeURIComponent(proponent)}` },
+    { label: "AustLII", url: `https://www.austlii.edu.au/cgi-bin/sinosrch.cgi?method=auto&query=${encodeURIComponent(proponent)}` },
+  ];
+}
+
+function RelatedSearches({ r }: { r: ReferralIndexed }) {
+  const name = r.name?.trim() || null;
+  const proponent = r.proponent?.trim() || null;
+  if (!name && !proponent) return null;
+
+  return (
+    <section>
+      <h2 className="text-lg font-semibold mb-3">Related searches</h2>
+      <p className="text-sm text-[var(--color-muted)] mb-4">
+        Pre-formed queries against external sources for further research.
+      </p>
+      <div className="space-y-4 text-sm">
+        {name ? <SearchGroup label="Project" value={name} links={projectSearchLinks(name)} /> : null}
+        {proponent ? (
+          <SearchGroup label="Proponent" value={proponent} links={proponentSearchLinks(proponent)} />
+        ) : null}
+      </div>
+    </section>
+  );
+}
+
+function SearchGroup({ label, value, links }: { label: string; value: string; links: SearchLink[] }) {
+  return (
+    <div>
+      <div className="text-[var(--color-muted)] mb-1">
+        {label}: <span className="text-[var(--color-ink)]">{value}</span>
+      </div>
+      <ul className="flex flex-wrap gap-x-4 gap-y-1">
+        {links.map((l) => (
+          <li key={l.url}>
+            <a href={l.url} target="_blank" rel="noopener noreferrer">
+              {l.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
   );
 }
