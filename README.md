@@ -12,11 +12,13 @@ The Department of Climate Change, Energy, the Environment and Water (DCCEEW) pub
 ## Architecture
 
 ```
-.github/workflows/   - weekly cron + deploy
-src/                 - scraper pipeline (fetch -> parse -> index -> diff -> feed -> post)
+.github/workflows/   - scrape (weekly), enrich (weekly portal), donations (annual AEC), deploy, test
+src/                 - scraper pipeline (fetch -> parse -> check-health -> index -> diff -> feed -> post)
 data/                - JSON snapshots, diffs and cumulative index (git-tracked)
 site/                - Next.js static-export site
 ```
+
+Beyond the weekly referral scrape, two decoupled enrichments add depth: **portal enrichment** (proponent + location, weekly) and an **AEC political-donations cross-reference** (annual) that surfaces a proponent's disclosed political donations on its referral page. A **health guardrail** aborts a run rather than publish a degraded snapshot, and unit tests cover the data-shaping logic. See [METHODOLOGY.md](./METHODOLOGY.md).
 
 The scraping pattern follows the [pubdiff template](https://github.com/pubdiff): GitHub Actions runs the pipeline weekly, commits the new data back to the repo, and triggers a site rebuild. Git history is the snapshot history. Diffs come for free.
 
@@ -32,11 +34,17 @@ pnpm run feed          # generate feed.xml / feed.json
 BSKY_DRY_RUN=1 pnpm run post   # preview Bluesky posts without sending
 
 # or the whole chain:
-pnpm run scrape        # everything except post
+pnpm run scrape        # everything except post (includes check-health guardrail)
 pnpm run scrape:full   # everything including post
 
-# typecheck
+# enrichments (decoupled)
+pnpm run enrich:weekly       # portal: proponent + location
+pnpm run enrich:donations    # AEC political donations -> _index.json -> site data
+pnpm run donation-alias-candidates -- --zip /path/aec.zip  # review subsidiary/parent candidates
+
+# typecheck + tests
 pnpm run typecheck
+pnpm test
 
 # site
 pnpm run site:dev      # local dev server

@@ -57,6 +57,13 @@ export default function AboutPage() {
               data.gov.au Referrals Spatial Database
             </a>
           </li>
+          <li>
+            Political donations:{" "}
+            <a href="https://transparency.aec.gov.au/">
+              AEC Transparency Register
+            </a>{" "}
+            (annual financial-disclosure returns)
+          </li>
         </ul>
       </section>
 
@@ -72,8 +79,21 @@ export default function AboutPage() {
             weekly snapshot.
           </li>
           <li>
+            A health check aborts the run rather than publish a snapshot that
+            is empty or has dropped sharply, so a broken fetch can&apos;t
+            masquerade as &quot;everything changed&quot;.
+          </li>
+          <li>
             Each snapshot is diffed against the prior snapshot. New referrals,
             status changes, stage transitions and decisions are surfaced.
+          </li>
+          <li>
+            A separate enrichment adds the <strong>proponent</strong> and
+            location from the EPBC Act Public Portal listing, and
+            cross-references each proponent against disclosed{" "}
+            <strong>political donations</strong> in the AEC Transparency
+            Register (matched by normalised name; every figure links to the
+            AEC source).
           </li>
           <li>
             Material changes are posted to Bluesky and emitted as RSS / JSON
@@ -90,10 +110,19 @@ export default function AboutPage() {
         <h2 className="text-lg font-semibold">Known limitations</h2>
         <ul className="list-disc pl-5 space-y-2 text-sm">
           <li>
-            The ArcGIS layer does not expose the proponent name, the exact
-            submission date, or the decision date - only the submission year.
-            These fields require scraping the EPBC Act Public Portal per
-            referral and are not in v1.
+            The proponent comes from the EPBC Act Public Portal listing, not
+            the ArcGIS layer, so referrals older than the portal&apos;s window
+            (or not yet enriched) have no proponent. Exact submission and
+            decision dates remain login-gated and are not captured - only the
+            submission year.
+          </li>
+          <li>
+            Donation matches are by <strong>normalised name</strong>, not a
+            verified identifier (the AEC publishes no ABN), so a match is a
+            strong lead rather than proof the proponent and donor are the same
+            entity. Sub-threshold gifts (under ~$16.9k) and subsidiary/parent
+            name differences are invisible, so a missing match is not proof of
+            no donations.
           </li>
           <li>
             DCCEEW&apos;s portal URL is a generic landing page, not a
