@@ -53,7 +53,7 @@ jobs:
 
       - name: enrich from portal + merge
         run: |
-          pnpm run enrich-portal -- --bootstrap playwright --max-pages "${{ inputs.max-pages }}" --delay-ms 2000
+          pnpm run enrich-portal -- --bootstrap playwright --max-pages "${{ inputs.max-pages || '10' }}" --delay-ms 2000
           pnpm run merge-portal-enrichment
 
       - name: rebuild site data
