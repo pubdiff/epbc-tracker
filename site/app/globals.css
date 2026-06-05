@@ -11,12 +11,26 @@
   --color-accent: #1e4d2b;
 }
 
+/* Dark mode: override the design tokens for readers whose OS prefers dark.
+   var() resolves at use-site, so every text-[var(--color-*)] utility and the
+   base styles below pick these up automatically. */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-ink: #e9e7df;
+    --color-paper: #16150f;
+    --color-muted: #9c978a;
+    --color-rule: #3a362c;
+    --color-accent: #7fb98c;
+  }
+}
+
 html {
   background: var(--color-paper);
   color: var(--color-ink);
   font-family: var(--font-sans);
   font-size: 16px;
   line-height: 1.55;
+  color-scheme: light dark;
 }
 
 a {
