@@ -23,6 +23,25 @@ export async function generateStaticParams() {
 
 export const dynamicParams = false;
 
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const r = (await getSlugMap()).get(slug);
+  if (!r) return {};
+  const title = `${r.referenceNumber}${r.name ? ` - ${r.name}` : ""}`;
+  const bits = [
+    r.proponent ? `Proponent: ${r.proponent}` : null,
+    r.jurisdiction,
+    r.year != null ? String(r.year) : null,
+  ].filter(Boolean);
+  const description = `EPBC Act referral. ${bits.join(". ")}.`;
+  return {
+    title,
+    description,
+    openGraph: { title: `${title} - EPBC Tracker`, description },
+    twitter: { title: `${title} - EPBC Tracker`, description },
+  };
+}
+
 export default async function ReferralPage({
   params,
 }: {

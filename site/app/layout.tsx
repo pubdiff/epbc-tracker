@@ -1,15 +1,30 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { withBase } from "@/lib/site-config";
+import { SITE_URL, withBase } from "@/lib/site-config";
 import "./globals.css";
 
+const DESCRIPTION =
+  "Weekly diff of every EPBC Act referral. A neutral evidence tool from pubdiff.";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "EPBC Tracker - pubdiff",
     template: "%s - EPBC Tracker",
   },
-  description:
-    "Weekly diff of every EPBC Act referral. A neutral evidence tool from pubdiff.",
+  description: DESCRIPTION,
+  openGraph: {
+    type: "website",
+    siteName: "EPBC Tracker",
+    title: "EPBC Tracker - pubdiff",
+    description: DESCRIPTION,
+    locale: "en_AU",
+  },
+  twitter: {
+    card: "summary",
+    title: "EPBC Tracker - pubdiff",
+    description: DESCRIPTION,
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
