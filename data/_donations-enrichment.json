@@ -3,7 +3,7 @@
   "source": "aec-transparency-register-annual",
   "sourceUrl": "https://transparency.aec.gov.au/Download/AllAnnualData",
   "thresholdNote": "AEC discloses only donations above an annually indexed threshold (>$16,900 for 2024-25). Smaller gifts are not itemised. Annual returns publish each February, so the most recent financial year lags ~1 year.",
-  "count": 153,
+  "count": 159,
   "records": {
     "WOODSIDE ENERGY": {
       "donorName": "Woodside Energy Group Ltd",
@@ -17757,6 +17757,80 @@
         }
       ]
     },
+    "KIMBERLEY DIAMOND": {
+      "donorName": "Kimberley Diamond Company NL",
+      "matchType": "alias",
+      "total": 37050,
+      "count": 10,
+      "recipients": [
+        "Australian Labor Party (Western Australian Branch)",
+        "Australian Labor Party (Western Australian Branch) - WA",
+        "National Party of Australia (WA) Inc - WA",
+        "The Liberal Party of Western Australia Pty Ltd"
+      ],
+      "records": [
+        {
+          "financialYear": "2004-2005",
+          "recipient": "Australian Labor Party (Western Australian Branch) - WA",
+          "date": "30/09/2004",
+          "value": 3000
+        },
+        {
+          "financialYear": "2004-2005",
+          "recipient": "Australian Labor Party (Western Australian Branch) - WA",
+          "date": "30/09/2004",
+          "value": 2500
+        },
+        {
+          "financialYear": "2004-2005",
+          "recipient": "Australian Labor Party (Western Australian Branch) - WA",
+          "date": "11/01/2005",
+          "value": 5000
+        },
+        {
+          "financialYear": "2004-2005",
+          "recipient": "Australian Labor Party (Western Australian Branch) - WA",
+          "date": "25/01/2005",
+          "value": 2000
+        },
+        {
+          "financialYear": "2004-2005",
+          "recipient": "Australian Labor Party (Western Australian Branch)",
+          "date": null,
+          "value": 10500
+        },
+        {
+          "financialYear": "2000-2001",
+          "recipient": "Australian Labor Party (Western Australian Branch) - WA",
+          "date": "16/01/2001",
+          "value": 5000
+        },
+        {
+          "financialYear": "2000-2001",
+          "recipient": "Australian Labor Party (Western Australian Branch) - WA",
+          "date": "16/01/2001",
+          "value": 550
+        },
+        {
+          "financialYear": "2000-2001",
+          "recipient": "The Liberal Party of Western Australia Pty Ltd",
+          "date": "18/01/2001",
+          "value": 2500
+        },
+        {
+          "financialYear": "2000-2001",
+          "recipient": "National Party of Australia (WA) Inc - WA",
+          "date": "23/01/2001",
+          "value": 5000
+        },
+        {
+          "financialYear": "2000-2001",
+          "recipient": "Australian Labor Party (Western Australian Branch) - WA",
+          "date": "08/05/2001",
+          "value": 1000
+        }
+      ]
+    },
     "FORTESCUE METALS": {
       "donorName": "Fortescue Metals Group",
       "matchType": "exact",
@@ -20770,6 +20844,36 @@
           "recipient": "National Party of Australia (Queensland)",
           "date": null,
           "value": 3000
+        }
+      ]
+    },
+    "XIANG RONG INVESTMENTS": {
+      "donorName": "Xiang Rong (Australia) Investment Group Pty Ltd",
+      "matchType": "alias",
+      "total": 115000,
+      "count": 3,
+      "recipients": [
+        "Australian Labor Party",
+        "The Free Enterprise Foundation"
+      ],
+      "records": [
+        {
+          "financialYear": "2010-2011",
+          "recipient": "Australian Labor Party",
+          "date": "02/08/2010",
+          "value": 75000
+        },
+        {
+          "financialYear": "2010-2011",
+          "recipient": "The Free Enterprise Foundation",
+          "date": "22/10/2010",
+          "value": 20000
+        },
+        {
+          "financialYear": "2010-2011",
+          "recipient": "The Free Enterprise Foundation",
+          "date": null,
+          "value": 20000
         }
       ]
     },
@@ -31026,6 +31130,29 @@
         }
       ]
     },
+    "PACIFIC HYDRO DEVELOPMENTS": {
+      "donorName": "Pacific Hydro",
+      "matchType": "alias",
+      "total": 30000,
+      "count": 2,
+      "recipients": [
+        "Australian Greens, Tasmanian Branch"
+      ],
+      "records": [
+        {
+          "financialYear": "2013-14",
+          "recipient": "Australian Greens, Tasmanian Branch",
+          "date": "16/07/2013",
+          "value": 15000
+        },
+        {
+          "financialYear": "2013-14",
+          "recipient": "Australian Greens, Tasmanian Branch",
+          "date": null,
+          "value": 15000
+        }
+      ]
+    },
     "BGC": {
       "donorName": "BGC (Australia) Pty Ltd",
       "matchType": "exact",
@@ -31642,6 +31769,96 @@
         }
       ]
     },
+    "WESTERN AREAS": {
+      "donorName": "Western Areas NL",
+      "matchType": "alias",
+      "total": 1010000,
+      "count": 10,
+      "recipients": [
+        "Liberal Party (W.A. Division) Inc",
+        "Liberal Party (W.A. Division) Inc.",
+        "Liberal Party of Australia"
+      ],
+      "records": [
+        {
+          "financialYear": "2012-13",
+          "recipient": "Liberal Party (W.A. Division) Inc.",
+          "date": "21/02/2013",
+          "value": 20000
+        },
+        {
+          "financialYear": "2012-13",
+          "recipient": "Liberal Party (W.A. Division) Inc",
+          "date": null,
+          "value": 20000
+        },
+        {
+          "financialYear": "2010-2011",
+          "recipient": "Liberal Party (W.A. Division) Inc.",
+          "date": "02/07/2010",
+          "value": 20000
+        },
+        {
+          "financialYear": "2010-2011",
+          "recipient": "Liberal Party of Australia",
+          "date": "28/07/2010",
+          "value": 25000
+        },
+        {
+          "financialYear": "2010-2011",
+          "recipient": "Liberal Party of Australia",
+          "date": "13/08/2010",
+          "value": 50000
+        },
+        {
+          "financialYear": "2010-2011",
+          "recipient": "Liberal Party (W.A. Division) Inc",
+          "date": null,
+          "value": 25000
+        },
+        {
+          "financialYear": "2010-2011",
+          "recipient": "Liberal Party of Australia",
+          "date": null,
+          "value": 50000
+        },
+        {
+          "financialYear": "2009-2010",
+          "recipient": "Liberal Party (W.A. Division) Inc.",
+          "date": "15/06/2010",
+          "value": 400000
+        },
+        {
+          "financialYear": "2009-2010",
+          "recipient": "Liberal Party (W.A. Division) Inc",
+          "date": null,
+          "value": 300000
+        },
+        {
+          "financialYear": "2009-2010",
+          "recipient": "Liberal Party (W.A. Division) Inc",
+          "date": null,
+          "value": 100000
+        }
+      ]
+    },
+    "BOWEN PIPELINE": {
+      "donorName": "Bowen Pipeline Company ATF Bowen Pipeline Unit Trust",
+      "matchType": "alias",
+      "total": 2500,
+      "count": 1,
+      "recipients": [
+        "Australian Labor Party (State of Queensland)"
+      ],
+      "records": [
+        {
+          "financialYear": "2020-21",
+          "recipient": "Australian Labor Party (State of Queensland)",
+          "date": null,
+          "value": 2500
+        }
+      ]
+    },
     "VOCUS": {
       "donorName": "Vocus Group Limited",
       "matchType": "exact",
@@ -31891,6 +32108,129 @@
           "recipient": "Liberal Party of Australia",
           "date": "31/12/2013",
           "value": 4000
+        }
+      ]
+    },
+    "NORTHERN STAR": {
+      "donorName": "Northern Star Resources Limited",
+      "matchType": "alias",
+      "total": 205500,
+      "count": 18,
+      "recipients": [
+        "Australian Labor Party (Western Australian Branch)",
+        "Liberal Party (W.A. Division) Inc",
+        "Liberal Party (W.A. Division) Inc.",
+        "Liberal Party of Australia",
+        "National Party of Australia (WA) Inc"
+      ],
+      "records": [
+        {
+          "financialYear": "2020-21",
+          "recipient": "Australian Labor Party (Western Australian Branch)",
+          "date": "24/07/2020",
+          "value": 6000
+        },
+        {
+          "financialYear": "2020-21",
+          "recipient": "Liberal Party of Australia",
+          "date": "20/10/2020",
+          "value": 10000
+        },
+        {
+          "financialYear": "2020-21",
+          "recipient": "National Party of Australia (WA) Inc",
+          "date": "21/10/2020",
+          "value": 20000
+        },
+        {
+          "financialYear": "2020-21",
+          "recipient": "Australian Labor Party (Western Australian Branch)",
+          "date": "22/10/2020",
+          "value": 20000
+        },
+        {
+          "financialYear": "2020-21",
+          "recipient": "Liberal Party (W.A. Division) Inc",
+          "date": "02/11/2020",
+          "value": 20000
+        },
+        {
+          "financialYear": "2020-21",
+          "recipient": "National Party of Australia (WA) Inc",
+          "date": "25/02/2021",
+          "value": 7500
+        },
+        {
+          "financialYear": "2020-21",
+          "recipient": "Australian Labor Party (Western Australian Branch)",
+          "date": "26/02/2021",
+          "value": 1500
+        },
+        {
+          "financialYear": "2020-21",
+          "recipient": "Australian Labor Party (Western Australian Branch)",
+          "date": "28/02/2021",
+          "value": 2500
+        },
+        {
+          "financialYear": "2020-21",
+          "recipient": "Liberal Party (W.A. Division) Inc",
+          "date": "28/02/2021",
+          "value": 2000
+        },
+        {
+          "financialYear": "2020-21",
+          "recipient": "Liberal Party (W.A. Division) Inc",
+          "date": "28/02/2021",
+          "value": 1000
+        },
+        {
+          "financialYear": "2020-21",
+          "recipient": "Liberal Party of Australia",
+          "date": "16/04/2021",
+          "value": 10000
+        },
+        {
+          "financialYear": "2020-21",
+          "recipient": "Australian Labor Party (Western Australian Branch)",
+          "date": "14/06/2021",
+          "value": 5000
+        },
+        {
+          "financialYear": "2013-14",
+          "recipient": "Liberal Party (W.A. Division) Inc.",
+          "date": "23/08/2013",
+          "value": 20000
+        },
+        {
+          "financialYear": "2013-14",
+          "recipient": "Liberal Party (W.A. Division) Inc",
+          "date": null,
+          "value": 20000
+        },
+        {
+          "financialYear": "2012-13",
+          "recipient": "Liberal Party (W.A. Division) Inc.",
+          "date": "28/11/2012",
+          "value": 10000
+        },
+        {
+          "financialYear": "2012-13",
+          "recipient": "Liberal Party (W.A. Division) Inc.",
+          "date": "18/12/2012",
+          "value": 20000
+        },
+        {
+          "financialYear": "2012-13",
+          "recipient": "National Party of Australia (WA) Inc",
+          "date": "28/02/2013",
+          "value": 10000
+        },
+        {
+          "financialYear": "2012-13",
+          "recipient": "Liberal Party (W.A. Division) Inc",
+          "date": null,
+          "value": 20000
         }
       ]
     },

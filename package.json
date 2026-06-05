@@ -20,6 +20,7 @@
     "merge-portal-enrichment": "tsx src/merge-portal-enrichment.ts",
     "enrich-donations": "tsx src/enrich-donations.ts",
     "merge-donations": "tsx src/merge-donations.ts",
+    "donation-alias-candidates": "tsx src/donation-alias-candidates.ts",
     "enrich:weekly": "pnpm run enrich-portal -- --bootstrap playwright --max-pages 10 --delay-ms 2000 && pnpm run merge-portal-enrichment",
     "enrich:donations": "pnpm run enrich-donations && pnpm run merge-donations && pnpm run build-site-data",
     "scrape:collect": "pnpm run fetch && pnpm run parse && pnpm run index-update && pnpm run diff",

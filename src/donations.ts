@@ -59,10 +59,22 @@ export function normaliseEntityName(name: string): string {
 
 // Hand-curated subsidiary/variant -> canonical donor aliases. Keyed by the
 // NORMALISED proponent name, value is the NORMALISED donor name to join on.
-// Seeded empty for Tier 1 (exact-normalised is already high-recall because the
-// noise stripper collapses "X Energy (Victoria) Pty Ltd" and "X Energy Group
-// Ltd" to the same key). Add entries here only when manually verified.
-export const DONOR_ALIASES: Record<string, string> = {};
+// Exact-normalised already collapses most variants (the noise stripper maps
+// "X Energy (Victoria) Pty Ltd" and "X Energy Group Ltd" to the same key);
+// this table only covers cases the stripper can't bridge - subsidiary->parent
+// where the project entity donates under its parent's name, or a suffix the
+// stripper keeps (NL). Generate candidates with `donation-alias-candidates`,
+// then add ONLY manually verified same-entity / clear-parent pairs here -
+// auto-fuzzy is unsafe (it produces false positives like "Western Power
+// Corporation" ~ "Western Mining Corporation"). Each entry verified 2026-06-05.
+export const DONOR_ALIASES: Record<string, string> = {
+  "WESTERN AREAS": "WESTERN AREAS NL", // Western Areas Limited / N.L (nickel miner)
+  "NORTHERN STAR": "NORTHERN STAR RESOURCES", // Northern Star (Carosue Dam / Pilbara) -> parent
+  "PACIFIC HYDRO DEVELOPMENTS": "PACIFIC HYDRO",
+  "KIMBERLEY DIAMOND": "KIMBERLEY DIAMOND NL",
+  "XIANG RONG INVESTMENTS": "XIANG RONG INVESTMENT",
+  "BOWEN PIPELINE": "BOWEN PIPELINE ATF BOWEN PIPELINE UNIT TRUST",
+};
 
 // Government / council proponents are never political donors; skip them so a
 // coincidental name collision can't produce a false "donation" claim.
