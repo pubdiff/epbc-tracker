@@ -1,0 +1,54 @@
+name: donations
+
+# AEC political-donation enrichment (roadmap B4). Downloads the AEC Transparency
+# Register annual data, joins it to proponents in _index.json by normalised name
+# (+ curated aliases), and rebuilds the site data.
+#
+# Decoupled from scrape/enrich on purpose: the AEC annual returns publish once a
+# year (first working day of February), so this runs mid-February and on demand.
+# If the AEC download or join fails, the core tracker is unaffected.
+
+on:
+  schedule:
+    # 14 February 20:00 UTC - a couple of weeks after the AEC's early-Feb release.
+    - cron: "0 20 14 2 *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  # Share the scrape group so this never commits concurrently with scrape/enrich.
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  donations:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: enrich donations + merge + rebuild site data
+        run: pnpm run enrich:donations
+
+      - name: commit + push
+        run: |
+          git config user.name "pubdiff-bot"
+          git config user.email "bot@pubdiff.com"
+          git add data/_donations-enrichment.json data/_index.json site/public/data/referrals.json
+          if ! git diff --staged --quiet; then
+            git commit -m "donations: $(date -u +%Y-%m-%d) AEC refresh"
+            git push || echo "nothing to push"
+          else
+            echo "no donation changes"
+          fi
