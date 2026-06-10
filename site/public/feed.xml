@@ -6,8 +6,113 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed.xml" rel="self" type="application/rss+xml" />
     <description>Weekly diff of every EPBC Act referral. Tracks new submissions, decisions, and status changes. A pubdiff tracker.</description>
     <language>en-au</language>
-    <lastBuildDate>Wed, 03 Jun 2026 22:30:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 22:10:53 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
+    <item>
+      <title>Approval Decision made: 2020/8647</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2020-8647</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2020/8647:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2020/8647 - status: &quot;Assessment Method Determined&quot; → &quot;Approval Decision made&quot;; stage: &quot;Assessment Approach&quot; → &quot;Post-Approval&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Project Lapsed: 2020/8802</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2020-8802</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2020/8802:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2020/8802 - status: &quot;Further Information Requested&quot; → &quot;Project Lapsed&quot;; stage: &quot;Further Information Request&quot; → &quot;Completed&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Under Assessment: 2020/8805</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2020-8805</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2020/8805:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2020/8805 - status: &quot;Further Information Requested&quot; → &quot;Under Assessment&quot;; stage: &quot;Further Information Request&quot; → &quot;Assessment&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Approval Decision made: 2021/8884</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2021-8884</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2021/8884:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2021/8884 - status: &quot;Assessment Method Determined&quot; → &quot;Approval Decision made&quot;; stage: &quot;Assessment Approach&quot; → &quot;Post-Approval&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Referral Decision Made: 2021/8900</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2021-8900</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2021/8900:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2021/8900 - status: &quot;S76 - Awaiting Information&quot; → &quot;Referral Decision Made&quot;; stage: &quot;Referral Publication&quot; → &quot;Completed&quot;; decision: &quot;Referral Decision&quot; → &quot;(none)&quot;; determination: &quot;RD&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Assessment Approach Determined: 2021/8915</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2021-8915</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2021/8915:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2021/8915 - status: &quot;Assessment Method Determined&quot; → &quot;Assessment Approach Determined&quot;; stage: &quot;Assessment Approach&quot; → &quot;Assessment&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Project Lapsed: 2021/8976</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2021-8976</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2021/8976:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2021/8976 - status: &quot;Further Information Requested&quot; → &quot;Project Lapsed&quot;; stage: &quot;Further Information Request&quot; → &quot;Completed&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Referral Decision Made: 2021/9022</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2021-9022</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2021/9022:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2021/9022 - status: &quot;S76 - Awaiting Information&quot; → &quot;Referral Decision Made&quot;; stage: &quot;Referral Publication&quot; → &quot;Completed&quot;; decision: &quot;Referral Decision&quot; → &quot;(none)&quot;; determination: &quot;RD&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Withdrawn: 2021/9029</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2021-9029</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2021/9029:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2021/9029 - status: &quot;S89 - Awaiting Information&quot; → &quot;Withdrawn&quot;; stage: &quot;Referral Decision&quot; → &quot;Completed&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Project Lapsed: 2021/9054</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2021-9054</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2021/9054:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2021/9054 - status: &quot;Further Information Requested&quot; → &quot;Project Lapsed&quot;; stage: &quot;Further Information Request&quot; → &quot;Completed&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Withdrawn: 2021/9075</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2021-9075</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2021/9075:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2021/9075 - status: &quot;Assessment Method Determined&quot; → &quot;Withdrawn&quot;; stage: &quot;Assessment Approach&quot; → &quot;Completed&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Completed: 2021/9080</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2021-9080</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2021/9080:2026-06-10:3</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2021/9080 - stage: &quot;Post-Approval&quot; → &quot;Completed&quot;; decision: &quot;Not Controlled Action (Particular Manner)&quot; → &quot;(none)&quot;; determination: &quot;NCA-PM&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Withdrawn: 2021/9108</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2021-9108</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2021/9108:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2021/9108 - status: &quot;Referral Published&quot; → &quot;Withdrawn&quot;; stage: &quot;Referral Publication&quot; → &quot;Completed&quot;; decision: &quot;Referral Decision&quot; → &quot;(none)&quot;; determination: &quot;RD&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Withdrawn: 2021/9131</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2021-9131</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2021/9131:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2021/9131 - status: &quot;Referral Published&quot; → &quot;Withdrawn&quot;; stage: &quot;Referral Publication&quot; → &quot;Completed&quot;; decision: &quot;Referral Decision&quot; → &quot;(none)&quot;; determination: &quot;RD&quot; → &quot;(none)&quot;</description>
+    </item>
+    <item>
+      <title>Withdrawn: 2022/9153</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2022-9153</link>
+      <guid isPermaLink="false">urn:epbc-tracker:change:2022/9153:2026-06-10:4</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>2022/9153 - status: &quot;Referral Published&quot; → &quot;Withdrawn&quot;; stage: &quot;Referral Publication&quot; → &quot;Completed&quot;; decision: &quot;Referral Decision&quot; → &quot;(none)&quot;; determination: &quot;RD&quot; → &quot;(none)&quot;</description>
+    </item>
     <item>
       <title>Controlled Action: 2020/8805</title>
       <link>https://pubdiff.github.io/epbc-tracker/r/2020-8805</link>

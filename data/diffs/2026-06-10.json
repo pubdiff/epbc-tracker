@@ -1,0 +1,239 @@
+{
+  "runId": "2026-06-10",
+  "added": [],
+  "changed": [
+    {
+      "referenceNumber": "2020/8647",
+      "from": {
+        "decision": "Controlled Action",
+        "determination": "CA",
+        "status": "Assessment Method Determined",
+        "stage": "Assessment Approach"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2020/8802",
+      "from": {
+        "decision": "Controlled Action",
+        "determination": "CA",
+        "status": "Further Information Requested",
+        "stage": "Further Information Request"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Project Lapsed",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2020/8805",
+      "from": {
+        "name": "Tasman Highway Upgrade ��� Hobart Airport to Sorell Causeway",
+        "decision": "Controlled Action",
+        "determination": "CA",
+        "status": "Further Information Requested",
+        "stage": "Further Information Request"
+      },
+      "to": {
+        "name": "Tasman Highway Upgrade – Hobart Airport to Sorell Causeway",
+        "decision": null,
+        "determination": null,
+        "status": "Under Assessment",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2021/8884",
+      "from": {
+        "decision": "Controlled Action",
+        "determination": "CA",
+        "status": "Assessment Method Determined",
+        "stage": "Assessment Approach"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2021/8900",
+      "from": {
+        "decision": "Referral Decision",
+        "determination": "RD",
+        "status": "S76 - Awaiting Information",
+        "stage": "Referral Publication"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2021/8915",
+      "from": {
+        "decision": "Controlled Action",
+        "determination": "CA",
+        "status": "Assessment Method Determined",
+        "stage": "Assessment Approach"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Assessment Approach Determined",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2021/8976",
+      "from": {
+        "decision": "Controlled Action",
+        "determination": "CA",
+        "status": "Further Information Requested",
+        "stage": "Further Information Request"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Project Lapsed",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2021/9022",
+      "from": {
+        "decision": "Referral Decision",
+        "determination": "RD",
+        "status": "S76 - Awaiting Information",
+        "stage": "Referral Publication"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2021/9029",
+      "from": {
+        "decision": "Controlled Action",
+        "determination": "CA",
+        "status": "S89 - Awaiting Information",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Withdrawn",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2021/9054",
+      "from": {
+        "decision": "Controlled Action",
+        "determination": "CA",
+        "status": "Further Information Requested",
+        "stage": "Further Information Request"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Project Lapsed",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2021/9075",
+      "from": {
+        "decision": "Controlled Action",
+        "determination": "CA",
+        "status": "Assessment Method Determined",
+        "stage": "Assessment Approach"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Withdrawn",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2021/9080",
+      "from": {
+        "decision": "Not Controlled Action (Particular Manner)",
+        "determination": "NCA-PM",
+        "stage": "Post-Approval"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2021/9108",
+      "from": {
+        "decision": "Referral Decision",
+        "determination": "RD",
+        "status": "Referral Published",
+        "stage": "Referral Publication"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Withdrawn",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2021/9131",
+      "from": {
+        "decision": "Referral Decision",
+        "determination": "RD",
+        "status": "Referral Published",
+        "stage": "Referral Publication"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Withdrawn",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2022/9153",
+      "from": {
+        "decision": "Referral Decision",
+        "determination": "RD",
+        "status": "Referral Published",
+        "stage": "Referral Publication"
+      },
+      "to": {
+        "decision": null,
+        "determination": null,
+        "status": "Withdrawn",
+        "stage": "Completed"
+      }
+    }
+  ],
+  "removed": [],
+  "stats": {
+    "totalCurrent": 7612,
+    "totalPrevious": 7612,
+    "addedCount": 0,
+    "changedCount": 15,
+    "removedCount": 0
+  }
+}

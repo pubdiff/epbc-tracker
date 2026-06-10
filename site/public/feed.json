@@ -7,6 +7,171 @@
   "language": "en-AU",
   "items": [
     {
+      "id": "urn:epbc-tracker:change:2020/8647:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2020-8647",
+      "title": "Approval Decision made: 2020/8647",
+      "content_text": "2020/8647 - status: \"Assessment Method Determined\" → \"Approval Decision made\"; stage: \"Assessment Approach\" → \"Post-Approval\"; decision: \"Controlled Action\" → \"(none)\"; determination: \"CA\" → \"(none)\"",
+      "content_html": "<p>2020/8647 - status: &quot;Assessment Method Determined&quot; → &quot;Approval Decision made&quot;; stage: &quot;Assessment Approach&quot; → &quot;Post-Approval&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2020/8802:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2020-8802",
+      "title": "Project Lapsed: 2020/8802",
+      "content_text": "2020/8802 - status: \"Further Information Requested\" → \"Project Lapsed\"; stage: \"Further Information Request\" → \"Completed\"; decision: \"Controlled Action\" → \"(none)\"; determination: \"CA\" → \"(none)\"",
+      "content_html": "<p>2020/8802 - status: &quot;Further Information Requested&quot; → &quot;Project Lapsed&quot;; stage: &quot;Further Information Request&quot; → &quot;Completed&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2020/8805:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2020-8805",
+      "title": "Under Assessment: 2020/8805",
+      "content_text": "2020/8805 - status: \"Further Information Requested\" → \"Under Assessment\"; stage: \"Further Information Request\" → \"Assessment\"; decision: \"Controlled Action\" → \"(none)\"; determination: \"CA\" → \"(none)\"",
+      "content_html": "<p>2020/8805 - status: &quot;Further Information Requested&quot; → &quot;Under Assessment&quot;; stage: &quot;Further Information Request&quot; → &quot;Assessment&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2021/8884:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2021-8884",
+      "title": "Approval Decision made: 2021/8884",
+      "content_text": "2021/8884 - status: \"Assessment Method Determined\" → \"Approval Decision made\"; stage: \"Assessment Approach\" → \"Post-Approval\"; decision: \"Controlled Action\" → \"(none)\"; determination: \"CA\" → \"(none)\"",
+      "content_html": "<p>2021/8884 - status: &quot;Assessment Method Determined&quot; → &quot;Approval Decision made&quot;; stage: &quot;Assessment Approach&quot; → &quot;Post-Approval&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2021/8900:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2021-8900",
+      "title": "Referral Decision Made: 2021/8900",
+      "content_text": "2021/8900 - status: \"S76 - Awaiting Information\" → \"Referral Decision Made\"; stage: \"Referral Publication\" → \"Completed\"; decision: \"Referral Decision\" → \"(none)\"; determination: \"RD\" → \"(none)\"",
+      "content_html": "<p>2021/8900 - status: &quot;S76 - Awaiting Information&quot; → &quot;Referral Decision Made&quot;; stage: &quot;Referral Publication&quot; → &quot;Completed&quot;; decision: &quot;Referral Decision&quot; → &quot;(none)&quot;; determination: &quot;RD&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2021/8915:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2021-8915",
+      "title": "Assessment Approach Determined: 2021/8915",
+      "content_text": "2021/8915 - status: \"Assessment Method Determined\" → \"Assessment Approach Determined\"; stage: \"Assessment Approach\" → \"Assessment\"; decision: \"Controlled Action\" → \"(none)\"; determination: \"CA\" → \"(none)\"",
+      "content_html": "<p>2021/8915 - status: &quot;Assessment Method Determined&quot; → &quot;Assessment Approach Determined&quot;; stage: &quot;Assessment Approach&quot; → &quot;Assessment&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2021/8976:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2021-8976",
+      "title": "Project Lapsed: 2021/8976",
+      "content_text": "2021/8976 - status: \"Further Information Requested\" → \"Project Lapsed\"; stage: \"Further Information Request\" → \"Completed\"; decision: \"Controlled Action\" → \"(none)\"; determination: \"CA\" → \"(none)\"",
+      "content_html": "<p>2021/8976 - status: &quot;Further Information Requested&quot; → &quot;Project Lapsed&quot;; stage: &quot;Further Information Request&quot; → &quot;Completed&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2021/9022:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2021-9022",
+      "title": "Referral Decision Made: 2021/9022",
+      "content_text": "2021/9022 - status: \"S76 - Awaiting Information\" → \"Referral Decision Made\"; stage: \"Referral Publication\" → \"Completed\"; decision: \"Referral Decision\" → \"(none)\"; determination: \"RD\" → \"(none)\"",
+      "content_html": "<p>2021/9022 - status: &quot;S76 - Awaiting Information&quot; → &quot;Referral Decision Made&quot;; stage: &quot;Referral Publication&quot; → &quot;Completed&quot;; decision: &quot;Referral Decision&quot; → &quot;(none)&quot;; determination: &quot;RD&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2021/9029:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2021-9029",
+      "title": "Withdrawn: 2021/9029",
+      "content_text": "2021/9029 - status: \"S89 - Awaiting Information\" → \"Withdrawn\"; stage: \"Referral Decision\" → \"Completed\"; decision: \"Controlled Action\" → \"(none)\"; determination: \"CA\" → \"(none)\"",
+      "content_html": "<p>2021/9029 - status: &quot;S89 - Awaiting Information&quot; → &quot;Withdrawn&quot;; stage: &quot;Referral Decision&quot; → &quot;Completed&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2021/9054:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2021-9054",
+      "title": "Project Lapsed: 2021/9054",
+      "content_text": "2021/9054 - status: \"Further Information Requested\" → \"Project Lapsed\"; stage: \"Further Information Request\" → \"Completed\"; decision: \"Controlled Action\" → \"(none)\"; determination: \"CA\" → \"(none)\"",
+      "content_html": "<p>2021/9054 - status: &quot;Further Information Requested&quot; → &quot;Project Lapsed&quot;; stage: &quot;Further Information Request&quot; → &quot;Completed&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2021/9075:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2021-9075",
+      "title": "Withdrawn: 2021/9075",
+      "content_text": "2021/9075 - status: \"Assessment Method Determined\" → \"Withdrawn\"; stage: \"Assessment Approach\" → \"Completed\"; decision: \"Controlled Action\" → \"(none)\"; determination: \"CA\" → \"(none)\"",
+      "content_html": "<p>2021/9075 - status: &quot;Assessment Method Determined&quot; → &quot;Withdrawn&quot;; stage: &quot;Assessment Approach&quot; → &quot;Completed&quot;; decision: &quot;Controlled Action&quot; → &quot;(none)&quot;; determination: &quot;CA&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2021/9080:2026-06-10:3",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2021-9080",
+      "title": "Completed: 2021/9080",
+      "content_text": "2021/9080 - stage: \"Post-Approval\" → \"Completed\"; decision: \"Not Controlled Action (Particular Manner)\" → \"(none)\"; determination: \"NCA-PM\" → \"(none)\"",
+      "content_html": "<p>2021/9080 - stage: &quot;Post-Approval&quot; → &quot;Completed&quot;; decision: &quot;Not Controlled Action (Particular Manner)&quot; → &quot;(none)&quot;; determination: &quot;NCA-PM&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2021/9108:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2021-9108",
+      "title": "Withdrawn: 2021/9108",
+      "content_text": "2021/9108 - status: \"Referral Published\" → \"Withdrawn\"; stage: \"Referral Publication\" → \"Completed\"; decision: \"Referral Decision\" → \"(none)\"; determination: \"RD\" → \"(none)\"",
+      "content_html": "<p>2021/9108 - status: &quot;Referral Published&quot; → &quot;Withdrawn&quot;; stage: &quot;Referral Publication&quot; → &quot;Completed&quot;; decision: &quot;Referral Decision&quot; → &quot;(none)&quot;; determination: &quot;RD&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2021/9131:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2021-9131",
+      "title": "Withdrawn: 2021/9131",
+      "content_text": "2021/9131 - status: \"Referral Published\" → \"Withdrawn\"; stage: \"Referral Publication\" → \"Completed\"; decision: \"Referral Decision\" → \"(none)\"; determination: \"RD\" → \"(none)\"",
+      "content_html": "<p>2021/9131 - status: &quot;Referral Published&quot; → &quot;Withdrawn&quot;; stage: &quot;Referral Publication&quot; → &quot;Completed&quot;; decision: &quot;Referral Decision&quot; → &quot;(none)&quot;; determination: &quot;RD&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2022/9153:2026-06-10:4",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2022-9153",
+      "title": "Withdrawn: 2022/9153",
+      "content_text": "2022/9153 - status: \"Referral Published\" → \"Withdrawn\"; stage: \"Referral Publication\" → \"Completed\"; decision: \"Referral Decision\" → \"(none)\"; determination: \"RD\" → \"(none)\"",
+      "content_html": "<p>2022/9153 - status: &quot;Referral Published&quot; → &quot;Withdrawn&quot;; stage: &quot;Referral Publication&quot; → &quot;Completed&quot;; decision: &quot;Referral Decision&quot; → &quot;(none)&quot;; determination: &quot;RD&quot; → &quot;(none)&quot;</p>",
+      "date_published": "2026-06-10T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
       "id": "urn:epbc-tracker:change:2020/8805:2026-06-03:4",
       "url": "https://pubdiff.github.io/epbc-tracker/r/2020-8805",
       "title": "Controlled Action: 2020/8805",
