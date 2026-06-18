@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-11T22:06:01.739Z",
+  "generatedAt": "2026-06-18T22:10:08.923Z",
   "source": "epbc-public-portal",
-  "count": 8157,
+  "count": 8167,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -10,7 +10,7 @@
       "location": "15 Bob Irvin Road, Griffith, NSW",
       "projectTitle": "Griffith Battery Energy Storage System (BESS)",
       "validDate": "2026-06-01",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10498": {
@@ -20,7 +20,7 @@
       "location": "Glengariffe Road, Canobolas, NSW, 2800",
       "projectTitle": "Four Mile Creek Wind Farm",
       "validDate": "2026-05-28",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10525": {
@@ -30,7 +30,7 @@
       "location": "60 Abercrombie Rd, Postans WA 6167",
       "projectTitle": "Postans Material Extraction Project",
       "validDate": "2026-05-27",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10517": {
@@ -100,7 +100,7 @@
       "location": "Callide Mine,1091 Biloela Callide Road, Mount Murchison, QLD  4715",
       "projectTitle": "Trap Gully Overburden Emplacement Extension Project",
       "validDate": "2026-05-20",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10502": {
@@ -120,7 +120,7 @@
       "location": "233 Wheeo Road, Goulburn, NSW 2580",
       "projectTitle": "Goulburn Water Treatment Plant Sedimentation Lagoons Upgrade",
       "validDate": "2026-05-15",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2026/10479": {
@@ -130,7 +130,7 @@
       "location": "Lower Balonne distributary system, near Dirranbandi QLD, and Goodooga NSW.",
       "projectTitle": "Border Rivers Commission — Lower Balonne Bifurcation Weirs Refurbishment",
       "validDate": "2026-05-15",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10499": {
@@ -190,7 +190,7 @@
       "location": "Reid Highway from 1.2 km west of the Mitchell Freeway to 1.1 km east of Wanneroo Road.",
       "projectTitle": "Reid Highway/Erindale Road Grade Separation",
       "validDate": "2026-05-06",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10501": {
@@ -230,7 +230,7 @@
       "location": "Wodgina Access Road, off Great Northern Hwy",
       "projectTitle": "Wodgina Lithium Mine Expansion",
       "validDate": "2026-04-30",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10489": {
@@ -330,7 +330,7 @@
       "location": "Link Road, Kiandra, NSW 2629",
       "projectTitle": "Snowy 2.0 Main Works Modification 4 – Southern Communication Line",
       "validDate": "2026-04-20",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10477": {
@@ -1080,7 +1080,7 @@
       "location": "Goombi Fairymeadow Road, Goombi, QLD 4413",
       "projectTitle": "Goombi Renewable Energy Hub",
       "validDate": "2026-01-14",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10393": {
@@ -2300,7 +2300,7 @@
       "location": "WTP: 141 Bushland Road, Riverbend 4280 (Lot 141 on S312748); 412 Bushland Road, Riverbend 4280 (Lot 3 on SP201569); 7 Bushland Road (Lot 47 on SL4065)",
       "projectTitle": "Wyaralong Water Treatment Plant and Associated Infrastructure",
       "validDate": "2025-08-14",
-      "statusReason": "Considering Variation to Proposal",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10249": {
@@ -2710,7 +2710,7 @@
       "location": "Caddadup Reserve, 945 Old Coast Road, Dawesville WA 6211",
       "projectTitle": "Caddadup 25ML Water Storage Tank Project",
       "validDate": "2025-06-18",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2025/10210": {
@@ -3070,7 +3070,7 @@
       "location": "Lemington Road, Liddell NSW 2333",
       "projectTitle": "Hunter Valley Operations (HVO) North Open Cut Coal Continuation Project.",
       "validDate": "2025-05-02",
-      "statusReason": "Draft PER Published - Open for Public Comment",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10176": {
@@ -3080,7 +3080,7 @@
       "location": "Lemington Road, Liddell NSW 2333",
       "projectTitle": "Hunter Valley Operations (HVO) South Open Cut Coal Continuation Project",
       "validDate": "2025-05-02",
-      "statusReason": "Draft PER Published - Open for Public Comment",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2024/10003": {
@@ -4250,7 +4250,7 @@
       "location": "(Start) Section A – Lot 1 on CP890133; (End) Section E – Lot 113 on CTN799",
       "projectTitle": "Calvale to Calliope River Transmission Line Reinforcement Project",
       "validDate": "2025-01-06",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Considering Variation to Proposal",
       "projectStatus": null
     },
     "2024/09998": {
@@ -4420,7 +4420,7 @@
       "location": "Calwynyardah-Noonkanbah Rd, Mount Hard,Shire of Derby/West Kimberley",
       "projectTitle": "Valhalla Gas Exploration and Appraisal Program (Phase I and II)",
       "validDate": "2024-12-09",
-      "statusReason": "Direction to Publish Draft Preliminary Documentation Issued",
+      "statusReason": "Draft documentation published - Open for Public Comment",
       "projectStatus": null
     },
     "2024/09975": {
@@ -81570,6 +81570,106 @@
       "location": "Offshore of the Gippsland region of Victoria",
       "projectTitle": "Aurora Green Offshore Wind Project Geophysical and Geotechnical Investigations",
       "validDate": "2026-06-04",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10518": {
+      "ticketNumber": "2026/10518",
+      "incidentId": "5e7b054b-d24c-f111-bec6-7ced8d33dc82",
+      "proponent": "TASMANIA KEYSTONE DEVELOPMENTS PTY LTD",
+      "location": "90 Upper Hilton Rd, Claremont TAS 7011",
+      "projectTitle": "Granton land subdivision",
+      "validDate": "2026-06-18",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10521": {
+      "ticketNumber": "2026/10521",
+      "incidentId": "db03284a-ff4c-f111-bec6-7ced8da0d272",
+      "proponent": "EKU ENERGY PROJECTS (AUSTRALIA) PTY LTD",
+      "location": "675 Monash Way, Hazelwood North, Victoria.",
+      "projectTitle": "Tramway Road Battery Energy Storage System",
+      "validDate": "2026-06-18",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10524": {
+      "ticketNumber": "2026/10524",
+      "incidentId": "1eedd0f8-5452-f111-bec7-7c1e5262e9e4",
+      "proponent": "EKU ENERGY PROJECTS (AUSTRALIA) PTY LTD",
+      "location": "475 Grafton Road, Armidale NSW",
+      "projectTitle": "Wongalea Battery Energy Storage System (BESS)",
+      "validDate": "2026-06-17",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10546": {
+      "ticketNumber": "2026/10546",
+      "incidentId": "091d27bf-bb63-f111-a826-7ced8d326d41",
+      "proponent": "APA BULLOO INTERLINK PIPELINE PTY LTD",
+      "location": "South from the NSW border to 70 km south-east of Tibooburra, NSW",
+      "projectTitle": "Bulloo Interlink Pipeline - NSW Pipeline Section",
+      "validDate": "2026-06-17",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10522": {
+      "ticketNumber": "2026/10522",
+      "incidentId": "7ab8e21a-614e-f111-bec5-7ced8dd16664",
+      "proponent": "WOOLWORTHS GROUP LIMITED",
+      "location": "262 Hakone Road, Woongarrah NSW 2259",
+      "projectTitle": "Warnervale Town Centre Woolworths Retail Precinct",
+      "validDate": "2026-06-17",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10539": {
+      "ticketNumber": "2026/10539",
+      "incidentId": "50ec1292-875d-f111-a826-7ced8d33dc82",
+      "proponent": "WASHPOOL CO (QLD) PTY LTD",
+      "location": "Lot 10 Blackwater-Cooroorah Road, QLD 4717 (10HT401)",
+      "projectTitle": "Washpool Coal Project",
+      "validDate": "2026-06-16",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10537": {
+      "ticketNumber": "2026/10537",
+      "incidentId": "f6997ede-6a5d-f111-a825-7ced8da1bf18",
+      "proponent": "Magnetic South Pty Ltd",
+      "location": "15127 Capricorn Highway, Dingo QLD 4702",
+      "projectTitle": "Gemini Coal Mine Extension Project",
+      "validDate": "2026-06-16",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10529": {
+      "ticketNumber": "2026/10529",
+      "incidentId": "7987ba90-7955-f111-bec7-7c1e5262e9e4",
+      "proponent": "Marulan Properties Pty Limited",
+      "location": "16038 Hume Highway, Marulan, and 88 and 128 Munro Road, Carrick, NSW",
+      "projectTitle": "WSC Marulan Quarry",
+      "validDate": "2026-06-15",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10544": {
+      "ticketNumber": "2026/10544",
+      "incidentId": "1ed1358d-9d60-f111-a826-7c1e5262eacb",
+      "proponent": "TADAFA PTY LTD",
+      "location": "1A Railway Street, Rosewood",
+      "projectTitle": "Reconfiguration of a Lot (1 into 161) for Residential Development",
+      "validDate": "2026-06-12",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10527": {
+      "ticketNumber": "2026/10527",
+      "incidentId": "7d76c6f2-d754-f111-bec6-7ced8d33d5fd",
+      "proponent": "Langtree Consulting Engineers",
+      "location": "Lot 511 SP327449 and Lot 512 SP327448, Pormpuraaw.",
+      "projectTitle": "Pormpuraaw residential subdivision",
+      "validDate": "2026-06-12",
       "statusReason": "Referral Decision - Open for Public Comment",
       "projectStatus": null
     }
