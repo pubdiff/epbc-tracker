@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T21:07:44.225Z",
+  "generatedAt": "2026-07-09T21:24:57.177Z",
   "source": "epbc-public-portal",
-  "count": 8185,
+  "count": 8193,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -1500,7 +1500,7 @@
       "location": "Pacific Motorway / Logan Motorway Loganholme to Shipper Drive Coomera",
       "projectTitle": "Coomera Connector (Future stages) Loganholme to Coomera",
       "validDate": "2025-11-21",
-      "statusReason": "Guidelines Issued",
+      "statusReason": "Guidelines Finalised",
       "projectStatus": null
     },
     "2025/10335": {
@@ -2070,7 +2070,7 @@
       "location": "5690 Sturt Highway Monak NSW 2738",
       "projectTitle": "Pine Park Irrigation Development",
       "validDate": "2025-09-25",
-      "statusReason": "Condition variation being considered",
+      "statusReason": "Approval Decision made",
       "projectStatus": null
     },
     "2025/10254": {
@@ -3010,7 +3010,7 @@
       "location": "Gregory Highway, Emerald, QLD, 4720, Australia",
       "projectTitle": "Corvus Metallurgical Coal Project",
       "validDate": "2025-05-13",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10182": {
@@ -3040,7 +3040,7 @@
       "location": "c/o Isaac Plains Complex, 10167 Peak Downs Highway, Queensland",
       "projectTitle": "Isaac Downs Extension Project - near Moranbah, Queensland",
       "validDate": "2025-05-09",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10174": {
@@ -3450,7 +3450,7 @@
       "location": "There is no ‘address’ for the proposed action. It is located wholly in marine waters in the centre of Cambridge Gulf in NE of WA.",
       "projectTitle": "Boskalis Cambridge Gulf Marine Sand Sourcing Project",
       "validDate": "2025-03-14",
-      "statusReason": "Considering Final Decision",
+      "statusReason": "Approval Decision made",
       "projectStatus": null
     },
     "2025/10122": {
@@ -3530,7 +3530,7 @@
       "location": "9426 Gore Highway, Captains Mountain, 4357  1107 Nine Mile Road, Western Creek, 4357 548 Antonio Road, Captains Mountain, 4357 1129 Western Creek Road",
       "projectTitle": "Captains Mountain Wind Farm",
       "validDate": "2025-03-11",
-      "statusReason": "Guidelines Issued",
+      "statusReason": "Guidelines Finalised",
       "projectStatus": null
     },
     "2025/10113": {
@@ -81510,7 +81510,7 @@
       "location": "Frederick Henry Bay",
       "projectTitle": "Captive breeding and translocation of red handfish.",
       "validDate": "2026-06-09",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10536": {
@@ -81550,7 +81550,7 @@
       "location": "Lot 1767 (80) Chudalup Road, Bullsbrook WA, 6084",
       "projectTitle": "Urban Development Bullsbrook",
       "validDate": "2026-06-08",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10531": {
@@ -81680,7 +81680,7 @@
       "location": "Great Northern Highway, approximately 30 km northwest of Newman, Western Australia",
       "projectTitle": "Round Hill Iron Ore Mine",
       "validDate": "2026-06-25",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10533": {
@@ -81690,7 +81690,7 @@
       "location": "Weealla 1504 Milpulling Road, Balladoran NSW 2282",
       "projectTitle": "Milpulling Wind Farm",
       "validDate": "2026-06-24",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10512": {
@@ -81700,7 +81700,7 @@
       "location": "200 Holt Street, Pinkenba Queensland, 4008",
       "projectTitle": "Brisbane Mineral Separation Plant (MSP) Facility",
       "validDate": "2026-06-23",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10538": {
@@ -81710,7 +81710,7 @@
       "location": "“Longdale” 15127 Capricorn Highway, Dingo QLD 4702",
       "projectTitle": "Gemini Rail Loop Project",
       "validDate": "2026-06-23",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10523": {
@@ -81720,7 +81720,7 @@
       "location": "Gunlom Road, Kakadu National Park, Northern Territory 0822",
       "projectTitle": "Gunlom Road Upgrade",
       "validDate": "2026-06-22",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10551": {
@@ -81730,7 +81730,7 @@
       "location": "Mickleham Road, between Dellamore Boulevard, Greenvale and Craigieburn Road, Craigieburn (Victoria)",
       "projectTitle": "Mickleham Road Upgrade Stage 2",
       "validDate": "2026-06-22",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10545": {
@@ -81850,6 +81850,86 @@
       "location": "Lot 37 Paradise Road, Coringa, Queensland 4621",
       "projectTitle": "Coringa Quarry and Spoil Repository Project",
       "validDate": "2026-06-26",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10554": {
+      "ticketNumber": "2026/10554",
+      "incidentId": "2e203132-7e68-f111-a826-7ced8d326e04",
+      "proponent": "SQUADRON RENEWABLE ENERGY DEVELOPMENTS PTY LTD",
+      "location": "Sturt Highway, Darlington Point 2706",
+      "projectTitle": "Banandra Wind Farm",
+      "validDate": "2026-07-09",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10516": {
+      "ticketNumber": "2026/10516",
+      "incidentId": "90707af2-c24a-f111-bec6-00224897bf4a",
+      "proponent": "Shire of Christmas Island",
+      "location": "Land Lots within Murray Road, Arenga Close, Seaview Drive and Sunset Place, Christmas Island.",
+      "projectTitle": "Shire of Christmas Island Housing Development Program - Silver City",
+      "validDate": "2026-07-08",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10565": {
+      "ticketNumber": "2026/10565",
+      "incidentId": "28494eff-fc6d-f111-ab0d-7ced8d33d5fd",
+      "proponent": "Vocus Pty Ltd",
+      "location": "Northern Territory waters, Queensland waters, Commonwealth Waters",
+      "projectTitle": "Project Werribee Geophysical Survey",
+      "validDate": "2026-07-08",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2025/10381": {
+      "ticketNumber": "2025/10381",
+      "incidentId": "e250097d-cfd3-f011-8544-7c1e522a8d78",
+      "proponent": "BOWEN BASIN COAL PTY. LTD.",
+      "location": "The proposed Project covers the extent of MDL303 with the underlying tenure: Lot 1 on SP330225, Lot 2 on RP813170, Lot 102 on SP310393, Lot 7 CNS53",
+      "projectTitle": "Lake Vermont Mockingbird Metallurgical Coal Project",
+      "validDate": "2026-07-07",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10542": {
+      "ticketNumber": "2026/10542",
+      "incidentId": "f43778ed-dc5f-f111-a826-7ced8d326e04",
+      "proponent": "Mologa BESS Pty Ltd as the Trustee for Mologa BESS Trust",
+      "location": "Access at Lot 6~A\\PP3145, 600m east of intersection of Mologa-Durham Ox Road & Bendigo-Pyramid Road.",
+      "projectTitle": "Mologa Solar Hybrid (Solar Farm and Battery Energy Storage System)",
+      "validDate": "2026-07-07",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10568": {
+      "ticketNumber": "2026/10568",
+      "incidentId": "85ae2cbb-5770-f111-ab0c-000d3acbe5d3",
+      "proponent": "Allawah Gas Generation Pty Ltd",
+      "location": "15449 Dawson Highway Banana QLD",
+      "projectTitle": "Allawah Gas Power Generator",
+      "validDate": "2026-07-06",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10570": {
+      "ticketNumber": "2026/10570",
+      "incidentId": "5d0ec7d9-e970-f111-ab0d-7c1e5262eacb",
+      "proponent": "Games Independent Infrastructure and Coordination Authority",
+      "location": "Corner Democracy Way and Jacaranda Avenue, Logan Central",
+      "projectTitle": "Logan Indoor Sports Centre",
+      "validDate": "2026-07-06",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10555": {
+      "ticketNumber": "2026/10555",
+      "incidentId": "fa020ba7-8768-f111-ab0c-7ced8da0d272",
+      "proponent": "WINTON RENEWABLE ENERGY STABILITY AND STORAGE TERMINAL PTY LTD",
+      "location": ", Victoria (and 576 Winton-Glenrowan Road, Wintonsurrounding land as below)",
+      "projectTitle": "Winton Renewable Energy Stability and Storage Terminal (WRESST)",
+      "validDate": "2026-07-06",
       "statusReason": "Referral Decision - Open for Public Comment",
       "projectStatus": null
     }
