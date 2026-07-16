@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-09T21:24:57.177Z",
+  "generatedAt": "2026-07-16T20:57:07.183Z",
   "source": "epbc-public-portal",
-  "count": 8193,
+  "count": 8196,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -30,7 +30,7 @@
       "location": "60 Abercrombie Rd, Postans WA 6167",
       "projectTitle": "Postans Material Extraction Project",
       "validDate": "2026-05-27",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10517": {
@@ -120,7 +120,7 @@
       "location": "233 Wheeo Road, Goulburn, NSW 2580",
       "projectTitle": "Goulburn Water Treatment Plant Sedimentation Lagoons Upgrade",
       "validDate": "2026-05-15",
-      "statusReason": "Under Assessment",
+      "statusReason": "Draft documentation published - Open for Public Comment",
       "projectStatus": null
     },
     "2026/10479": {
@@ -180,7 +180,7 @@
       "location": "Blackwater Mine, Blackwater QLD 4717",
       "projectTitle": "Blackwater North Extension Project",
       "validDate": "2026-05-06",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10485": {
@@ -410,7 +410,7 @@
       "location": "78 Cullen Road, Aldoga, QLD, 4694",
       "projectTitle": "Gladstone SDA Energy Hub – Grid-firming battery energy storage and gas turbines",
       "validDate": "2026-04-08",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10472": {
@@ -870,7 +870,7 @@
       "location": "Approximately 56km Offshore in Commonwealth waters and McGaurans Beach Road, Giffard",
       "projectTitle": "Gippsland 1 Offshore Wind Farm",
       "validDate": "2026-02-06",
-      "statusReason": "Draft EIS Guidelines Published - Open for Public Comment",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2026/10419": {
@@ -1080,7 +1080,7 @@
       "location": "Goombi Fairymeadow Road, Goombi, QLD 4413",
       "projectTitle": "Goombi Renewable Energy Hub",
       "validDate": "2026-01-14",
-      "statusReason": "Under Assessment",
+      "statusReason": "Guidelines Finalised",
       "projectStatus": null
     },
     "2025/10393": {
@@ -3770,7 +3770,7 @@
       "location": "103-175 Bayliss Road, South Ripley, Queensland 4306",
       "projectTitle": "Residential Development Project",
       "validDate": "2025-02-12",
-      "statusReason": "Final Preliminary Documentation Published",
+      "statusReason": "Considering Final Decision",
       "projectStatus": null
     },
     "2024/10024": {
@@ -81490,7 +81490,7 @@
       "location": "Wallareenya Road, Wallareenya, Western Australia, 6721",
       "projectTitle": "Tabba Tabba Lithium-Tantalum Mine Project",
       "validDate": "2026-06-11",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10530": {
@@ -81500,7 +81500,7 @@
       "location": "Beckmans Road, Tewantin, QLD 4565",
       "projectTitle": "Beckmans Road Upgrade Project (Sea Eagle Drive to Eumundi-Noosa Road)",
       "validDate": "2026-06-09",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10511": {
@@ -81520,7 +81520,7 @@
       "location": "271-275 Pearcedale Road, Cranbourne South",
       "projectTitle": "Extension of existing education establishment across staged masterplan.",
       "validDate": "2026-06-09",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10490": {
@@ -81530,7 +81530,7 @@
       "location": "Hall Road, Yandilla, Queensland 4352",
       "projectTitle": "Border to Gowrie (B2G) Embankment Trial Project",
       "validDate": "2026-06-09",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10515": {
@@ -81540,7 +81540,7 @@
       "location": "Neerabup Terminal (Pinjar) to the intersection of Ocean Reef Road and Wanneroo Road, Woodvale",
       "projectTitle": "Wangara to Neerabup Terminal 132 kV Overhead Transmission Line Project",
       "validDate": "2026-06-09",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10526": {
@@ -81600,7 +81600,7 @@
       "location": "475 Grafton Road, Armidale NSW",
       "projectTitle": "Wongalea Battery Energy Storage System (BESS)",
       "validDate": "2026-06-17",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10546": {
@@ -81610,7 +81610,7 @@
       "location": "South from the NSW border to 70 km south-east of Tibooburra, NSW",
       "projectTitle": "Bulloo Interlink Pipeline - NSW Pipeline Section",
       "validDate": "2026-06-17",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10522": {
@@ -81630,7 +81630,7 @@
       "location": "Lot 10 Blackwater-Cooroorah Road, QLD 4717 (10HT401)",
       "projectTitle": "Washpool Coal Project",
       "validDate": "2026-06-16",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Awaiting Assessment Approach Decision",
       "projectStatus": null
     },
     "2026/10537": {
@@ -81650,7 +81650,7 @@
       "location": "16038 Hume Highway, Marulan, and 88 and 128 Munro Road, Carrick, NSW",
       "projectTitle": "WSC Marulan Quarry",
       "validDate": "2026-06-15",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10544": {
@@ -81660,7 +81660,7 @@
       "location": "1A Railway Street, Rosewood",
       "projectTitle": "Reconfiguration of a Lot (1 into 161) for Residential Development",
       "validDate": "2026-06-12",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10527": {
@@ -81740,7 +81740,7 @@
       "location": "471 Kororoit Creek Road, Altona",
       "projectTitle": "Project Diamond Industrial and Commercial Development",
       "validDate": "2026-07-02",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10552": {
@@ -81750,7 +81750,7 @@
       "location": "Berthelsens Road, Old Cooranga. Queensland 4626",
       "projectTitle": "The Cooranga Weir Project",
       "validDate": "2026-07-02",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10496": {
@@ -81760,7 +81760,7 @@
       "location": "Grosvenor Mine, Goonyella Rd, Moranbah, QLD, 4744",
       "projectTitle": "Grosvenor Mine – Additional Drainage & Ventilation Surface Disturbance",
       "validDate": "2026-06-30",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10495": {
@@ -81770,7 +81770,7 @@
       "location": "Moranbah North Mine, Goonyella Rd, Moranbah, QLD, 4744",
       "projectTitle": "Moranbah North Mine Extension – Additional Drainage & Ventilation Surface Disturbance and 100s Longwall Series Extension",
       "validDate": "2026-06-30",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10560": {
@@ -81780,7 +81780,7 @@
       "location": "18698 Stuart Highway, Tanami East, NT 0852",
       "projectTitle": "Project Ares - Integrated Hyperscale Data Centre Campus",
       "validDate": "2026-06-29",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10556": {
@@ -81790,7 +81790,7 @@
       "location": "71 Santa Barbara Parade, Bowen QLD 4805",
       "projectTitle": "Bowen Marine Infrastructure Replacement Project (BMIRP)",
       "validDate": "2026-06-29",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10553": {
@@ -81800,7 +81800,7 @@
       "location": "18667 Gwydir Highway, Walgett NSW 2832",
       "projectTitle": "Tara and Dundulla Dryland Cropping Expansion",
       "validDate": "2026-06-29",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10514": {
@@ -81810,7 +81810,7 @@
       "location": "100 Allingham Street, Kuraby",
       "projectTitle": "Kuraby ICB Secondary College Campus",
       "validDate": "2026-06-29",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10550": {
@@ -81820,7 +81820,7 @@
       "location": "44 River Road, Yanco NSW 2703",
       "projectTitle": "Comet Park Battery Energy Storage System (BESS)",
       "validDate": "2026-06-29",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10559": {
@@ -81830,7 +81830,7 @@
       "location": "12 Toronto Street, Toronto (Lot 8 in DP 821188)",
       "projectTitle": "Awaba Battery Energy Storage System",
       "validDate": "2026-06-26",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10547": {
@@ -81840,7 +81840,7 @@
       "location": "Penitentiary, Port Arthur Historic Site, Arthur Highway, Port Arthur",
       "projectTitle": "Penitentiary Conservation Project, Port Arthur Historic Site",
       "validDate": "2026-06-26",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10548": {
@@ -81850,7 +81850,7 @@
       "location": "Lot 37 Paradise Road, Coringa, Queensland 4621",
       "projectTitle": "Coringa Quarry and Spoil Repository Project",
       "validDate": "2026-06-26",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10554": {
@@ -81930,6 +81930,36 @@
       "location": ", Victoria (and 576 Winton-Glenrowan Road, Wintonsurrounding land as below)",
       "projectTitle": "Winton Renewable Energy Stability and Storage Terminal (WRESST)",
       "validDate": "2026-07-06",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10587": {
+      "ticketNumber": "2026/10587",
+      "incidentId": "a8a0cb8a-097c-f111-ab0e-00224810781b",
+      "proponent": "EVA COPPER MINE PTY LTD",
+      "location": "Burke Developmental Road, Cloncurry, Queensland, 4824.",
+      "projectTitle": "Eva Copper Mine Project (Stage 1)",
+      "validDate": "2026-07-14",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10549": {
+      "ticketNumber": "2026/10549",
+      "incidentId": "e2bb3e25-a264-f111-a826-7ced8d33d5fd",
+      "proponent": "Mackay Regional Council",
+      "location": "18-2 Drew St and Mackay Eungella Rd/Kowari Rd, Finch Hatton QLD 4756.",
+      "projectTitle": "Finch Hatton Mountain Bike Trails (Stage 2A)",
+      "validDate": "2026-07-13",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10569": {
+      "ticketNumber": "2026/10569",
+      "incidentId": "750f8d7c-7c70-f111-ab0e-7ced8d33dc82",
+      "proponent": "WOODSIDE ENERGY LTD.",
+      "location": "Indian Ocean, Offshore Western Australia",
+      "projectTitle": "Browse Carbon Capture and Storage Project",
+      "validDate": "2026-07-10",
       "statusReason": "Referral Decision - Open for Public Comment",
       "projectStatus": null
     }
