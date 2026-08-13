@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-07T00:53:38.001Z",
+  "generatedAt": "2026-08-13T20:41:09.432Z",
   "source": "epbc-public-portal",
-  "count": 8221,
+  "count": 8224,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -230,7 +230,7 @@
       "location": "Wodgina Access Road, off Great Northern Hwy",
       "projectTitle": "Wodgina Lithium Mine Expansion",
       "validDate": "2026-04-30",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Considering Variation to Proposal",
       "projectStatus": null
     },
     "2026/10489": {
@@ -260,7 +260,7 @@
       "location": "44 Grove Street West, Little Grove, WA 6330 and associated road reserves",
       "projectTitle": "Lot 17 Grove Street West - Residential Development",
       "validDate": "2026-04-29",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10492": {
@@ -390,7 +390,7 @@
       "location": "302 and 362-388 Old Cleveland Road East, Birkdale QLD 4159",
       "projectTitle": "Birkdale Community Precinct and Redland Whitewater Centre",
       "validDate": "2026-04-10",
-      "statusReason": "Referral Decision Made",
+      "statusReason": "Reconsideration Requested - Open for Comment",
       "projectStatus": null
     },
     "2026/10475": {
@@ -557,7 +557,7 @@
       "ticketNumber": "2026/10458",
       "incidentId": "ad8a07cf-8913-f111-8406-7ced8d33dc82",
       "proponent": "PILBARA ENERGY (GENERATION) PTY LTD",
-      "location": "Marble Bar Road and Bonney Downs - Hillside Road: -22.167503, 119.943917",
+      "location": "at: -22.167503, 119.943917",
       "projectTitle": "Bonney Downs Wind Farm",
       "validDate": "2026-03-16",
       "statusReason": "Assessment Commenced",
@@ -600,7 +600,7 @@
       "location": "Maroochy River, Sunshine Coast, Queensland (adjacent to Lot 39 USL32605)",
       "projectTitle": "Maroochy River - Dredging and Beach Nourishment",
       "validDate": "2026-03-06",
-      "statusReason": "Referral Decision Made",
+      "statusReason": "Reconsideration Request Received",
       "projectStatus": null
     },
     "2026/10423": {
@@ -870,7 +870,7 @@
       "location": "Approximately 56km Offshore in Commonwealth waters and McGaurans Beach Road, Giffard",
       "projectTitle": "Gippsland 1 Offshore Wind Farm",
       "validDate": "2026-02-06",
-      "statusReason": "Under Assessment",
+      "statusReason": "Guidelines Issued",
       "projectStatus": null
     },
     "2026/10419": {
@@ -1210,7 +1210,7 @@
       "location": "Mullaquana Station, 22448 Lincoln Highway Middleback Range",
       "projectTitle": "Northern Water Desalination Plant and Water Transfer System Infrastructure Project",
       "validDate": "2026-01-07",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10386": {
@@ -2290,7 +2290,7 @@
       "location": "Yan Yean Burleigh Mt Norman Road, Woolgar QLD 4822",
       "projectTitle": "Big Vein South open cut gold mine project",
       "validDate": "2025-08-15",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10253": {
@@ -2560,7 +2560,7 @@
       "location": "Lot 22 (101), Lot 100 (113) and Lot 251 (55) Ranch Road Mariginiup",
       "projectTitle": "Residential Development, Mariginiup",
       "validDate": "2025-07-09",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Considering Variation to Proposal",
       "projectStatus": null
     },
     "2025/10237": {
@@ -2610,7 +2610,7 @@
       "location": "Lot 31 on Deposited Plan 207640; Lots 5, 14 and 15 on Deposited Plan 230140; Lot 648 on Deposited Plan 209773; Derby Hwy, Wodehouse St, Broome St",
       "projectTitle": "Derby Future Energy System",
       "validDate": "2025-06-27",
-      "statusReason": "Considering Variation to Proposal",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10225": {
@@ -3290,7 +3290,7 @@
       "location": "Lot 479 in DP1284714 and addressed as Kerr Road, Thurgoona",
       "projectTitle": "Land clearing for development of Brooklyn Fields Estate",
       "validDate": "2025-04-02",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Considering Variation to Proposal",
       "projectStatus": null
     },
     "2024/10086": {
@@ -3770,7 +3770,7 @@
       "location": "103-175 Bayliss Road, South Ripley, Queensland 4306",
       "projectTitle": "Residential Development Project",
       "validDate": "2025-02-12",
-      "statusReason": "Considering Final Decision",
+      "statusReason": "Approval Decision made",
       "projectStatus": null
     },
     "2024/10024": {
@@ -81580,7 +81580,7 @@
       "location": "90 Upper Hilton Rd, Claremont TAS 7011",
       "projectTitle": "Granton land subdivision",
       "validDate": "2026-06-18",
-      "statusReason": "Awaiting Assessment Approach Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10521": {
@@ -81680,7 +81680,7 @@
       "location": "Great Northern Highway, approximately 30 km northwest of Newman, Western Australia",
       "projectTitle": "Round Hill Iron Ore Mine",
       "validDate": "2026-06-25",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10533": {
@@ -81800,7 +81800,7 @@
       "location": "18667 Gwydir Highway, Walgett NSW 2832",
       "projectTitle": "Tara and Dundulla Dryland Cropping Expansion",
       "validDate": "2026-06-29",
-      "statusReason": "Direction to Publish Draft Preliminary Documentation Issued",
+      "statusReason": "Draft documentation published - Open for Public Comment",
       "projectStatus": null
     },
     "2026/10514": {
@@ -81810,7 +81810,7 @@
       "location": "100 Allingham Street, Kuraby",
       "projectTitle": "Kuraby ICB Secondary College Campus",
       "validDate": "2026-06-29",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10550": {
@@ -81860,7 +81860,7 @@
       "location": "Sturt Highway, Darlington Point 2706",
       "projectTitle": "Banandra Wind Farm",
       "validDate": "2026-07-09",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10516": {
@@ -81880,7 +81880,7 @@
       "location": "Northern Territory waters, Queensland waters, Commonwealth Waters",
       "projectTitle": "Project Werribee Geophysical Survey",
       "validDate": "2026-07-08",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2025/10381": {
@@ -82050,7 +82050,7 @@
       "location": "Bindal Rd crossing with Bidwilli Rd, Calcium QLD 4816",
       "projectTitle": "Calcium Substation and Power Easement",
       "validDate": "2026-07-20",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Awaiting additional information",
       "projectStatus": null
     },
     "2026/10580": {
@@ -82060,7 +82060,7 @@
       "location": "Abercombie Road, Paling Yards, NSW 2580",
       "projectTitle": "Paling Yards Wind Farm",
       "validDate": "2026-07-30",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10589": {
@@ -82070,7 +82070,7 @@
       "location": "114 and 122 Binnies Road, Ripley, Queensland.",
       "projectTitle": "Binnies Road, Ripley Residential Development",
       "validDate": "2026-07-29",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10590": {
@@ -82080,7 +82080,7 @@
       "location": "2028 Uriarra Road, Coree ACT",
       "projectTitle": "Flat Rock Energy Storage",
       "validDate": "2026-07-29",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10581": {
@@ -82090,7 +82090,7 @@
       "location": "1114 Carrick Road, Carrick NSW 2580",
       "projectTitle": "Regional Quarries Carrick Quarry",
       "validDate": "2026-07-28",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10535": {
@@ -82100,7 +82100,7 @@
       "location": "Yamarna Road and Minnie Creek Road",
       "projectTitle": "Golden Highway Project (Gold Mine)",
       "validDate": "2026-07-28",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10585": {
@@ -82110,7 +82110,7 @@
       "location": "Access from Lots 7893 (P146692), 7376 (P141927) and 7806 (P146504) on Jingalup Road, Kojonup, Shire of Kojonup, WA.",
       "projectTitle": "Kojonup Wind Farm Development",
       "validDate": "2026-07-24",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10572": {
@@ -82120,7 +82120,7 @@
       "location": "Glenroy Road, Fitzroy River crossing, northwest of Rockhampton, QLD 4700",
       "projectTitle": "Glenroy Crossing Bridge Upgrade Design Project",
       "validDate": "2026-07-24",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10563": {
@@ -82210,6 +82210,36 @@
       "location": "Parkes Place East, Parkes, ACT 2600",
       "projectTitle": "National Sculpture Garden Renewal, Stage 1",
       "validDate": "2026-07-31",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10595": {
+      "ticketNumber": "2026/10595",
+      "incidentId": "0a958ecf-c984-f111-ab0e-7c1e522b7864",
+      "proponent": "BMP LAND PROJECTS PTY LTD",
+      "location": "Lot 9003 Placid Parade, Coodanup 6210",
+      "projectTitle": "Placid Waters South Residential Development",
+      "validDate": "2026-08-11",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10597": {
+      "ticketNumber": "2026/10597",
+      "incidentId": "b2f94c5a-4186-f111-ab0e-6045bdc4aff7",
+      "proponent": "316 Property Group Pty Ltd",
+      "location": "Lot 110, Lot 111, Lot 108, Lot 114 Lugg Place, Casuarina",
+      "projectTitle": "Casuarina South Precinct Residential Development - Lots 110, 111, 108, 114 Lugg Place",
+      "validDate": "2026-08-07",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10603": {
+      "ticketNumber": "2026/10603",
+      "incidentId": "c5e6f30e-0f8b-f111-ab0e-7ced8da1ba3c",
+      "proponent": "WESTCOAST RENEWABLE ENERGY PTY LTD",
+      "location": "Heemskirk Road, West Coast, Tasmania, 7469",
+      "projectTitle": "Whaleback Ridge Renewable Energy Project",
+      "validDate": "2026-08-07",
       "statusReason": "Referral Decision - Open for Public Comment",
       "projectStatus": null
     }
