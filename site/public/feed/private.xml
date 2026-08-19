@@ -6,8 +6,21 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/private.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes in the Private category.</description>
     <language>en-au</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:35:36 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
-
+    <item>
+      <title>New referral: 1.1.1	Golden Sun Moth Population Present on Lot Development</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10148</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10148:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10148 - Jurisdiction: VIC - Category: Private - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Clearing of native vegetation for development of Ravenswood Cemetery, Wallacia (SSD-50748212)</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10223</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10223:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10223 - Jurisdiction: NSW - Category: Private - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
   </channel>
 </rss>

@@ -6,8 +6,147 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/mining.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes in the Mining category.</description>
     <language>en-au</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:35:36 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
-
+    <item>
+      <title>New referral: Copi Mineral Sands Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2024-09955</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2024/09955:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2024/09955 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: Rix&apos;s Creek North Open Cut Mine</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10131</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10131:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10131 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Rix&apos;s Creek North Continuation Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10132</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10132:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10132 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
+    <item>
+      <title>New referral: Blue Hills Quarry</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10133</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10133:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10133 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
+    <item>
+      <title>New referral: Merinda Mara test 22 March2025 release- draw map</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10146</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10146:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10146 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Cancelled</description>
+    </item>
+    <item>
+      <title>New referral: Yarra Valley Quarry Stage 3 Expansion Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10156</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10156:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10156 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: Andersons Clay Mine Extension</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10173</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10173:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10173 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Browns Range Heavy Rare Earths Project - Heavy Rare Earth Bagging Facility and Concentrate Storage Area</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10174</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10174:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10174 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Hunter Valley Operations (HVO) South Open Cut Coal Continuation Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10176</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10176:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10176 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: Hunter Valley Operations (HVO) North Open Cut Coal Continuation Project.</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10177</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10177:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10177 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: Corvus Metallurgical Coal Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10181</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10181:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10181 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: Westside Northern Tenements (Mungis) – Coal Seam Gas on Petroleum Leases 1048 and 1049</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10182</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10182:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10182 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Guidelines Issued</description>
+    </item>
+    <item>
+      <title>New referral: Isaac Downs Extension Project - near Moranbah, Queensland</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10183</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10183:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10183 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: Dianne Copper Mine Recommencement Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10187</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10187:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10187 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Greenbushes Lithium Mine Additional Waste Rock Landforms and Salt Water Gully Dam</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10205</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10205:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10205 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Winu Copper and Gold Mine (Winu Project)</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10208</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10208:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10208 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Atlas Iron Pty Ltd - Sanjiv Ridge Stage 1 Below Groundwater Table Mining</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10228</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10228:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10228 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Guidelines Issued</description>
+    </item>
+    <item>
+      <title>New referral: Ausgold - Katanning Gold Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10232</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10232:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10232 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Continuation of Bengalla Mine Modification 8</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10236</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10236:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10236 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
+    <item>
+      <title>New referral: Roper Valley Iron Ore Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10240</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10240:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10240 - Jurisdiction: NT - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
   </channel>
 </rss>

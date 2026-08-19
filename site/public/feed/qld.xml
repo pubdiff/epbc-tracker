@@ -6,8 +6,140 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/qld.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes where the primary jurisdiction is QLD.</description>
     <language>en-au</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:35:36 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
-
+    <item>
+      <title>New referral: Land clearing for residential development</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2024-10003</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2024/10003:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2024/10003 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Vegetation Clearing at Karalee</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10116</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10116:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10116 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Borumba to Halys Transmission Connection Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10128</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10128:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10128 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Guidelines Issued</description>
+    </item>
+    <item>
+      <title>New referral: Merinda Mara test 22 March2025 release- draw map</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10146</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10146:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10146 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Cancelled</description>
+    </item>
+    <item>
+      <title>New referral: Cattle Creek Wind Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10150</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10150:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10150 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: Discovery Drive, Agnes Water Residential Development</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10157</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10157:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10157 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Project Withdrawn</description>
+    </item>
+    <item>
+      <title>New referral: Burdekin BESS and Transmission Line</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10166</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10166:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10166 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Corvus Metallurgical Coal Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10181</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10181:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10181 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: Westside Northern Tenements (Mungis) – Coal Seam Gas on Petroleum Leases 1048 and 1049</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10182</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10182:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10182 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Guidelines Issued</description>
+    </item>
+    <item>
+      <title>New referral: Isaac Downs Extension Project - near Moranbah, Queensland</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10183</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10183:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10183 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: Dianne Copper Mine Recommencement Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10187</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10187:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10187 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Hookey Creek Solar Farm and Battery Energy Storage System (BESS)</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10189</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10189:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10189 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Concrete Batch Plant and Trial Embankment Area for the Paradise Dam Improvement Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10206</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10206:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10206 - Jurisdiction: QLD - Category: Water Management and Use - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Lansdown Eco-Industrial Precinct (LEIP) Old Flinders Highway Intersection Upgrade</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10210</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10210:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10210 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Cairns Marine Precinct Common User Facility</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10216</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10216:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10216 - Jurisdiction: QLD - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Roma Phase 7-7B-SD20 Development</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10227</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10227:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10227 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Paradise Dam Improvement Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10229</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10229:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10229 - Jurisdiction: QLD - Category: Water Management and Use - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
+    <item>
+      <title>New referral: Sunshine State Solar Farm and BESS</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10230</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10230:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10230 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Columboola Battery</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10241</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10241:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10241 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
   </channel>
 </rss>

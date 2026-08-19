@@ -5,5 +5,71 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/transport-water.json",
   "description": "EPBC Act referral changes in the Transport - Water category.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2025/10165:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10165",
+      "title": "New referral: Geraldton Port Maximisation Project (PMaxP)",
+      "content_text": "Reference 2025/10165 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10165 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Transport - Water"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10180:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10180",
+      "title": "New referral: Tantabiddi Boating Facility",
+      "content_text": "Reference 2025/10180 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10180 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Transport - Water"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10188:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10188",
+      "title": "New referral: Lord Howe Island Critical Infrastructure Project",
+      "content_text": "Reference 2025/10188 - Jurisdiction: NSW - Category: Transport - Water - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2025/10188 - Jurisdiction: NSW - Category: Transport - Water - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Transport - Water"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10216:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10216",
+      "title": "New referral: Cairns Marine Precinct Common User Facility",
+      "content_text": "Reference 2025/10216 - Jurisdiction: QLD - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10216 - Jurisdiction: QLD - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Transport - Water"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10224:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10224",
+      "title": "New referral: 2025 Victorian Renewable Energy Terminal",
+      "content_text": "Reference 2025/10224 - Jurisdiction: VIC - Category: Transport - Water - Type: Referral (S68) - Status: Under Assessment",
+      "content_html": "<p>Reference 2025/10224 - Jurisdiction: VIC - Category: Transport - Water - Type: Referral (S68) - Status: Under Assessment</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Transport - Water"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,23 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "EPBC Tracker - Fishing - pubdiff",
+  "home_page_url": "https://pubdiff.github.io/epbc-tracker",
+  "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/fishing.json",
+  "description": "EPBC Act referral changes in the Fishing category.",
+  "language": "en-AU",
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2025/10167:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10167",
+      "title": "New referral: Merinda MARA TEST April 2025",
+      "content_text": "Reference 2025/10167 - Jurisdiction: NSW - Category: Fishing - Type: Referral (S68) - Status: Cancelled",
+      "content_html": "<p>Reference 2025/10167 - Jurisdiction: NSW - Category: Fishing - Type: Referral (S68) - Status: Cancelled</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Fishing"
+      ]
+    }
+  ]
+}

@@ -6,8 +6,35 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/sa.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes where the primary jurisdiction is SA.</description>
     <language>en-au</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:35:36 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
-
+    <item>
+      <title>New referral: Whyte Yarcowie Wind Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2024-09961</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2024/09961:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2024/09961 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Morgan Solar Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2024-10086</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2024/10086:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2024/10086 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Nonowie Wind Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10164</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10164:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10164 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Osborne Utilities Relocation</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10202</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10202:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10202 - Jurisdiction: SA - Category: Commonwealth Development - Type: Referral (S68) - Status: Project Withdrawn</description>
+    </item>
   </channel>
 </rss>

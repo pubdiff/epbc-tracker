@@ -5,5 +5,18 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/transport-air-and-space.json",
   "description": "EPBC Act referral changes in the Transport - Air and Space category.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2025/10214:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10214",
+      "title": "New referral: Airservices PFAS Remediation at Canberra Airport, in accordance with the Environmental Remedial Order (ERO) - Fire Training Ground and Main Fire Station at Canberra Airport.",
+      "content_text": "Reference 2025/10214 - Category: Transport - Air and Space - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10214 - Category: Transport - Air and Space - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "Transport - Air and Space"
+      ]
+    }
+  ]
 }

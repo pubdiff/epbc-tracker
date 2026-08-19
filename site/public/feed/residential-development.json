@@ -5,5 +5,188 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/residential-development.json",
   "description": "EPBC Act referral changes in the Residential Development category.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2024/09876:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09876",
+      "title": "New referral: Barton Heights Master Plan",
+      "content_text": "Reference 2024/09876 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2024/09876 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2024/09976:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09976",
+      "title": "New referral: Land clearing for development of Brooklyn Fields Estate",
+      "content_text": "Reference 2024/09976 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2024/09976 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2024/10003:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-10003",
+      "title": "New referral: Land clearing for residential development",
+      "content_text": "Reference 2024/10003 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2024/10003 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10116:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10116",
+      "title": "New referral: Vegetation Clearing at Karalee",
+      "content_text": "Reference 2025/10116 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10116 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10155:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10155",
+      "title": "New referral: Monarchs Rise Residential Subdivision",
+      "content_text": "Reference 2025/10155 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10155 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10157:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10157",
+      "title": "New referral: Discovery Drive, Agnes Water Residential Development",
+      "content_text": "Reference 2025/10157 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Project Withdrawn",
+      "content_html": "<p>Reference 2025/10157 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Project Withdrawn</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10158:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10158",
+      "title": "New referral: Lot 102 Bussell Highway, Cowaramup Residential Development",
+      "content_text": "Reference 2025/10158 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10158 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10172:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10172",
+      "title": "New referral: Hammond Road Residential Development",
+      "content_text": "Reference 2025/10172 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10172 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10199:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10199",
+      "title": "New referral: Stage 14F residential development, Dalyellup, WA",
+      "content_text": "Reference 2025/10199 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10199 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10204:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10204",
+      "title": "New referral: Williams Park Estate - Housing Subdivision, Thurgoona NSW",
+      "content_text": "Reference 2025/10204 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Approval Decision made",
+      "content_html": "<p>Reference 2025/10204 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Approval Decision made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10207:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10207",
+      "title": "New referral: Phase One - Prime Dunsborough",
+      "content_text": "Reference 2025/10207 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10207 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10234:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10234",
+      "title": "New referral: Residential Development, Mariginiup",
+      "content_text": "Reference 2025/10234 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Considering Variation to Proposal",
+      "content_html": "<p>Reference 2025/10234 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Considering Variation to Proposal</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10239:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10239",
+      "title": "New referral: Residential subdivision, Mirador.",
+      "content_text": "Reference 2025/10239 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10239 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10242:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10242",
+      "title": "New referral: “Elysian” Residential Development Project",
+      "content_text": "Reference 2025/10242 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10242 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Residential Development"
+      ]
+    }
+  ]
 }

@@ -6,8 +6,14 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/aquaculture.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes in the Aquaculture category.</description>
     <language>en-au</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:35:36 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
-
+    <item>
+      <title>New referral: Ocean-based aquaculture for golden kelp farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10149</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10149:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10149 - Jurisdiction: NSW - Category: Aquaculture - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
   </channel>
 </rss>

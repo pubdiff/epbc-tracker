@@ -5,5 +5,19 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/science-and-research.json",
   "description": "EPBC Act referral changes in the Science and Research category.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2025/10161:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10161",
+      "title": "New referral: Marine survey of the Bunbury continental shelf.",
+      "content_text": "Reference 2025/10161 - Jurisdiction: CM - Category: Science and Research - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10161 - Jurisdiction: CM - Category: Science and Research - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "CM",
+        "Science and Research"
+      ]
+    }
+  ]
 }

@@ -5,5 +5,19 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/exploration-mineral-oil-and-gas-non-marine.json",
   "description": "EPBC Act referral changes in the Exploration (mineral, oil and gas - non-marine) category.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2025/10178:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10178",
+      "title": "New referral: Decommissioning Campaign #1 - Onshore Reception Centre early works",
+      "content_text": "Reference 2025/10178 - Jurisdiction: VIC - Category: Exploration (mineral, oil and gas - non-marine) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10178 - Jurisdiction: VIC - Category: Exploration (mineral, oil and gas - non-marine) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Exploration (mineral, oil and gas - non-marine)"
+      ]
+    }
+  ]
 }

@@ -6,8 +6,21 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/natural-resources-management.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes in the Natural Resources Management category.</description>
     <language>en-au</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:35:36 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
-
+    <item>
+      <title>New referral: Reconnecting River Country: Werai Forest Regulators infrastructure upgrade</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10137</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10137:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10137 - Jurisdiction: NSW - Category: Natural Resources Management - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: McArdles Gap Wetland Watering Infrastructure</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10186</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10186:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10186 - Jurisdiction: VIC - Category: Natural Resources Management - Type: Referral (S68) - Status: Project Withdrawn</description>
+    </item>
   </channel>
 </rss>

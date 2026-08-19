@@ -5,5 +5,175 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/vic.json",
   "description": "EPBC Act referral changes where the primary jurisdiction is VIC.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2024/09958:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09958",
+      "title": "New referral: Wattle Hill Creek, Bridge Replacement Project, Henty Highway, Portland",
+      "content_text": "Reference 2024/09958 - Jurisdiction: VIC - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2024/09958 - Jurisdiction: VIC - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Transport - Land"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2024/10088:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-10088",
+      "title": "New referral: Great Eastern Offshore Wind",
+      "content_text": "Reference 2024/10088 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Guidelines Issued",
+      "content_html": "<p>Reference 2024/10088 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Guidelines Issued</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10127:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10127",
+      "title": "New referral: Poultry rearing facility, Anakie",
+      "content_text": "Reference 2025/10127 - Jurisdiction: VIC - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10127 - Jurisdiction: VIC - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Agriculture and Forestry"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10133:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10133",
+      "title": "New referral: Blue Hills Quarry",
+      "content_text": "Reference 2025/10133 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2025/10133 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10148:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10148",
+      "title": "New referral: 1.1.1\tGolden Sun Moth Population Present on Lot Development",
+      "content_text": "Reference 2025/10148 - Jurisdiction: VIC - Category: Private - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10148 - Jurisdiction: VIC - Category: Private - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Private"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10151:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10151",
+      "title": "New referral: Porcupine Village Holiday Park Redevelopment",
+      "content_text": "Reference 2025/10151 - Jurisdiction: VIC - Category: Tourism and Recreation - Type: Referral (S68) - Status: Awaiting additional information",
+      "content_html": "<p>Reference 2025/10151 - Jurisdiction: VIC - Category: Tourism and Recreation - Type: Referral (S68) - Status: Awaiting additional information</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Tourism and Recreation"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10156:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10156",
+      "title": "New referral: Yarra Valley Quarry Stage 3 Expansion Project",
+      "content_text": "Reference 2025/10156 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Under Assessment",
+      "content_html": "<p>Reference 2025/10156 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Under Assessment</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10178:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10178",
+      "title": "New referral: Decommissioning Campaign #1 - Onshore Reception Centre early works",
+      "content_text": "Reference 2025/10178 - Jurisdiction: VIC - Category: Exploration (mineral, oil and gas - non-marine) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10178 - Jurisdiction: VIC - Category: Exploration (mineral, oil and gas - non-marine) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Exploration (mineral, oil and gas - non-marine)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10186:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10186",
+      "title": "New referral: McArdles Gap Wetland Watering Infrastructure",
+      "content_text": "Reference 2025/10186 - Jurisdiction: VIC - Category: Natural Resources Management - Type: Referral (S68) - Status: Project Withdrawn",
+      "content_html": "<p>Reference 2025/10186 - Jurisdiction: VIC - Category: Natural Resources Management - Type: Referral (S68) - Status: Project Withdrawn</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Natural Resources Management"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10213:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10213",
+      "title": "New referral: Upper Yarra Debris Flow Nets",
+      "content_text": "Reference 2025/10213 - Jurisdiction: VIC - Category: Water Management and Use - Type: Referral (S68) - Status: Awaiting additional information",
+      "content_html": "<p>Reference 2025/10213 - Jurisdiction: VIC - Category: Water Management and Use - Type: Referral (S68) - Status: Awaiting additional information</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Water Management and Use"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10224:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10224",
+      "title": "New referral: 2025 Victorian Renewable Energy Terminal",
+      "content_text": "Reference 2025/10224 - Jurisdiction: VIC - Category: Transport - Water - Type: Referral (S68) - Status: Under Assessment",
+      "content_html": "<p>Reference 2025/10224 - Jurisdiction: VIC - Category: Transport - Water - Type: Referral (S68) - Status: Under Assessment</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Transport - Water"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10231:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10231",
+      "title": "New referral: Nowingi Solar Power Station",
+      "content_text": "Reference 2025/10231 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10231 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10238:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10238",
+      "title": "New referral: Tall Tree Wind Farm",
+      "content_text": "Reference 2025/10238 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2025/10238 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Energy Generation and Supply (renewable)"
+      ]
+    }
+  ]
 }

@@ -5,5 +5,32 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/nt.json",
   "description": "EPBC Act referral changes where the primary jurisdiction is NT.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2025/10235:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10235",
+      "title": "New referral: Sweetwater Agricultural Development Stage 1",
+      "content_text": "Reference 2025/10235 - Jurisdiction: NT - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Draft EIS Guidelines Published - Open for Public Comment",
+      "content_html": "<p>Reference 2025/10235 - Jurisdiction: NT - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Draft EIS Guidelines Published - Open for Public Comment</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NT",
+        "Agriculture and Forestry"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10240:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10240",
+      "title": "New referral: Roper Valley Iron Ore Project",
+      "content_text": "Reference 2025/10240 - Jurisdiction: NT - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10240 - Jurisdiction: NT - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NT",
+        "Mining"
+      ]
+    }
+  ]
 }

@@ -6,8 +6,42 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/water-management-and-use.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes in the Water Management and Use category.</description>
     <language>en-au</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:35:36 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
-
+    <item>
+      <title>New referral: Goldfields and Agricultural Region Water Supply Scheme (GAWS) Main Conduit Replacement - Yerbillion Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10162</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10162:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10162 - Jurisdiction: WA - Category: Water Management and Use - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Concrete Batch Plant and Trial Embankment Area for the Paradise Dam Improvement Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10206</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10206:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10206 - Jurisdiction: QLD - Category: Water Management and Use - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Upper Yarra Debris Flow Nets</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10213</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10213:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10213 - Jurisdiction: VIC - Category: Water Management and Use - Type: Referral (S68) - Status: Awaiting additional information</description>
+    </item>
+    <item>
+      <title>New referral: Caddadup 25ML Water Storage Tank Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10217</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10217:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10217 - Jurisdiction: WA - Category: Water Management and Use - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Paradise Dam Improvement Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10229</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10229:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10229 - Jurisdiction: QLD - Category: Water Management and Use - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
   </channel>
 </rss>

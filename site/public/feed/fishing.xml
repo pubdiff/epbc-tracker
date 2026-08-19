@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EPBC Tracker - Fishing - pubdiff</title>
+    <link>https://pubdiff.github.io/epbc-tracker</link>
+    <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/fishing.xml" rel="self" type="application/rss+xml" />
+    <description>EPBC Act referral changes in the Fishing category.</description>
+    <language>en-au</language>
+    <lastBuildDate>Wed, 19 Aug 2026 20:35:36 GMT</lastBuildDate>
+    <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
+    <item>
+      <title>New referral: Merinda MARA TEST April 2025</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10167</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10167:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10167 - Jurisdiction: NSW - Category: Fishing - Type: Referral (S68) - Status: Cancelled</description>
+    </item>
+  </channel>
+</rss>

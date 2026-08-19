@@ -6,8 +6,42 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/transport-water.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes in the Transport - Water category.</description>
     <language>en-au</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:35:36 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
-
+    <item>
+      <title>New referral: Geraldton Port Maximisation Project (PMaxP)</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10165</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10165:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10165 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Tantabiddi Boating Facility</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10180</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10180:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10180 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Lord Howe Island Critical Infrastructure Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10188</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10188:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10188 - Jurisdiction: NSW - Category: Transport - Water - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
+    <item>
+      <title>New referral: Cairns Marine Precinct Common User Facility</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10216</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10216:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10216 - Jurisdiction: QLD - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: 2025 Victorian Renewable Energy Terminal</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10224</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10224:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10224 - Jurisdiction: VIC - Category: Transport - Water - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
   </channel>
 </rss>

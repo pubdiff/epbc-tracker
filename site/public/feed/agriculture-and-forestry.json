@@ -5,5 +5,71 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/agriculture-and-forestry.json",
   "description": "EPBC Act referral changes in the Agriculture and Forestry category.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2025/10127:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10127",
+      "title": "New referral: Poultry rearing facility, Anakie",
+      "content_text": "Reference 2025/10127 - Jurisdiction: VIC - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10127 - Jurisdiction: VIC - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Agriculture and Forestry"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10141:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10141",
+      "title": "New referral: CBH Nyabing Road Intersection Upgrades",
+      "content_text": "Reference 2025/10141 - Jurisdiction: WA - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10141 - Jurisdiction: WA - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Agriculture and Forestry"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10171:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10171",
+      "title": "New referral: CBH Kellerberrin Rail Out loading Project",
+      "content_text": "Reference 2025/10171 - Jurisdiction: WA - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Approval Decision made",
+      "content_html": "<p>Reference 2025/10171 - Jurisdiction: WA - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Approval Decision made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Agriculture and Forestry"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10185:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10185",
+      "title": "New referral: Burtundy Station Dryland Cropping Expansion",
+      "content_text": "Reference 2025/10185 - Jurisdiction: NSW - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Approval Decision made",
+      "content_html": "<p>Reference 2025/10185 - Jurisdiction: NSW - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Approval Decision made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Agriculture and Forestry"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10235:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10235",
+      "title": "New referral: Sweetwater Agricultural Development Stage 1",
+      "content_text": "Reference 2025/10235 - Jurisdiction: NT - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Draft EIS Guidelines Published - Open for Public Comment",
+      "content_html": "<p>Reference 2025/10235 - Jurisdiction: NT - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Draft EIS Guidelines Published - Open for Public Comment</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NT",
+        "Agriculture and Forestry"
+      ]
+    }
+  ]
 }

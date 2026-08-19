@@ -5,5 +5,19 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/aquaculture.json",
   "description": "EPBC Act referral changes in the Aquaculture category.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2025/10149:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10149",
+      "title": "New referral: Ocean-based aquaculture for golden kelp farm",
+      "content_text": "Reference 2025/10149 - Jurisdiction: NSW - Category: Aquaculture - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10149 - Jurisdiction: NSW - Category: Aquaculture - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Aquaculture"
+      ]
+    }
+  ]
 }

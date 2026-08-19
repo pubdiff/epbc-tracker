@@ -5,5 +5,58 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/sa.json",
   "description": "EPBC Act referral changes where the primary jurisdiction is SA.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2024/09961:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09961",
+      "title": "New referral: Whyte Yarcowie Wind Farm",
+      "content_text": "Reference 2024/09961 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2024/09961 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "SA",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2024/10086:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-10086",
+      "title": "New referral: Morgan Solar Project",
+      "content_text": "Reference 2024/10086 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2024/10086 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "SA",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10164:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10164",
+      "title": "New referral: Nonowie Wind Farm",
+      "content_text": "Reference 2025/10164 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10164 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "SA",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10202:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10202",
+      "title": "New referral: Osborne Utilities Relocation",
+      "content_text": "Reference 2025/10202 - Jurisdiction: SA - Category: Commonwealth Development - Type: Referral (S68) - Status: Project Withdrawn",
+      "content_html": "<p>Reference 2025/10202 - Jurisdiction: SA - Category: Commonwealth Development - Type: Referral (S68) - Status: Project Withdrawn</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "SA",
+        "Commonwealth Development"
+      ]
+    }
+  ]
 }

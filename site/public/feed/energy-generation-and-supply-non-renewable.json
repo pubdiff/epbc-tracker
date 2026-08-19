@@ -5,5 +5,71 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/energy-generation-and-supply-non-renewable.json",
   "description": "EPBC Act referral changes in the Energy Generation and Supply (non-renewable) category.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2025/10128:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10128",
+      "title": "New referral: Borumba to Halys Transmission Connection Project",
+      "content_text": "Reference 2025/10128 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Guidelines Issued",
+      "content_html": "<p>Reference 2025/10128 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Guidelines Issued</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Energy Generation and Supply (non-renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10166:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10166",
+      "title": "New referral: Burdekin BESS and Transmission Line",
+      "content_text": "Reference 2025/10166 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10166 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Energy Generation and Supply (non-renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10200:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10200",
+      "title": "New referral: Talbingo Battery",
+      "content_text": "Reference 2025/10200 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2025/10200 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (non-renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10225:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10225",
+      "title": "New referral: Moomba to Wilton Pipeline – MW733 Compressor Station (Modification 8)",
+      "content_text": "Reference 2025/10225 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10225 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (non-renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10227:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10227",
+      "title": "New referral: Roma Phase 7-7B-SD20 Development",
+      "content_text": "Reference 2025/10227 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10227 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Energy Generation and Supply (non-renewable)"
+      ]
+    }
+  ]
 }

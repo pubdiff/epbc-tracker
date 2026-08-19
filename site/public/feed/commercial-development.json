@@ -5,5 +5,19 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/commercial-development.json",
   "description": "EPBC Act referral changes in the Commercial Development category.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2025/10159:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10159",
+      "title": "New referral: Honeman Close Warehouse Facility (SSD-79500208)",
+      "content_text": "Reference 2025/10159 - Jurisdiction: NSW - Category: Commercial Development - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2025/10159 - Jurisdiction: NSW - Category: Commercial Development - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Commercial Development"
+      ]
+    }
+  ]
 }

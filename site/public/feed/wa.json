@@ -5,5 +5,292 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/wa.json",
   "description": "EPBC Act referral changes where the primary jurisdiction is WA.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2025/10141:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10141",
+      "title": "New referral: CBH Nyabing Road Intersection Upgrades",
+      "content_text": "Reference 2025/10141 - Jurisdiction: WA - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10141 - Jurisdiction: WA - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Agriculture and Forestry"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10142:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10142",
+      "title": "New referral: Karnup Road Widening Project, Hopeland",
+      "content_text": "Reference 2025/10142 - Jurisdiction: WA - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10142 - Jurisdiction: WA - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Transport - Land"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10158:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10158",
+      "title": "New referral: Lot 102 Bussell Highway, Cowaramup Residential Development",
+      "content_text": "Reference 2025/10158 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10158 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10162:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10162",
+      "title": "New referral: Goldfields and Agricultural Region Water Supply Scheme (GAWS) Main Conduit Replacement - Yerbillion Project",
+      "content_text": "Reference 2025/10162 - Jurisdiction: WA - Category: Water Management and Use - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10162 - Jurisdiction: WA - Category: Water Management and Use - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Water Management and Use"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10163:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10163",
+      "title": "New referral: Turner River Solar Hub",
+      "content_text": "Reference 2025/10163 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Approval Decision made",
+      "content_html": "<p>Reference 2025/10163 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Approval Decision made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10165:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10165",
+      "title": "New referral: Geraldton Port Maximisation Project (PMaxP)",
+      "content_text": "Reference 2025/10165 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10165 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Transport - Water"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10171:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10171",
+      "title": "New referral: CBH Kellerberrin Rail Out loading Project",
+      "content_text": "Reference 2025/10171 - Jurisdiction: WA - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Approval Decision made",
+      "content_html": "<p>Reference 2025/10171 - Jurisdiction: WA - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Approval Decision made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Agriculture and Forestry"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10172:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10172",
+      "title": "New referral: Hammond Road Residential Development",
+      "content_text": "Reference 2025/10172 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10172 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10174:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10174",
+      "title": "New referral: Browns Range Heavy Rare Earths Project - Heavy Rare Earth Bagging Facility and Concentrate Storage Area",
+      "content_text": "Reference 2025/10174 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10174 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10180:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10180",
+      "title": "New referral: Tantabiddi Boating Facility",
+      "content_text": "Reference 2025/10180 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10180 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Transport - Water"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10191:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10191",
+      "title": "New referral: Broome Future Energy System",
+      "content_text": "Reference 2025/10191 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10191 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10194:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10194",
+      "title": "New referral: East Pilbara Generation Hub",
+      "content_text": "Reference 2025/10194 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10194 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10199:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10199",
+      "title": "New referral: Stage 14F residential development, Dalyellup, WA",
+      "content_text": "Reference 2025/10199 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10199 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10205:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10205",
+      "title": "New referral: Greenbushes Lithium Mine Additional Waste Rock Landforms and Salt Water Gully Dam",
+      "content_text": "Reference 2025/10205 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10205 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10207:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10207",
+      "title": "New referral: Phase One - Prime Dunsborough",
+      "content_text": "Reference 2025/10207 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10207 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10208:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10208",
+      "title": "New referral: Winu Copper and Gold Mine (Winu Project)",
+      "content_text": "Reference 2025/10208 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10208 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10215:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10215",
+      "title": "New referral: Derby Future Energy System",
+      "content_text": "Reference 2025/10215 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment",
+      "content_html": "<p>Reference 2025/10215 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10217:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10217",
+      "title": "New referral: Caddadup 25ML Water Storage Tank Project",
+      "content_text": "Reference 2025/10217 - Jurisdiction: WA - Category: Water Management and Use - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10217 - Jurisdiction: WA - Category: Water Management and Use - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Water Management and Use"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10222:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10222",
+      "title": "New referral: Baru-Marnda Renewable Energy Project",
+      "content_text": "Reference 2025/10222 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting additional information",
+      "content_html": "<p>Reference 2025/10222 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting additional information</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10228:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10228",
+      "title": "New referral: Atlas Iron Pty Ltd - Sanjiv Ridge Stage 1 Below Groundwater Table Mining",
+      "content_text": "Reference 2025/10228 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Guidelines Issued",
+      "content_html": "<p>Reference 2025/10228 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Guidelines Issued</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10232:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10232",
+      "title": "New referral: Ausgold - Katanning Gold Project",
+      "content_text": "Reference 2025/10232 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10232 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10234:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10234",
+      "title": "New referral: Residential Development, Mariginiup",
+      "content_text": "Reference 2025/10234 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Considering Variation to Proposal",
+      "content_html": "<p>Reference 2025/10234 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Considering Variation to Proposal</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    }
+  ]
 }

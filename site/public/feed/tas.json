@@ -5,5 +5,32 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/tas.json",
   "description": "EPBC Act referral changes where the primary jurisdiction is TAS.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2025/10160:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10160",
+      "title": "New referral: Weasel Solar Farm",
+      "content_text": "Reference 2025/10160 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2025/10160 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "TAS",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2025/10226:2026-08-19",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10226",
+      "title": "New referral: Tarraleah Redevelopment Project",
+      "content_text": "Reference 2025/10226 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2025/10226 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-08-19T00:00:00Z",
+      "tags": [
+        "added",
+        "TAS",
+        "Energy Generation and Supply (renewable)"
+      ]
+    }
+  ]
 }

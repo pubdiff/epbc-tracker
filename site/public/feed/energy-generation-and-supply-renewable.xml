@@ -6,8 +6,210 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/energy-generation-and-supply-renewable.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes in the Energy Generation and Supply (renewable) category.</description>
     <language>en-au</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:35:36 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
-
+    <item>
+      <title>New referral: Whyte Yarcowie Wind Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2024-09961</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2024/09961:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2024/09961 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Morgan Solar Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2024-10086</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2024/10086:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2024/10086 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Great Eastern Offshore Wind</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2024-10088</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2024/10088:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2024/10088 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Guidelines Issued</description>
+    </item>
+    <item>
+      <title>New referral: Peninsula Solar Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10136</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10136:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10136 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Brewongle Solar Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10143</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10143:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10143 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Cattle Creek Wind Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10150</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10150:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10150 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: South Coree BESS</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10152</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10152:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10152 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Weasel Solar Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10160</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10160:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10160 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Turner River Solar Hub</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10163</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10163:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10163 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Approval Decision made</description>
+    </item>
+    <item>
+      <title>New referral: Nonowie Wind Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10164</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10164:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10164 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Yanco Delta Wind Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10179</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10179:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10179 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
+    <item>
+      <title>New referral: Hookey Creek Solar Farm and Battery Energy Storage System (BESS)</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10189</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10189:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10189 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Eastern Hub Firming Battery Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10190</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10190:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10190 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Broome Future Energy System</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10191</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10191:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10191 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: East Pilbara Generation Hub</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10194</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10194:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10194 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Yanco Delta Wind Farm - Dinawan Transmission Line</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10195</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10195:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10195 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: Forbes Solar Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10209</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10209:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10209 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Sunny Corner Wind Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10211</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10211:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10211 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
+    <item>
+      <title>New referral: Garoo Solar Farm and BESS</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10212</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10212:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10212 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Derby Future Energy System</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10215</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10215:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10215 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: Mangoplah BESS</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10220</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10220:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10220 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Kiar Battery Energy Storage System (BESS)</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10221</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10221:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10221 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
+    <item>
+      <title>New referral: Baru-Marnda Renewable Energy Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10222</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10222:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10222 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting additional information</description>
+    </item>
+    <item>
+      <title>New referral: Tarraleah Redevelopment Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10226</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10226:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10226 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Sunshine State Solar Farm and BESS</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10230</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10230:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10230 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Nowingi Solar Power Station</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10231</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10231:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10231 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Canyonleigh Battery Energy Storage System</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10233</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10233:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10233 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
+    <item>
+      <title>New referral: Tall Tree Wind Farm</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10238</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10238:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10238 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
+    <item>
+      <title>New referral: Columboola Battery</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10241</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10241:2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10241 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
   </channel>
 </rss>
