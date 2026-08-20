@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-13T20:41:09.432Z",
+  "generatedAt": "2026-08-20T20:27:27.910Z",
   "source": "epbc-public-portal",
-  "count": 8224,
+  "count": 8227,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -440,7 +440,7 @@
       "location": "17, 27 and 33 Vittoria Road, Glen Iris 6230",
       "projectTitle": "Glen Iris Commercial Development",
       "validDate": "2026-04-01",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10461": {
@@ -600,7 +600,7 @@
       "location": "Maroochy River, Sunshine Coast, Queensland (adjacent to Lot 39 USL32605)",
       "projectTitle": "Maroochy River - Dredging and Beach Nourishment",
       "validDate": "2026-03-06",
-      "statusReason": "Reconsideration Request Received",
+      "statusReason": "Reconsideration Requested - Open for Comment",
       "projectStatus": null
     },
     "2026/10423": {
@@ -1140,7 +1140,7 @@
       "location": "Lot 8 of Plan 47960, at the intersection of Rowes Rd and Dandaragan Rd, Yathroo",
       "projectTitle": "Yathroo Wind Farm",
       "validDate": "2026-01-09",
-      "statusReason": "Direction to Publish Draft Preliminary Documentation Issued",
+      "statusReason": "Draft documentation published - Open for Public Comment",
       "projectStatus": null
     },
     "2025/10374": {
@@ -3546,11 +3546,11 @@
     "2025/10098": {
       "ticketNumber": "2025/10098",
       "incidentId": "bf218950-80cc-ef11-b8e8-0022481295e6",
-      "proponent": "PROTEN PTY LIMITED",
+      "proponent": "SPIRECOM PTY LTD",
       "location": "320 Mooleric Road, Ombersley.",
       "projectTitle": "Birregurra-Ombersley Poultry Farm and associated infrastructure upgrades",
       "validDate": "2025-03-07",
-      "statusReason": "Considering Final Decision",
+      "statusReason": "Approval Decision made",
       "projectStatus": null
     },
     "2024/10085": {
@@ -81880,7 +81880,7 @@
       "location": "Northern Territory waters, Queensland waters, Commonwealth Waters",
       "projectTitle": "Project Werribee Geophysical Survey",
       "validDate": "2026-07-08",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2025/10381": {
@@ -81970,7 +81970,7 @@
       "location": "17-31 George Alexander Way, Coomera",
       "projectTitle": "Coomera Mixed Use Precinct",
       "validDate": "2026-07-23",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10582": {
@@ -81980,7 +81980,7 @@
       "location": "Rowe Road Woodstock QLD 4816",
       "projectTitle": "Lansdown Solar West, solar farm and transmission line",
       "validDate": "2026-07-23",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10588": {
@@ -82000,7 +82000,7 @@
       "location": "1248 Goulburn Road Boro",
       "projectTitle": "Boro Solar Farm",
       "validDate": "2026-07-21",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10575": {
@@ -82010,7 +82010,7 @@
       "location": "Charlotte Street, Blackstone Queensland 4304",
       "projectTitle": "Charlotte Street Development Proposal",
       "validDate": "2026-07-21",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10574": {
@@ -82020,7 +82020,7 @@
       "location": "800 km from Adelaide and 290 km northwest of Ceduna.",
       "projectTitle": "Typhoon Mineral Sands Project",
       "validDate": "2026-07-21",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10583": {
@@ -82030,7 +82030,7 @@
       "location": "394 Ewingsdale Road, Byron Bay, NSW, 2481, Melaleuca Drive, Byron Bay, NSW, 2481",
       "projectTitle": "West Byron subdivision",
       "validDate": "2026-07-21",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10508": {
@@ -82040,7 +82040,7 @@
       "location": "1263 Kennedy Highway, Kuranda, Queensland, 4881.",
       "projectTitle": "Barron River Bridge (Kuranda) Replacement Project",
       "validDate": "2026-07-21",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10576": {
@@ -82120,7 +82120,7 @@
       "location": "Glenroy Road, Fitzroy River crossing, northwest of Rockhampton, QLD 4700",
       "projectTitle": "Glenroy Crossing Bridge Upgrade Design Project",
       "validDate": "2026-07-24",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Awaiting additional information",
       "projectStatus": null
     },
     "2026/10563": {
@@ -82150,7 +82150,7 @@
       "location": "Intersection of Old Great Northern Highway and Stan Tremlett Dr",
       "projectTitle": "Halls Creek Future Energy System",
       "validDate": "2026-08-06",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10528": {
@@ -82160,7 +82160,7 @@
       "location": "Waters adjacent to land at Dungeness Road, Lucinda and Lot 540 on SP291542",
       "projectTitle": "Dungeness Breakwater and Dredging",
       "validDate": "2026-08-05",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10558": {
@@ -82170,7 +82170,7 @@
       "location": "Lot 1 on RP13538, Un-named road south of Patrick Street, Swanbank, QLD.",
       "projectTitle": "Develop a Battery Energy Storage System (BESS), Swanbank, Qld.",
       "validDate": "2026-08-05",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10598": {
@@ -82180,7 +82180,7 @@
       "location": "Shute Harbour Dr near Whitsunday Dr, Shute Harbour QLD 4802",
       "projectTitle": "Shute Harbour Boating Facility",
       "validDate": "2026-08-04",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10596": {
@@ -82190,7 +82190,7 @@
       "location": "Shamrock Street, Hexham NSW 2322",
       "projectTitle": "Ironbark Creek Underbridge Replacement",
       "validDate": "2026-08-04",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10593": {
@@ -82200,7 +82200,7 @@
       "location": "126-130 Park Ridge Road, Park Ridge, Queensland 4125",
       "projectTitle": "Residential Development Park Ridge QLD",
       "validDate": "2026-08-03",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10594": {
@@ -82210,7 +82210,7 @@
       "location": "Parkes Place East, Parkes, ACT 2600",
       "projectTitle": "National Sculpture Garden Renewal, Stage 1",
       "validDate": "2026-07-31",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10595": {
@@ -82240,6 +82240,36 @@
       "location": "Heemskirk Road, West Coast, Tasmania, 7469",
       "projectTitle": "Whaleback Ridge Renewable Energy Project",
       "validDate": "2026-08-07",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10610": {
+      "ticketNumber": "2026/10610",
+      "incidentId": "0d9d888a-0092-f111-8076-7ced8d3498d7",
+      "proponent": "DIRECTOR OF NATIONAL PARKS",
+      "location": "Lasseter Highway,  Yulara Northern Territory,  0872 Australia",
+      "projectTitle": "Uluru Base Walk Upgrades",
+      "validDate": "2026-08-20",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10591": {
+      "ticketNumber": "2026/10591",
+      "incidentId": "b59d052a-d07f-f111-ab0f-002248989885",
+      "proponent": "BUNGABAN HOLD TRUSCO PTY LTD",
+      "location": "Lot 7 Big Valley Road, Bungaban QLD 4419",
+      "projectTitle": "Bungaban Solar Project",
+      "validDate": "2026-08-18",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10577": {
+      "ticketNumber": "2026/10577",
+      "incidentId": "8a465fa5-5374-f111-ab0f-7ced8d326d41",
+      "proponent": "Moreton Bay City Council",
+      "location": "Old Gympie Road from Boundary Road (North Lakes, 4509) to Anzac Avenue (Kallangur, 4503)",
+      "projectTitle": "Old Gympie Road Upgrade",
+      "validDate": "2026-08-14",
       "statusReason": "Referral Decision - Open for Public Comment",
       "projectStatus": null
     }
