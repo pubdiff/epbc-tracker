@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T20:27:27.910Z",
+  "generatedAt": "2026-08-28T04:06:12.772Z",
   "source": "epbc-public-portal",
-  "count": 8227,
+  "count": 8232,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -260,7 +260,7 @@
       "location": "44 Grove Street West, Little Grove, WA 6330 and associated road reserves",
       "projectTitle": "Lot 17 Grove Street West - Residential Development",
       "validDate": "2026-04-29",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10492": {
@@ -320,7 +320,7 @@
       "location": "Starting at Middle Arm Peninsula (NT) extending 250km west into the Joseph Bonaparte Gulf",
       "projectTitle": "Bonaparte Carbon Capture and Storage Project",
       "validDate": "2026-04-20",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Draft EIS Guidelines Published - Open for Public Comment",
       "projectStatus": null
     },
     "2026/10463": {
@@ -390,7 +390,7 @@
       "location": "302 and 362-388 Old Cleveland Road East, Birkdale QLD 4159",
       "projectTitle": "Birkdale Community Precinct and Redland Whitewater Centre",
       "validDate": "2026-04-10",
-      "statusReason": "Reconsideration Requested - Open for Comment",
+      "statusReason": "Reconsideration Requested",
       "projectStatus": null
     },
     "2026/10475": {
@@ -480,7 +480,7 @@
       "location": "1265 Fernbank-Glenaladale Road, Fernbank VIC 3864 Australia",
       "projectTitle": "Fingerboards Critical Minerals Project",
       "validDate": "2026-03-25",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10466": {
@@ -1630,7 +1630,7 @@
       "location": "Nulla Road, Rufus Wentworth NSW 2648",
       "projectTitle": "Copi Mineral Sands Project",
       "validDate": "2025-11-06",
-      "statusReason": "Under Assessment",
+      "statusReason": "Considering Final Decision",
       "projectStatus": null
     },
     "2025/10342": {
@@ -1900,7 +1900,7 @@
       "location": "Ripley Road, Ripley, Queensland, 4306 and Fischer Road, Ripley, Queensland, 4306.",
       "projectTitle": "Ripley Road and Fischer Road Upgrade",
       "validDate": "2025-10-16",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10277": {
@@ -2150,7 +2150,7 @@
       "location": "Newmont Boddington, Gold Mine Road, Boddington, Western Australia 6390",
       "projectTitle": "Newmont Boddington Mine Life of Mine Extension Amendment Proposal",
       "validDate": "2025-09-05",
-      "statusReason": "Guidelines Issued",
+      "statusReason": "Considering Variation to Proposal",
       "projectStatus": null
     },
     "2025/10261": {
@@ -2680,7 +2680,7 @@
       "location": "Gate 9, Scherger Dr, Canberra Airport ACT",
       "projectTitle": "Airservices PFAS Remediation at Canberra Airport, in accordance with the Environmental Remedial Order (ERO) - Fire Training Ground and Main Fire Station at Canberra Airport.",
       "validDate": "2025-06-19",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Project Withdrawn",
       "projectStatus": null
     },
     "2025/10218": {
@@ -2940,7 +2940,7 @@
       "location": "35 Pringles Road, Anakie, Victoria",
       "projectTitle": "Poultry rearing facility, Anakie",
       "validDate": "2025-05-21",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Project Withdrawn",
       "projectStatus": null
     },
     "2025/10185": {
@@ -3290,7 +3290,7 @@
       "location": "Lot 479 in DP1284714 and addressed as Kerr Road, Thurgoona",
       "projectTitle": "Land clearing for development of Brooklyn Fields Estate",
       "validDate": "2025-04-02",
-      "statusReason": "Considering Variation to Proposal",
+      "statusReason": "Direction to Publish Draft Preliminary Documentation Issued",
       "projectStatus": null
     },
     "2024/10086": {
@@ -3390,7 +3390,7 @@
       "location": "1160 Sayers Road, Tarneit",
       "projectTitle": "Sewells Road Residential Development and Road Upgrade",
       "validDate": "2025-03-20",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Project Withdrawn",
       "projectStatus": null
     },
     "2025/10119": {
@@ -81730,7 +81730,7 @@
       "location": "Mickleham Road, between Dellamore Boulevard, Greenvale and Craigieburn Road, Craigieburn (Victoria)",
       "projectTitle": "Mickleham Road Upgrade Stage 2",
       "validDate": "2026-06-22",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10545": {
@@ -81780,7 +81780,7 @@
       "location": "18698 Stuart Highway, Tanami East, NT 0852",
       "projectTitle": "Project Ares - Integrated Hyperscale Data Centre Campus",
       "validDate": "2026-06-29",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10556": {
@@ -81800,7 +81800,7 @@
       "location": "18667 Gwydir Highway, Walgett NSW 2832",
       "projectTitle": "Tara and Dundulla Dryland Cropping Expansion",
       "validDate": "2026-06-29",
-      "statusReason": "Draft documentation published - Open for Public Comment",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2026/10514": {
@@ -81890,7 +81890,7 @@
       "location": "The proposed Project covers the extent of MDL303 with the underlying tenure: Lot 1 on SP330225, Lot 2 on RP813170, Lot 102 on SP310393, Lot 7 CNS53",
       "projectTitle": "Lake Vermont Mockingbird Metallurgical Coal Project",
       "validDate": "2026-07-07",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10542": {
@@ -81940,7 +81940,7 @@
       "location": "Burke Developmental Road, Cloncurry, Queensland, 4824.",
       "projectTitle": "Eva Copper Mine Project (Stage 1)",
       "validDate": "2026-07-14",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Direction to Publish Draft Preliminary Documentation Issued",
       "projectStatus": null
     },
     "2026/10549": {
@@ -82060,7 +82060,7 @@
       "location": "Abercombie Road, Paling Yards, NSW 2580",
       "projectTitle": "Paling Yards Wind Farm",
       "validDate": "2026-07-30",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10589": {
@@ -82070,7 +82070,7 @@
       "location": "114 and 122 Binnies Road, Ripley, Queensland.",
       "projectTitle": "Binnies Road, Ripley Residential Development",
       "validDate": "2026-07-29",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Awaiting Assessment Approach Decision",
       "projectStatus": null
     },
     "2026/10590": {
@@ -82080,7 +82080,7 @@
       "location": "2028 Uriarra Road, Coree ACT",
       "projectTitle": "Flat Rock Energy Storage",
       "validDate": "2026-07-29",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10581": {
@@ -82090,7 +82090,7 @@
       "location": "1114 Carrick Road, Carrick NSW 2580",
       "projectTitle": "Regional Quarries Carrick Quarry",
       "validDate": "2026-07-28",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Awaiting Assessment Approach Decision",
       "projectStatus": null
     },
     "2026/10535": {
@@ -82100,7 +82100,7 @@
       "location": "Yamarna Road and Minnie Creek Road",
       "projectTitle": "Golden Highway Project (Gold Mine)",
       "validDate": "2026-07-28",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10585": {
@@ -82140,7 +82140,7 @@
       "location": "Lot 600 on deposited plan 302260 at 570 Wattle Avenue, Neerabup",
       "projectTitle": "Neerabup Resource Recovery Precinct",
       "validDate": "2026-08-07",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10557": {
@@ -82220,7 +82220,7 @@
       "location": "Lot 9003 Placid Parade, Coodanup 6210",
       "projectTitle": "Placid Waters South Residential Development",
       "validDate": "2026-08-11",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10597": {
@@ -82230,7 +82230,7 @@
       "location": "Lot 110, Lot 111, Lot 108, Lot 114 Lugg Place, Casuarina",
       "projectTitle": "Casuarina South Precinct Residential Development - Lots 110, 111, 108, 114 Lugg Place",
       "validDate": "2026-08-07",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10603": {
@@ -82240,7 +82240,7 @@
       "location": "Heemskirk Road, West Coast, Tasmania, 7469",
       "projectTitle": "Whaleback Ridge Renewable Energy Project",
       "validDate": "2026-08-07",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10610": {
@@ -82270,6 +82270,56 @@
       "location": "Old Gympie Road from Boundary Road (North Lakes, 4509) to Anzac Avenue (Kallangur, 4503)",
       "projectTitle": "Old Gympie Road Upgrade",
       "validDate": "2026-08-14",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10615": {
+      "ticketNumber": "2026/10615",
+      "incidentId": "ef3da25c-d096-f111-8075-000d3ad21125",
+      "proponent": "Hanworth BidCo Pty Ltd",
+      "location": "Properties spanning 365, 409, and 486 Hanworth Road, Bannaby, NSW 2580",
+      "projectTitle": "Hanworth Battery Project",
+      "validDate": "2026-08-27",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10601": {
+      "ticketNumber": "2026/10601",
+      "incidentId": "9ff607ae-0d8a-f111-ab0f-7ced8d32aaa3",
+      "proponent": "HIGH SEA WIND PTY LTD",
+      "location": "Offshore of McGauran's Beach, Gippsland Victoria, in Commonwealth waters.",
+      "projectTitle": "High Sea Wind - offshore wind farm Commonwealth component",
+      "validDate": "2026-08-27",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10613": {
+      "ticketNumber": "2026/10613",
+      "incidentId": "90d54400-5395-f111-8075-7ced8da2dc89",
+      "proponent": "BUNBURY OFFSHORE WIND FARM PTY LTD",
+      "location": "Commonwealth waters shoreline to 54 km offshore of southwest Australia.",
+      "projectTitle": "Bunbury Offshore Wind Project",
+      "validDate": "2026-08-27",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10605": {
+      "ticketNumber": "2026/10605",
+      "incidentId": "77e70095-c98c-f111-ab0f-7c1e5262fe21",
+      "proponent": "TAS 1 HOLDINGS PTY LTD",
+      "location": "Lot 69 Bundey Church Road Bundey",
+      "projectTitle": "Bundey Data Centre Campus",
+      "validDate": "2026-08-21",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10616": {
+      "ticketNumber": "2026/10616",
+      "incidentId": "734aa70a-7c97-f111-8075-7c1e522b0c83",
+      "proponent": "EVA COPPER MINE PTY LTD",
+      "location": "Burke Developmental Road, Cloncurry, Queensland, 4824.",
+      "projectTitle": "Eva Copper Mine Project (Stage 2)",
+      "validDate": "2026-08-20",
       "statusReason": "Referral Decision - Open for Public Comment",
       "projectStatus": null
     }
