@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-28T04:06:12.772Z",
+  "generatedAt": "2026-09-03T22:18:46.170Z",
   "source": "epbc-public-portal",
-  "count": 8232,
+  "count": 8237,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -600,7 +600,7 @@
       "location": "Maroochy River, Sunshine Coast, Queensland (adjacent to Lot 39 USL32605)",
       "projectTitle": "Maroochy River - Dredging and Beach Nourishment",
       "validDate": "2026-03-06",
-      "statusReason": "Reconsideration Requested - Open for Comment",
+      "statusReason": "Reconsideration Requested",
       "projectStatus": null
     },
     "2026/10423": {
@@ -1630,7 +1630,7 @@
       "location": "Nulla Road, Rufus Wentworth NSW 2648",
       "projectTitle": "Copi Mineral Sands Project",
       "validDate": "2025-11-06",
-      "statusReason": "Considering Final Decision",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10342": {
@@ -2440,7 +2440,7 @@
       "location": "Spirit Hills Pastoral Lease, Legune Road, Baines, Northern Territory.",
       "projectTitle": "Sweetwater Agricultural Development Stage 1",
       "validDate": "2025-07-25",
-      "statusReason": "Draft EIS Guidelines Published - Open for Public Comment",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10241": {
@@ -2790,7 +2790,7 @@
       "location": "Lagoon Road, Lord Howe Island NSW 2898",
       "projectTitle": "Lord Howe Island Critical Infrastructure Project",
       "validDate": "2025-06-06",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Considering Final Decision",
       "projectStatus": null
     },
     "2025/10194": {
@@ -3290,7 +3290,7 @@
       "location": "Lot 479 in DP1284714 and addressed as Kerr Road, Thurgoona",
       "projectTitle": "Land clearing for development of Brooklyn Fields Estate",
       "validDate": "2025-04-02",
-      "statusReason": "Direction to Publish Draft Preliminary Documentation Issued",
+      "statusReason": "Draft documentation published - Open for Public Comment",
       "projectStatus": null
     },
     "2024/10086": {
@@ -81500,7 +81500,7 @@
       "location": "Beckmans Road, Tewantin, QLD 4565",
       "projectTitle": "Beckmans Road Upgrade Project (Sea Eagle Drive to Eumundi-Noosa Road)",
       "validDate": "2026-06-09",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10511": {
@@ -81940,7 +81940,7 @@
       "location": "Burke Developmental Road, Cloncurry, Queensland, 4824.",
       "projectTitle": "Eva Copper Mine Project (Stage 1)",
       "validDate": "2026-07-14",
-      "statusReason": "Direction to Publish Draft Preliminary Documentation Issued",
+      "statusReason": "Draft documentation published - Open for Public Comment",
       "projectStatus": null
     },
     "2026/10549": {
@@ -81960,7 +81960,7 @@
       "location": "Indian Ocean, Offshore Western Australia",
       "projectTitle": "Browse Carbon Capture and Storage Project",
       "validDate": "2026-07-10",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10571": {
@@ -82060,7 +82060,7 @@
       "location": "Abercombie Road, Paling Yards, NSW 2580",
       "projectTitle": "Paling Yards Wind Farm",
       "validDate": "2026-07-30",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10589": {
@@ -82140,7 +82140,7 @@
       "location": "Lot 600 on deposited plan 302260 at 570 Wattle Avenue, Neerabup",
       "projectTitle": "Neerabup Resource Recovery Precinct",
       "validDate": "2026-08-07",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10557": {
@@ -82160,7 +82160,7 @@
       "location": "Waters adjacent to land at Dungeness Road, Lucinda and Lot 540 on SP291542",
       "projectTitle": "Dungeness Breakwater and Dredging",
       "validDate": "2026-08-05",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10558": {
@@ -82170,7 +82170,7 @@
       "location": "Lot 1 on RP13538, Un-named road south of Patrick Street, Swanbank, QLD.",
       "projectTitle": "Develop a Battery Energy Storage System (BESS), Swanbank, Qld.",
       "validDate": "2026-08-05",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10598": {
@@ -82180,7 +82180,7 @@
       "location": "Shute Harbour Dr near Whitsunday Dr, Shute Harbour QLD 4802",
       "projectTitle": "Shute Harbour Boating Facility",
       "validDate": "2026-08-04",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10596": {
@@ -82190,7 +82190,7 @@
       "location": "Shamrock Street, Hexham NSW 2322",
       "projectTitle": "Ironbark Creek Underbridge Replacement",
       "validDate": "2026-08-04",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10593": {
@@ -82200,7 +82200,7 @@
       "location": "126-130 Park Ridge Road, Park Ridge, Queensland 4125",
       "projectTitle": "Residential Development Park Ridge QLD",
       "validDate": "2026-08-03",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10594": {
@@ -82210,7 +82210,7 @@
       "location": "Parkes Place East, Parkes, ACT 2600",
       "projectTitle": "National Sculpture Garden Renewal, Stage 1",
       "validDate": "2026-07-31",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10595": {
@@ -82220,7 +82220,7 @@
       "location": "Lot 9003 Placid Parade, Coodanup 6210",
       "projectTitle": "Placid Waters South Residential Development",
       "validDate": "2026-08-11",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10597": {
@@ -82250,7 +82250,7 @@
       "location": "Lasseter Highway,  Yulara Northern Territory,  0872 Australia",
       "projectTitle": "Uluru Base Walk Upgrades",
       "validDate": "2026-08-20",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10591": {
@@ -82260,7 +82260,7 @@
       "location": "Lot 7 Big Valley Road, Bungaban QLD 4419",
       "projectTitle": "Bungaban Solar Project",
       "validDate": "2026-08-18",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10577": {
@@ -82270,7 +82270,7 @@
       "location": "Old Gympie Road from Boundary Road (North Lakes, 4509) to Anzac Avenue (Kallangur, 4503)",
       "projectTitle": "Old Gympie Road Upgrade",
       "validDate": "2026-08-14",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10615": {
@@ -82320,6 +82320,56 @@
       "location": "Burke Developmental Road, Cloncurry, Queensland, 4824.",
       "projectTitle": "Eva Copper Mine Project (Stage 2)",
       "validDate": "2026-08-20",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10607": {
+      "ticketNumber": "2026/10607",
+      "incidentId": "77f74bb5-148f-f111-8076-000d3acc3ea0",
+      "proponent": "Boral Resources (VIC) Pty Ltd",
+      "location": "19 Russells Road, Coimadai, Victoria 3340.",
+      "projectTitle": "Bacchus Marsh Quarry Expansion",
+      "validDate": "2026-09-03",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10620": {
+      "ticketNumber": "2026/10620",
+      "incidentId": "5ae3f214-509c-f111-b8dc-6045bdc4aff7",
+      "proponent": "WALA WALA PROJECT PTY LTD",
+      "location": "313 Dungowan Dam Road, Ogunbil NSW 2340 (address of the PHES facility)",
+      "projectTitle": "Wala Wala Pumped Hydro Energy Storage (Dungowan Valley)",
+      "validDate": "2026-09-03",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10617": {
+      "ticketNumber": "2026/10617",
+      "incidentId": "97dfcc99-af97-f111-8075-7c1e522b0c83",
+      "proponent": "Sungela Pty Ltd",
+      "location": "Ensham Mine, Duck Ponds Road, Comet, QLD 4702, Australia",
+      "projectTitle": "Ensham Life of Mine Extension 2",
+      "validDate": "2026-09-02",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10604": {
+      "ticketNumber": "2026/10604",
+      "incidentId": "07a7a198-748c-f111-ab0f-70a8a5564bc0",
+      "proponent": "BLOOMFIELD COLLIERIES PTY LTD",
+      "location": "5680 NEW ENGLAND HIGHWAY GLENNIES CREEK 2330.",
+      "projectTitle": "The Rix’s Creek North Solar Farm",
+      "validDate": "2026-08-31",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10600": {
+      "ticketNumber": "2026/10600",
+      "incidentId": "d540dc9b-0d8a-f111-ab0f-7c1e522b7864",
+      "proponent": "HIGH SEA WIND PTY LTD",
+      "location": "McGaurans Beach, Gippsland, Victoria.",
+      "projectTitle": "High Sea Wind - Offshore wind farm Victorian component",
+      "validDate": "2026-08-31",
       "statusReason": "Referral Decision - Open for Public Comment",
       "projectStatus": null
     }
