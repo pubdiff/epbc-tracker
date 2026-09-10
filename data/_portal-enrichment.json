@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-03T22:18:46.170Z",
+  "generatedAt": "2026-09-10T22:17:11.058Z",
   "source": "epbc-public-portal",
-  "count": 8237,
+  "count": 8243,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -1140,7 +1140,7 @@
       "location": "Lot 8 of Plan 47960, at the intersection of Rowes Rd and Dandaragan Rd, Yathroo",
       "projectTitle": "Yathroo Wind Farm",
       "validDate": "2026-01-09",
-      "statusReason": "Draft documentation published - Open for Public Comment",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10374": {
@@ -1160,7 +1160,7 @@
       "location": "6 Honeman Close, Huntingwood, NSW 2148",
       "projectTitle": "SYD01 (Huntingwood) Data Centre",
       "validDate": "2026-01-09",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Draft documentation published - Open for Public Comment",
       "projectStatus": null
     },
     "2025/10380": {
@@ -1180,7 +1180,7 @@
       "location": "Gillingarra Road, Yathroo",
       "projectTitle": "Marri Wind Farm",
       "validDate": "2026-01-08",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2025/10370": {
@@ -1630,7 +1630,7 @@
       "location": "Nulla Road, Rufus Wentworth NSW 2648",
       "projectTitle": "Copi Mineral Sands Project",
       "validDate": "2025-11-06",
-      "statusReason": "Under Assessment",
+      "statusReason": "Final Preliminary Documentation Published",
       "projectStatus": null
     },
     "2025/10342": {
@@ -2120,7 +2120,7 @@
       "location": "2179 Barfield Road, Tarramba, Queensland",
       "projectTitle": "Dawson Wind Farm",
       "validDate": "2025-09-11",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Guidelines Issued",
       "projectStatus": null
     },
     "2025/10268": {
@@ -2446,7 +2446,7 @@
     "2025/10241": {
       "ticketNumber": "2025/10241",
       "incidentId": "0aeb7572-0961-f011-bec1-00224893fe07",
-      "proponent": "STORENERGY 1 PTY LTD",
+      "proponent": "Illuma Energy Bawurra Pty Ltd",
       "location": "29934 and 30008 Warrego Highway Columboola QLD 4415",
       "projectTitle": "Columboola Battery",
       "validDate": "2025-07-24",
@@ -3240,7 +3240,7 @@
       "location": "8 Allans Road, Maldon, Victoria, 3463",
       "projectTitle": "Porcupine Village Holiday Park Redevelopment",
       "validDate": "2025-04-04",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2025/10131": {
@@ -81780,7 +81780,7 @@
       "location": "18698 Stuart Highway, Tanami East, NT 0852",
       "projectTitle": "Project Ares - Integrated Hyperscale Data Centre Campus",
       "validDate": "2026-06-29",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Awaiting additional information",
       "projectStatus": null
     },
     "2026/10556": {
@@ -81790,7 +81790,7 @@
       "location": "71 Santa Barbara Parade, Bowen QLD 4805",
       "projectTitle": "Bowen Marine Infrastructure Replacement Project (BMIRP)",
       "validDate": "2026-06-29",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10553": {
@@ -81990,7 +81990,7 @@
       "location": "Bruce Highway, Five Mile Creek QLD 4816",
       "projectTitle": "Nicholson Road to Five Mile Creek, Wide Centre Line Treatment Road and Upgrade Bridge",
       "validDate": "2026-07-22",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10564": {
@@ -82070,7 +82070,7 @@
       "location": "114 and 122 Binnies Road, Ripley, Queensland.",
       "projectTitle": "Binnies Road, Ripley Residential Development",
       "validDate": "2026-07-29",
-      "statusReason": "Awaiting Assessment Approach Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10590": {
@@ -82230,7 +82230,7 @@
       "location": "Lot 110, Lot 111, Lot 108, Lot 114 Lugg Place, Casuarina",
       "projectTitle": "Casuarina South Precinct Residential Development - Lots 110, 111, 108, 114 Lugg Place",
       "validDate": "2026-08-07",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10603": {
@@ -82270,7 +82270,7 @@
       "location": "Old Gympie Road from Boundary Road (North Lakes, 4509) to Anzac Avenue (Kallangur, 4503)",
       "projectTitle": "Old Gympie Road Upgrade",
       "validDate": "2026-08-14",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10615": {
@@ -82280,7 +82280,7 @@
       "location": "Properties spanning 365, 409, and 486 Hanworth Road, Bannaby, NSW 2580",
       "projectTitle": "Hanworth Battery Project",
       "validDate": "2026-08-27",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10601": {
@@ -82290,7 +82290,7 @@
       "location": "Offshore of McGauran's Beach, Gippsland Victoria, in Commonwealth waters.",
       "projectTitle": "High Sea Wind - offshore wind farm Commonwealth component",
       "validDate": "2026-08-27",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10613": {
@@ -82300,7 +82300,7 @@
       "location": "Commonwealth waters shoreline to 54 km offshore of southwest Australia.",
       "projectTitle": "Bunbury Offshore Wind Project",
       "validDate": "2026-08-27",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10605": {
@@ -82310,7 +82310,7 @@
       "location": "Lot 69 Bundey Church Road Bundey",
       "projectTitle": "Bundey Data Centre Campus",
       "validDate": "2026-08-21",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10616": {
@@ -82320,7 +82320,7 @@
       "location": "Burke Developmental Road, Cloncurry, Queensland, 4824.",
       "projectTitle": "Eva Copper Mine Project (Stage 2)",
       "validDate": "2026-08-20",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10607": {
@@ -82370,6 +82370,66 @@
       "location": "McGaurans Beach, Gippsland, Victoria.",
       "projectTitle": "High Sea Wind - Offshore wind farm Victorian component",
       "validDate": "2026-08-31",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10627": {
+      "ticketNumber": "2026/10627",
+      "incidentId": "dfe1b67c-65a0-f111-b8dc-000d3a6a2e46",
+      "proponent": "BLUE ECONOMY CRC-CO LTD",
+      "location": "Bass Strait Blue Economy Zone, approximately 12.5km north of Emu Bay, Burnie - at 40.9382°S, 145.9348°E",
+      "projectTitle": "Aquaculture research in the Blue Economy Zone: stocking salmon and cultivating seaweed",
+      "validDate": "2026-09-10",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10626": {
+      "ticketNumber": "2026/10626",
+      "incidentId": "2e8064dc-63a0-f111-b8dc-6045bdc4aff7",
+      "proponent": "WILPINJONG COAL PTY LTD",
+      "location": "1434 Ulan-Wollar Road, Wilpinjong NSW 2850",
+      "projectTitle": "Wilpinjong Continuation Project",
+      "validDate": "2026-09-10",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10622": {
+      "ticketNumber": "2026/10622",
+      "incidentId": "ce066a5e-169d-f111-b8db-6045bde6a4f1",
+      "proponent": "Mint Renewables Pty Ltd",
+      "location": "1742 Bungendore Road, Mount Fairy, NSW",
+      "projectTitle": "Magpie Hill Solar Farm",
+      "validDate": "2026-09-09",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10608": {
+      "ticketNumber": "2026/10608",
+      "incidentId": "c1f41efc-9b8f-f111-8076-000d3a6a2e46",
+      "proponent": "OAKLEY DEVELOPMENTS PTY LTD",
+      "location": "377 & 439 Marshall Mount Road, Avondale NSW",
+      "projectTitle": "Iowna Neighbourhood Precinct Residential Subdivision",
+      "validDate": "2026-09-08",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10628": {
+      "ticketNumber": "2026/10628",
+      "incidentId": "dd31cc72-f8a0-f111-b8dc-6045bdc4aff7",
+      "proponent": "Crace Holdings Pty Ltd",
+      "location": "80 Bellenden Street, Gungahlin, ACT",
+      "projectTitle": "Gungahlin Homestead Estate Site Redevelopment - Retirement Living Community Development",
+      "validDate": "2026-09-07",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10624": {
+      "ticketNumber": "2026/10624",
+      "incidentId": "b82ae61b-219d-f111-b8db-6045bde6a109",
+      "proponent": "Blackstone BESS OpCo Pty Ltd",
+      "location": "45 Patrick Street, Swanbank, Queensland, 4306",
+      "projectTitle": "Construction and Operation of the Blackstone Battery Energy Storage System (BESS)",
+      "validDate": "2026-09-04",
       "statusReason": "Referral Decision - Open for Public Comment",
       "projectStatus": null
     }
