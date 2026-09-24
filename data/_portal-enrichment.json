@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T22:41:53.010Z",
+  "generatedAt": "2026-09-24T23:03:54.329Z",
   "source": "epbc-public-portal",
-  "count": 8248,
+  "count": 8256,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -320,7 +320,7 @@
       "location": "Starting at Middle Arm Peninsula (NT) extending 250km west into the Joseph Bonaparte Gulf",
       "projectTitle": "Bonaparte Carbon Capture and Storage Project",
       "validDate": "2026-04-20",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2026/10463": {
@@ -390,7 +390,7 @@
       "location": "302 and 362-388 Old Cleveland Road East, Birkdale QLD 4159",
       "projectTitle": "Birkdale Community Precinct and Redland Whitewater Centre",
       "validDate": "2026-04-10",
-      "statusReason": "Reconsideration Requested",
+      "statusReason": "Reconsideration Decision Made",
       "projectStatus": null
     },
     "2026/10475": {
@@ -980,7 +980,7 @@
       "location": "Hail Creek Mine Access Road, Hail Creek, Queensland 4742, Australia",
       "projectTitle": "Hail Creek Open Cut (HCOC) – Eastern Margin Extension",
       "validDate": "2026-01-30",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Guidelines Issued",
       "projectStatus": null
     },
     "2025/10406": {
@@ -1160,7 +1160,7 @@
       "location": "6 Honeman Close, Huntingwood, NSW 2148",
       "projectTitle": "SYD01 (Huntingwood) Data Centre",
       "validDate": "2026-01-09",
-      "statusReason": "Draft documentation published - Open for Public Comment",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10380": {
@@ -2440,7 +2440,7 @@
       "location": "Spirit Hills Pastoral Lease, Legune Road, Baines, Northern Territory.",
       "projectTitle": "Sweetwater Agricultural Development Stage 1",
       "validDate": "2025-07-25",
-      "statusReason": "Under Assessment",
+      "statusReason": "Guidelines Issued",
       "projectStatus": null
     },
     "2025/10241": {
@@ -3070,7 +3070,7 @@
       "location": "Lemington Road, Liddell NSW 2333",
       "projectTitle": "Hunter Valley Operations (HVO) North Open Cut Coal Continuation Project.",
       "validDate": "2025-05-02",
-      "statusReason": "Under Assessment",
+      "statusReason": "Considering Final Decision",
       "projectStatus": null
     },
     "2025/10176": {
@@ -3080,7 +3080,7 @@
       "location": "Lemington Road, Liddell NSW 2333",
       "projectTitle": "Hunter Valley Operations (HVO) South Open Cut Coal Continuation Project",
       "validDate": "2025-05-02",
-      "statusReason": "Under Assessment",
+      "statusReason": "Considering Final Decision",
       "projectStatus": null
     },
     "2024/10003": {
@@ -3220,7 +3220,7 @@
       "location": "4058 CECIL PLAINS MOONIE RD, CATTLE CREEK QLD 4407",
       "projectTitle": "Cattle Creek Wind Farm",
       "validDate": "2025-04-07",
-      "statusReason": "Under Assessment",
+      "statusReason": "Guidelines Issued",
       "projectStatus": null
     },
     "2025/10132": {
@@ -81740,7 +81740,7 @@
       "location": "471 Kororoit Creek Road, Altona",
       "projectTitle": "Project Diamond Industrial and Commercial Development",
       "validDate": "2026-07-02",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10552": {
@@ -81800,7 +81800,7 @@
       "location": "18667 Gwydir Highway, Walgett NSW 2832",
       "projectTitle": "Tara and Dundulla Dryland Cropping Expansion",
       "validDate": "2026-06-29",
-      "statusReason": "Considering Final Decision",
+      "statusReason": "Final Preliminary Documentation Published",
       "projectStatus": null
     },
     "2026/10514": {
@@ -81890,7 +81890,7 @@
       "location": "The proposed Project covers the extent of MDL303 with the underlying tenure: Lot 1 on SP330225, Lot 2 on RP813170, Lot 102 on SP310393, Lot 7 CNS53",
       "projectTitle": "Lake Vermont Mockingbird Metallurgical Coal Project",
       "validDate": "2026-07-07",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Guidelines Issued",
       "projectStatus": null
     },
     "2026/10542": {
@@ -81940,7 +81940,7 @@
       "location": "Burke Developmental Road, Cloncurry, Queensland, 4824.",
       "projectTitle": "Eva Copper Mine Project (Stage 1)",
       "validDate": "2026-07-14",
-      "statusReason": "Under Assessment",
+      "statusReason": "Final Preliminary Documentation Published",
       "projectStatus": null
     },
     "2026/10549": {
@@ -82060,7 +82060,7 @@
       "location": "Abercombie Road, Paling Yards, NSW 2580",
       "projectTitle": "Paling Yards Wind Farm",
       "validDate": "2026-07-30",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Awaiting Assessment Approach Decision",
       "projectStatus": null
     },
     "2026/10589": {
@@ -82110,7 +82110,7 @@
       "location": "Access from Lots 7893 (P146692), 7376 (P141927) and 7806 (P146504) on Jingalup Road, Kojonup, Shire of Kojonup, WA.",
       "projectTitle": "Kojonup Wind Farm Development",
       "validDate": "2026-07-24",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10572": {
@@ -82240,7 +82240,7 @@
       "location": "Heemskirk Road, West Coast, Tasmania, 7469",
       "projectTitle": "Whaleback Ridge Renewable Energy Project",
       "validDate": "2026-08-07",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10610": {
@@ -82250,7 +82250,7 @@
       "location": "Lasseter Highway,  Yulara Northern Territory,  0872 Australia",
       "projectTitle": "Uluru Base Walk Upgrades",
       "validDate": "2026-08-20",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10591": {
@@ -82280,7 +82280,7 @@
       "location": "Properties spanning 365, 409, and 486 Hanworth Road, Bannaby, NSW 2580",
       "projectTitle": "Hanworth Battery Project",
       "validDate": "2026-08-27",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10601": {
@@ -82290,7 +82290,7 @@
       "location": "Offshore of McGauran's Beach, Gippsland Victoria, in Commonwealth waters.",
       "projectTitle": "High Sea Wind - offshore wind farm Commonwealth component",
       "validDate": "2026-08-27",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10613": {
@@ -82310,7 +82310,7 @@
       "location": "Lot 69 Bundey Church Road Bundey",
       "projectTitle": "Bundey Data Centre Campus",
       "validDate": "2026-08-21",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10616": {
@@ -82320,7 +82320,7 @@
       "location": "Burke Developmental Road, Cloncurry, Queensland, 4824.",
       "projectTitle": "Eva Copper Mine Project (Stage 2)",
       "validDate": "2026-08-20",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10607": {
@@ -82350,7 +82350,7 @@
       "location": "Ensham Mine, Duck Ponds Road, Comet, QLD 4702, Australia",
       "projectTitle": "Ensham Life of Mine Extension 2",
       "validDate": "2026-09-02",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Awaiting additional information",
       "projectStatus": null
     },
     "2026/10604": {
@@ -82380,7 +82380,7 @@
       "location": "Bass Strait Blue Economy Zone, approximately 12.5km north of Emu Bay, Burnie - at 40.9382°S, 145.9348°E",
       "projectTitle": "Aquaculture research in the Blue Economy Zone: stocking salmon and cultivating seaweed",
       "validDate": "2026-09-10",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10626": {
@@ -82390,7 +82390,7 @@
       "location": "1434 Ulan-Wollar Road, Wilpinjong NSW 2850",
       "projectTitle": "Wilpinjong Continuation Project",
       "validDate": "2026-09-10",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10622": {
@@ -82400,7 +82400,7 @@
       "location": "1742 Bungendore Road, Mount Fairy, NSW",
       "projectTitle": "Magpie Hill Solar Farm",
       "validDate": "2026-09-09",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10608": {
@@ -82410,7 +82410,7 @@
       "location": "377 & 439 Marshall Mount Road, Avondale NSW",
       "projectTitle": "Iowna Neighbourhood Precinct Residential Subdivision",
       "validDate": "2026-09-08",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10628": {
@@ -82420,7 +82420,7 @@
       "location": "80 Bellenden Street, Gungahlin, ACT",
       "projectTitle": "Gungahlin Homestead Estate Site Redevelopment - Retirement Living Community Development",
       "validDate": "2026-09-07",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10624": {
@@ -82430,7 +82430,7 @@
       "location": "45 Patrick Street, Swanbank, Queensland, 4306",
       "projectTitle": "Construction and Operation of the Blackstone Battery Energy Storage System (BESS)",
       "validDate": "2026-09-04",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10621": {
@@ -82480,6 +82480,86 @@
       "location": "Winchester Downs Station, 20km sth of Moranbah town & the Isaac River/Cherwell Creek confluence",
       "projectTitle": "Eagle Downs Mine Transport Corridor",
       "validDate": "2026-09-11",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10642": {
+      "ticketNumber": "2026/10642",
+      "incidentId": "d081b63d-49aa-f111-aaab-0022489825e0",
+      "proponent": "WAGNERS QUARRIES PTY. LTD.",
+      "location": "121 Hermans Road, Scotchy Pocket QLD 4570",
+      "projectTitle": "Gunalda Hard Rock Quarry",
+      "validDate": "2026-09-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10650": {
+      "ticketNumber": "2026/10650",
+      "incidentId": "cabb9b9c-c2af-f111-aaab-6045bde6885a",
+      "proponent": "PACIFIC WATERS HERVEY BAY PTY LTD",
+      "location": "1–49 and 51–101 Greensill Road, Dundowran Beach, Queensland 4655",
+      "projectTitle": "Pacific Waters Residential Development, Greensill Road, Dundowran Beach",
+      "validDate": "2026-09-23",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10618": {
+      "ticketNumber": "2026/10618",
+      "incidentId": "06d97955-e49a-f111-b8dc-6045bdc4aff7",
+      "proponent": "Western Australian Land Authority",
+      "location": "Lots 12, 15, 41 and 820 Wattleup Drive and Lots 35 and 36 Dalison Avenue",
+      "projectTitle": "Industrial Development, Wattleup",
+      "validDate": "2026-09-22",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10632": {
+      "ticketNumber": "2026/10632",
+      "incidentId": "1916189e-56a4-f111-b8de-7c1e522b7864",
+      "proponent": "AGL Power Generation Pty Limited",
+      "location": "325 Bendeela Road, Kangaroo Valley, NSW 2577",
+      "projectTitle": "Kangaroo Valley Battery Energy Storage System",
+      "validDate": "2026-09-22",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10631": {
+      "ticketNumber": "2026/10631",
+      "incidentId": "b72c8ef7-b4a1-f111-b8db-000d3ad09b36",
+      "proponent": "Lightsource Development Services Australia Pty Ltd",
+      "location": "331 Marramucking Rd, Boundain WA 6312",
+      "projectTitle": "Narrogin East Renewable Energy Project",
+      "validDate": "2026-09-21",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10643": {
+      "ticketNumber": "2026/10643",
+      "incidentId": "a50379bf-51aa-f111-aaab-70a8a555bcbe",
+      "proponent": "ATMOS MHV PTY LTD",
+      "location": "Faulkner Road, Tragowel 3579",
+      "projectTitle": "Macorna Wind Farm",
+      "validDate": "2026-09-21",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10602": {
+      "ticketNumber": "2026/10602",
+      "incidentId": "59603fad-ee8a-f111-ab0f-7ced8d32a5cd",
+      "proponent": "AVID PROPERTY GROUP PTY LTD",
+      "location": "366-386 Cumner Road, Swanbank, QLD 4306",
+      "projectTitle": "Swanbank South Industrial Enterprise Park",
+      "validDate": "2026-09-21",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10637": {
+      "ticketNumber": "2026/10637",
+      "incidentId": "4e1de451-18a5-f111-b8de-000d3acc3ea0",
+      "proponent": "SOUTH AUSTRALIAN MOTOR SPORT BOARD",
+      "location": "East Park Lands Precinct and roads (Park 13 - 16) of the Adelaide Park Lands",
+      "projectTitle": "Adelaide Circuit Redevelopment (ACR) Project",
+      "validDate": "2026-09-18",
       "statusReason": "Referral Decision - Open for Public Comment",
       "projectStatus": null
     }
