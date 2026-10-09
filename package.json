@@ -39,8 +39,8 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.0",
-    "playwright": "^1.60.0",
-    "tsx": "^4.7.0",
+    "playwright": "^1.64.0",
+    "tsx": "^4.23.15",
     "typescript": "^5.4.0"
   },
   "packageManager": "pnpm@9.0.0"
