@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T00:11:19.436Z",
+  "generatedAt": "2026-10-15T22:57:01.237Z",
   "source": "epbc-public-portal",
-  "count": 8274,
+  "count": 8280,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -240,7 +240,7 @@
       "location": "2622 Oallen Ford Road, Windellama NSW 2580",
       "projectTitle": "Windellama Landfill Expansion",
       "validDate": "2026-04-29",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10493": {
@@ -1140,7 +1140,7 @@
       "location": "Lot 8 of Plan 47960, at the intersection of Rowes Rd and Dandaragan Rd, Yathroo",
       "projectTitle": "Yathroo Wind Farm",
       "validDate": "2026-01-09",
-      "statusReason": "Under Assessment",
+      "statusReason": "Considering Final Decision",
       "projectStatus": null
     },
     "2025/10374": {
@@ -1160,7 +1160,7 @@
       "location": "6 Honeman Close, Huntingwood, NSW 2148",
       "projectTitle": "SYD01 (Huntingwood) Data Centre",
       "validDate": "2026-01-09",
-      "statusReason": "Under Assessment",
+      "statusReason": "Considering Final Decision",
       "projectStatus": null
     },
     "2025/10380": {
@@ -1280,7 +1280,7 @@
       "location": "59 Godel Road, Nowergup",
       "projectTitle": "Sand and Limestone Extraction Project, Nowergup",
       "validDate": "2026-01-05",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Project Withdrawn",
       "projectStatus": null
     },
     "2025/10383": {
@@ -1690,7 +1690,7 @@
       "location": "36–63 Hawkins Road, Stockleigh (Lot 1 RP150150, Lot 901 SP307210, Lot 8 SP307210)",
       "projectTitle": "Hawkins Road Stockleigh Residential Development",
       "validDate": "2025-10-31",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10344": {
@@ -1900,7 +1900,7 @@
       "location": "Ripley Road, Ripley, Queensland, 4306 and Fischer Road, Ripley, Queensland, 4306.",
       "projectTitle": "Ripley Road and Fischer Road Upgrade",
       "validDate": "2025-10-16",
-      "statusReason": "Draft documentation published - Open for Public Comment",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10277": {
@@ -2610,7 +2610,7 @@
       "location": "Lot 31 on Deposited Plan 207640; Lots 5, 14 and 15 on Deposited Plan 230140; Lot 648 on Deposited Plan 209773; Derby Hwy, Wodehouse St, Broome St",
       "projectTitle": "Derby Future Energy System",
       "validDate": "2025-06-27",
-      "statusReason": "Under Assessment",
+      "statusReason": "Considering Variation to Proposal",
       "projectStatus": null
     },
     "2025/10225": {
@@ -3080,7 +3080,7 @@
       "location": "Lemington Road, Liddell NSW 2333",
       "projectTitle": "Hunter Valley Operations (HVO) South Open Cut Coal Continuation Project",
       "validDate": "2025-05-02",
-      "statusReason": "Guidelines Issued",
+      "statusReason": "Considering Final Decision",
       "projectStatus": null
     },
     "2024/10003": {
@@ -3240,7 +3240,7 @@
       "location": "8 Allans Road, Maldon, Victoria, 3463",
       "projectTitle": "Porcupine Village Holiday Park Redevelopment",
       "validDate": "2025-04-04",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2025/10131": {
@@ -3630,7 +3630,7 @@
       "location": "101 Bayliss Road, South Ripley, QLD, 4306",
       "projectTitle": "Bayliss Road, South Ripley Residential Development",
       "validDate": "2025-02-24",
-      "statusReason": "Draft documentation published - Open for Public Comment",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2024/10081": {
@@ -81540,7 +81540,7 @@
       "location": "Neerabup Terminal (Pinjar) to the intersection of Ocean Reef Road and Wanneroo Road, Woodvale",
       "projectTitle": "Wangara to Neerabup Terminal 132 kV Overhead Transmission Line Project",
       "validDate": "2026-06-09",
-      "statusReason": "Under Assessment",
+      "statusReason": "Considering Variation to Proposal",
       "projectStatus": null
     },
     "2026/10526": {
@@ -82380,7 +82380,7 @@
       "location": "Bass Strait Blue Economy Zone, approximately 12.5km north of Emu Bay, Burnie - at 40.9382°S, 145.9348°E",
       "projectTitle": "Aquaculture research in the Blue Economy Zone: stocking salmon and cultivating seaweed",
       "validDate": "2026-09-10",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Draft documentation published - Open for Public Comment",
       "projectStatus": null
     },
     "2026/10626": {
@@ -82400,7 +82400,7 @@
       "location": "1742 Bungendore Road, Mount Fairy, NSW",
       "projectTitle": "Magpie Hill Solar Farm",
       "validDate": "2026-09-09",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10608": {
@@ -82470,7 +82470,7 @@
       "location": "Lot 4 Lage Road and a portion of Lot 900 Lage Road in Bullsbrook, Western Australia, 6084.",
       "projectTitle": "Bullsbrook South - Stage 2 Residential Development",
       "validDate": "2026-09-14",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10625": {
@@ -82480,7 +82480,7 @@
       "location": "Winchester Downs Station, 20km sth of Moranbah town & the Isaac River/Cherwell Creek confluence",
       "projectTitle": "Eagle Downs Mine Transport Corridor",
       "validDate": "2026-09-11",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10642": {
@@ -82490,7 +82490,7 @@
       "location": "121 Hermans Road, Scotchy Pocket QLD 4570",
       "projectTitle": "Gunalda Hard Rock Quarry",
       "validDate": "2026-09-24",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10650": {
@@ -82520,7 +82520,7 @@
       "location": "325 Bendeela Road, Kangaroo Valley, NSW 2577",
       "projectTitle": "Kangaroo Valley Battery Energy Storage System",
       "validDate": "2026-09-22",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10631": {
@@ -82610,7 +82610,7 @@
       "location": "Lot 5011 on Plan 192309, located on the corner of Davis Road and Bussell Highway, Forest Grove WA 6286",
       "projectTitle": "Davis Road Recycling and Waste Management Facility Landfill Capping",
       "validDate": "2026-09-30",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10614": {
@@ -82620,7 +82620,7 @@
       "location": "436 Tramway Road and 530 Tramway Road, Hazelwood North",
       "projectTitle": "Morwell Battery Energy Storage System",
       "validDate": "2026-09-29",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10657": {
@@ -82630,7 +82630,7 @@
       "location": "Brooks Paddock, Kalkaroo Pastoral Station (Pastoral Lease 1258; Crown Lease Folio 839/6162), north-eastern South Australia, 5440.",
       "projectTitle": "Honeymoon Mine Extension",
       "validDate": "2026-09-29",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10646": {
@@ -82640,7 +82640,7 @@
       "location": "Warrego Hwy and Jackson Wandoan Rd. intersection, 10km east of Yuleba",
       "projectTitle": "Roma Phase 8B Stage 2 Coal Seam Gas Development",
       "validDate": "2026-09-25",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10640": {
@@ -82650,7 +82650,7 @@
       "location": "Vores Road, Whiteside, Queensland 4503",
       "projectTitle": "North Pine Dam Improvement Project – Saddle Dams and Earthworks Package",
       "validDate": "2026-09-25",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10671": {
@@ -82741,6 +82741,66 @@
       "projectTitle": "Wallacia Quarry Expansion and Landfill",
       "validDate": "2026-10-06",
       "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10668": {
+      "ticketNumber": "2026/10668",
+      "incidentId": "5eefc1b4-9ebb-f111-aaae-6045bdc2277b",
+      "proponent": "DOVER1 SM2 PTY LTD",
+      "location": "165 Williamsons Road, South Morang, Victoria Lot 1 PS822500",
+      "projectTitle": "South Morang Data Centre",
+      "validDate": "2026-10-15",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10651": {
+      "ticketNumber": "2026/10651",
+      "incidentId": "d30e725a-8bb0-f111-aaab-7ced8d33007d",
+      "proponent": "ABERMAIN BESS OPCO PTY LTD",
+      "location": "161-173 Holdsworth Road, Tivoli QLD 4305",
+      "projectTitle": "Abermain Battery Project",
+      "validDate": "2026-10-15",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10674": {
+      "ticketNumber": "2026/10674",
+      "incidentId": "642255e1-28be-f111-aaad-6045bde68010",
+      "proponent": "MOLLERS LANE DEVELOPMENTS PTY LTD",
+      "location": "Mollers Lane Leopold Victoria",
+      "projectTitle": "South East Leopold Growth Area – water infrastructure",
+      "validDate": "2026-10-14",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10658": {
+      "ticketNumber": "2026/10658",
+      "incidentId": "07e50d2d-12b3-f111-aaab-7c1e522b52b7",
+      "proponent": "DARNUM BESS PTY LTD",
+      "location": "875 DARNUM-SHADY CREEK ROAD, SHADY CREEK 3821",
+      "projectTitle": "Darnum Battery Energy Storage System",
+      "validDate": "2026-10-12",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10659": {
+      "ticketNumber": "2026/10659",
+      "incidentId": "1f080407-22b3-f111-aaab-7c1e528a6d22",
+      "proponent": "ABX3 PTY LTD",
+      "location": "Swains Rd, Reids Creek QLD 4625",
+      "projectTitle": "Sunrise Bauxite Project",
+      "validDate": "2026-10-12",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10612": {
+      "ticketNumber": "2026/10612",
+      "incidentId": "e4c42c6d-f02e-40bc-81fd-af7ccbfd7116",
+      "proponent": "PERTH AIRPORT PTY LTD",
+      "location": "Terminal 2, Paltridge road, Perth Airport, Perth WA 6105",
+      "projectTitle": "Major Development Plan - Perth Airport- Jet Fuel Storage Facility & Pipelines",
+      "validDate": "2026-08-11",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     }
   }
