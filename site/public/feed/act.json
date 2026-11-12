@@ -5,5 +5,19 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/act.json",
   "description": "EPBC Act referral changes where the primary jurisdiction is ACT.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2026/10628:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10628",
+      "title": "New referral: Gungahlin Homestead Estate",
+      "content_text": "Reference 2026/10628 - Jurisdiction: ACT - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10628 - Jurisdiction: ACT - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "ACT",
+        "Commercial Development"
+      ]
+    }
+  ]
 }

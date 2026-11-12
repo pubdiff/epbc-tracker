@@ -6,35 +6,35 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/sa.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes where the primary jurisdiction is SA.</description>
     <language>en-au</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:48:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:51:35 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
     <item>
-      <title>New referral: Whyte Yarcowie Wind Farm</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2024-09961</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2024/09961:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2024/09961 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+      <title>New referral: Bundey Data Centre Campus</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10605</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10605:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10605 - Jurisdiction: SA - Category: Telecommunications - Type: Referral (S68) - Status: Referral Decision Made</description>
     </item>
     <item>
-      <title>New referral: Morgan Solar Project</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2024-10086</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2024/10086:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2024/10086 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+      <title>New referral: Adelaide Circuit Redevelopment (ACR) Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10637</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10637:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10637 - Jurisdiction: SA - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision Made</description>
     </item>
     <item>
-      <title>New referral: Nonowie Wind Farm</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10164</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10164:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2025/10164 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+      <title>New referral: Honeymoon Mine Extension</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10657</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10657:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10657 - Jurisdiction: SA - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision</description>
     </item>
     <item>
-      <title>New referral: Osborne Utilities Relocation</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10202</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10202:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2025/10202 - Jurisdiction: SA - Category: Commonwealth Development - Type: Referral (S68) - Status: Project Withdrawn</description>
+      <title>New referral: Mara Team Testing - Hotfix 51.4</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10682</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10682:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10682 - Jurisdiction: SA - Category: Commercial Development - Type: Referral (S68) - Status: Cancelled</description>
     </item>
   </channel>
 </rss>

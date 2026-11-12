@@ -7,29 +7,29 @@
   "language": "en-AU",
   "items": [
     {
-      "id": "urn:epbc-tracker:added:2025/10235:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10235",
-      "title": "New referral: Sweetwater Agricultural Development Stage 1",
-      "content_text": "Reference 2025/10235 - Jurisdiction: NT - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Draft EIS Guidelines Published - Open for Public Comment",
-      "content_html": "<p>Reference 2025/10235 - Jurisdiction: NT - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Draft EIS Guidelines Published - Open for Public Comment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10610:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10610",
+      "title": "New referral: Uluru Base Walk Upgrades",
+      "content_text": "Reference 2026/10610 - Jurisdiction: NT - Category: Commonwealth - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10610 - Jurisdiction: NT - Category: Commonwealth - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "NT",
-        "Agriculture and Forestry"
+        "Commonwealth"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10240:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10240",
-      "title": "New referral: Roper Valley Iron Ore Project",
-      "content_text": "Reference 2025/10240 - Jurisdiction: NT - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10240 - Jurisdiction: NT - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10629:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10629",
+      "title": "New referral: Lloyd Creek Rural Village – Stage 1",
+      "content_text": "Reference 2026/10629 - Jurisdiction: NT - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10629 - Jurisdiction: NT - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "NT",
-        "Mining"
+        "Residential Development"
       ]
     }
   ]

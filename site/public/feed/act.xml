@@ -6,8 +6,14 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/act.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes where the primary jurisdiction is ACT.</description>
     <language>en-au</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:48:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:51:35 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
-
+    <item>
+      <title>New referral: Gungahlin Homestead Estate</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10628</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10628:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10628 - Jurisdiction: ACT - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
   </channel>
 </rss>

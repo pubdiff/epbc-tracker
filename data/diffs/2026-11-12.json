@@ -1,0 +1,2393 @@
+{
+  "runId": "2026-11-12",
+  "added": [
+    {
+      "referenceNumber": "2025/10184",
+      "proposalId": 10184,
+      "name": "Point Cook Industrial and Commercial subdivision",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2025,
+      "category": "Commercial Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "166ebfc0-5829-f011-8c4e-00224811099e"
+    },
+    {
+      "referenceNumber": "2026/10541",
+      "proposalId": 10541,
+      "name": "Continuation of Bengalla Mine Modification 9",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Project Withdrawn",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "8fdcab64-e75e-f111-a826-7ced8dd16664"
+    },
+    {
+      "referenceNumber": "2026/10573",
+      "proposalId": 10573,
+      "name": "Star of the South Offshore Wind Farm Geophysical and Geotechnical Investigations",
+      "jurisdiction": "CM",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "c9703197-7773-f111-ab0f-7c1e5262eacb"
+    },
+    {
+      "referenceNumber": "2026/10577",
+      "proposalId": 10577,
+      "name": "Old Gympie Road Upgrade",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Transport - Land",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "8a465fa5-5374-f111-ab0f-7ced8d326d41"
+    },
+    {
+      "referenceNumber": "2026/10586",
+      "proposalId": 10586,
+      "name": "Wallacia Quarry Expansion and Landfill",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Assessment Approach Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "d4c2e41a-f17b-f111-ab0f-7c1e5262e9e4"
+    },
+    {
+      "referenceNumber": "2026/10591",
+      "proposalId": 10591,
+      "name": "Bungaban Solar Project",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "b59d052a-d07f-f111-ab0f-002248989885"
+    },
+    {
+      "referenceNumber": "2026/10592",
+      "proposalId": 10592,
+      "name": "Bullsbrook South - Stage 2 Residential Development",
+      "jurisdiction": "WA",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Residential Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "c20c426f-e67f-f111-ab0f-00224897bf4a"
+    },
+    {
+      "referenceNumber": "2026/10600",
+      "proposalId": 10600,
+      "name": "High Sea Wind Victorian Component",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "d540dc9b-0d8a-f111-ab0f-7c1e522b7864"
+    },
+    {
+      "referenceNumber": "2026/10601",
+      "proposalId": 10601,
+      "name": "High Sea Wind Commonwealth Component",
+      "jurisdiction": "CM",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Approach Determined",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "9ff607ae-0d8a-f111-ab0f-7ced8d32aaa3"
+    },
+    {
+      "referenceNumber": "2026/10602",
+      "proposalId": 10602,
+      "name": "Swanbank South Enterprise Park",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Commenced",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Commercial Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "59603fad-ee8a-f111-ab0f-7ced8d32a5cd"
+    },
+    {
+      "referenceNumber": "2026/10604",
+      "proposalId": 10604,
+      "name": "The Rix’s Creek North Solar Farm",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Assessment Approach Decision",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "07a7a198-748c-f111-ab0f-70a8a5564bc0"
+    },
+    {
+      "referenceNumber": "2026/10605",
+      "proposalId": 10605,
+      "name": "Bundey Data Centre Campus",
+      "jurisdiction": "SA",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Telecommunications",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "77e70095-c98c-f111-ab0f-7c1e5262fe21"
+    },
+    {
+      "referenceNumber": "2026/10607",
+      "proposalId": 10607,
+      "name": "Bacchus Marsh Quarry Expansion",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "77f74bb5-148f-f111-8076-000d3acc3ea0"
+    },
+    {
+      "referenceNumber": "2026/10608",
+      "proposalId": 10608,
+      "name": "Land preparation for Residential Subdivision",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Residential Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "c1f41efc-9b8f-f111-8076-000d3a6a2e46"
+    },
+    {
+      "referenceNumber": "2026/10609",
+      "proposalId": 10609,
+      "name": "Mount Britton Battery Energy Storage System",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "7b35c02f-dd8f-f111-8076-000d3a6a2e46"
+    },
+    {
+      "referenceNumber": "2026/10610",
+      "proposalId": 10610,
+      "name": "Uluru Base Walk Upgrades",
+      "jurisdiction": "NT",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Commonwealth",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "0d9d888a-0092-f111-8076-7ced8d3498d7"
+    },
+    {
+      "referenceNumber": "2026/10613",
+      "proposalId": 10613,
+      "name": "Bunbury Offshore Wind Project",
+      "jurisdiction": "CM",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "90d54400-5395-f111-8075-7ced8da2dc89"
+    },
+    {
+      "referenceNumber": "2026/10614",
+      "proposalId": 10614,
+      "name": "Battery Energy Storage System",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "446a770c-d995-f111-8075-000d3a6aa7b5"
+    },
+    {
+      "referenceNumber": "2026/10615",
+      "proposalId": 10615,
+      "name": "Hanworth Battery Project",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "ef3da25c-d096-f111-8075-000d3ad21125"
+    },
+    {
+      "referenceNumber": "2026/10616",
+      "proposalId": 10616,
+      "name": "Eva Copper Mine Project (Stage 2)",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Direction to Publish Draft Preliminary Documentation Issued",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "734aa70a-7c97-f111-8075-7c1e522b0c83"
+    },
+    {
+      "referenceNumber": "2026/10617",
+      "proposalId": 10617,
+      "name": "Ensham Life of Mine Extension 2",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Assessment Approach Decision",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "97dfcc99-af97-f111-8075-7c1e522b0c83"
+    },
+    {
+      "referenceNumber": "2026/10618",
+      "proposalId": 10618,
+      "name": "Industrial Development, Wattleup",
+      "jurisdiction": "WA",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Commenced",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Commercial Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "06d97955-e49a-f111-b8dc-6045bdc4aff7"
+    },
+    {
+      "referenceNumber": "2026/10619",
+      "proposalId": 10619,
+      "name": "Ballyrogan Wind Farm",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "caf7a7bc-3f9c-f111-b8db-0022489597d4"
+    },
+    {
+      "referenceNumber": "2026/10620",
+      "proposalId": 10620,
+      "name": "Wala Wala Pumped Hydro Energy Storage (Dungowan Valley)",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Approach Determined",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "5ae3f214-509c-f111-b8dc-6045bdc4aff7"
+    },
+    {
+      "referenceNumber": "2026/10621",
+      "proposalId": 10621,
+      "name": "Atlas North Mineral Sands Project (Atlas North)",
+      "jurisdiction": "WA",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "1d3a409f-639c-f111-b8dc-6045bdc4aff7"
+    },
+    {
+      "referenceNumber": "2026/10622",
+      "proposalId": 10622,
+      "name": "Magpie Hill Solar Farm",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Approach Determined",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "ce066a5e-169d-f111-b8db-6045bde6a4f1"
+    },
+    {
+      "referenceNumber": "2026/10624",
+      "proposalId": 10624,
+      "name": "Construction and Operation of the Blackstone Battery Energy Storage System (BESS)",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "b82ae61b-219d-f111-b8db-6045bde6a109"
+    },
+    {
+      "referenceNumber": "2026/10625",
+      "proposalId": 10625,
+      "name": "Eagle Downs Mine Transport Corridor",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Commenced",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "6d01f62c-249d-f111-b8dc-6045bdc4aff7"
+    },
+    {
+      "referenceNumber": "2026/10626",
+      "proposalId": 10626,
+      "name": "Wilpinjong Continuation Project",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "2e8064dc-63a0-f111-b8dc-6045bdc4aff7"
+    },
+    {
+      "referenceNumber": "2026/10627",
+      "proposalId": 10627,
+      "name": "Aquaculture research in the Blue Economy Zone: stocking salmon and cultivating seaweed",
+      "jurisdiction": "CM",
+      "decision": null,
+      "determination": null,
+      "status": "Under Assessment",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Aquaculture",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "dfe1b67c-65a0-f111-b8dc-000d3a6a2e46"
+    },
+    {
+      "referenceNumber": "2026/10628",
+      "proposalId": 10628,
+      "name": "Gungahlin Homestead Estate",
+      "jurisdiction": "ACT",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Commercial Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "dd31cc72-f8a0-f111-b8dc-6045bdc4aff7"
+    },
+    {
+      "referenceNumber": "2026/10629",
+      "proposalId": 10629,
+      "name": "Lloyd Creek Rural Village – Stage 1",
+      "jurisdiction": "NT",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Residential Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "232ff6d7-0fa1-f111-b8db-000d3acc28e6"
+    },
+    {
+      "referenceNumber": "2026/10631",
+      "proposalId": 10631,
+      "name": "Narrogin East Renewable Energy Project",
+      "jurisdiction": "WA",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "b72c8ef7-b4a1-f111-b8db-000d3ad09b36"
+    },
+    {
+      "referenceNumber": "2026/10632",
+      "proposalId": 10632,
+      "name": "Kangaroo Valley Battery Energy Storage System",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Approach Determined",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "1916189e-56a4-f111-b8de-7c1e522b7864"
+    },
+    {
+      "referenceNumber": "2026/10633",
+      "proposalId": 10633,
+      "name": "Lot 2 Yanchep Beach Road Residential Development",
+      "jurisdiction": "WA",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Residential Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "43360e80-d5a4-f111-b8de-000d3acc3ea0"
+    },
+    {
+      "referenceNumber": "2026/10634",
+      "proposalId": 10634,
+      "name": "Casuarina South Precinct Residential Project, Lot 2001 Mortimer Road",
+      "jurisdiction": "WA",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Approach Determined",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Residential Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "048185e1-e6a4-f111-b8dd-7c1e528a6b80"
+    },
+    {
+      "referenceNumber": "2026/10635",
+      "proposalId": 10635,
+      "name": "Origin Energy Eraring BESS Expansion",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Approach Determined",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "f0f2da24-fda4-f111-b8de-000d3a6aa7b5"
+    },
+    {
+      "referenceNumber": "2026/10636",
+      "proposalId": 10636,
+      "name": "Casuarina South Precinct Residential Development - Lot 109 Lugg Place",
+      "jurisdiction": "WA",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Residential Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "840765b0-02a5-f111-b8de-6045bdc4aff7"
+    },
+    {
+      "referenceNumber": "2026/10637",
+      "proposalId": 10637,
+      "name": "Adelaide Circuit Redevelopment (ACR) Project",
+      "jurisdiction": "SA",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Tourism and Recreation",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "4e1de451-18a5-f111-b8de-000d3acc3ea0"
+    },
+    {
+      "referenceNumber": "2026/10638",
+      "proposalId": 10638,
+      "name": "Residential development - Halden Road",
+      "jurisdiction": "WA",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Residential Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "5dfed74b-aca5-f111-b8dd-000d3ad09b36"
+    },
+    {
+      "referenceNumber": "2026/10639",
+      "proposalId": 10639,
+      "name": "Casuarina South Precinct Residential Development - Lot 1002 Mortimer Road",
+      "jurisdiction": "WA",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Commercial Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "bdbdcac0-c9a5-f111-b8dd-7c1e5262fe21"
+    },
+    {
+      "referenceNumber": "2026/10640",
+      "proposalId": 10640,
+      "name": "North Pine Dam Improvement Project – Saddle Dams and Earthworks Package",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Water Management and Use",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "846ac3bd-e5a7-f111-b8de-7ced8d32a5cd"
+    },
+    {
+      "referenceNumber": "2026/10641",
+      "proposalId": 10641,
+      "name": "Academy of Mary Immaculate, Fitzroy",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Commercial Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "c9e2c7d6-29a8-f111-b8dd-7c1e5262fe21"
+    },
+    {
+      "referenceNumber": "2026/10642",
+      "proposalId": 10642,
+      "name": "Development and operation of a hard rock quarry",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Commenced",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "d081b63d-49aa-f111-aaab-0022489825e0"
+    },
+    {
+      "referenceNumber": "2026/10643",
+      "proposalId": 10643,
+      "name": "Macorna Wind Farm",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Approach Determined",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "a50379bf-51aa-f111-aaab-70a8a555bcbe"
+    },
+    {
+      "referenceNumber": "2026/10646",
+      "proposalId": 10646,
+      "name": "Roma Phase 8B Stage 2 Development",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Commenced",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (non-renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "43cb9fdc-40ab-f111-aaab-002248991448"
+    },
+    {
+      "referenceNumber": "2026/10648",
+      "proposalId": 10648,
+      "name": "Smithfield Mountain Bike Park Expansion Project",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Tourism and Recreation",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "ca54064b-f9ab-f111-aaab-0022489913e0"
+    },
+    {
+      "referenceNumber": "2026/10650",
+      "proposalId": 10650,
+      "name": "Pacific Waters Residential Development, Greensill Road, Dundowran Beach",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Commenced",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Residential Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "cabb9b9c-c2af-f111-aaab-6045bde6885a"
+    },
+    {
+      "referenceNumber": "2026/10651",
+      "proposalId": 10651,
+      "name": "Abermain Battery Project",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "d30e725a-8bb0-f111-aaab-7ced8d33007d"
+    },
+    {
+      "referenceNumber": "2026/10653",
+      "proposalId": 10653,
+      "name": "George Alexander Way Upgrade",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Transport - Land",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "7fb14ccd-84b1-f111-aaab-7c1e528a6d22"
+    },
+    {
+      "referenceNumber": "2026/10654",
+      "proposalId": 10654,
+      "name": "Meridien - Renewable Energy Hub and Data Centre",
+      "jurisdiction": "WA",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "8c8a460c-a4b1-f111-aaab-7c1e528a6d22"
+    },
+    {
+      "referenceNumber": "2026/10655",
+      "proposalId": 10655,
+      "name": "In-situ cement additive trial",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Science and Research",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "3bbbfb52-8eb2-f111-aaab-6045bdc26cca"
+    },
+    {
+      "referenceNumber": "2026/10656",
+      "proposalId": 10656,
+      "name": "Montrose Quarry Extension",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "73c027b5-f1b2-f111-aaab-6045bdc22e7e"
+    },
+    {
+      "referenceNumber": "2026/10657",
+      "proposalId": 10657,
+      "name": "Honeymoon Mine Extension",
+      "jurisdiction": "SA",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "00febb52-05b3-f111-aaab-7ced8d33007d"
+    },
+    {
+      "referenceNumber": "2026/10658",
+      "proposalId": 10658,
+      "name": "Darnum Battery Energy Storage System",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "07e50d2d-12b3-f111-aaab-7c1e522b52b7"
+    },
+    {
+      "referenceNumber": "2026/10659",
+      "proposalId": 10659,
+      "name": "Sunrise Bauxite Project",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "1f080407-22b3-f111-aaab-7c1e528a6d22"
+    },
+    {
+      "referenceNumber": "2026/10660",
+      "proposalId": 10660,
+      "name": "Balala Wind Farm",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Assessment Approach Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "b366bc49-3ab5-f111-aaac-6045bde68964"
+    },
+    {
+      "referenceNumber": "2026/10663",
+      "proposalId": 10663,
+      "name": "Suncoast Beach Drive and South Coolum Road Extensions",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Assessment Commenced",
+      "stage": "Assessment",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Transport - Land",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "a405c181-e1b6-f111-aaac-6045bde68964"
+    },
+    {
+      "referenceNumber": "2026/10664",
+      "proposalId": 10664,
+      "name": "Davis Road Recycling and Waste Management Facility Landfill Capping",
+      "jurisdiction": "WA",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision Made",
+      "stage": "Completed",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Waste Management (non-sewerage)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "2b03cc30-b2b7-f111-aaac-7ced8da106bd"
+    },
+    {
+      "referenceNumber": "2026/10665",
+      "proposalId": 10665,
+      "name": "Metropolitan Continuation Project",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting additional information",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "40fa51ac-c7ba-f111-aaad-7c1e528a6d22"
+    },
+    {
+      "referenceNumber": "2026/10667",
+      "proposalId": 10667,
+      "name": "Western Downs Digital Park",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Telecommunications",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "c4a90740-0cbb-f111-aaad-7ced8da23712"
+    },
+    {
+      "referenceNumber": "2026/10668",
+      "proposalId": 10668,
+      "name": "Proposed commercial construction of a data centre",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Commercial Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "5eefc1b4-9ebb-f111-aaae-6045bdc2277b"
+    },
+    {
+      "referenceNumber": "2026/10670",
+      "proposalId": 10670,
+      "name": "Construction of a mixed use retail and residential development.",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Residential Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "c63533da-02bc-f111-aaad-7c1e528a6d22"
+    },
+    {
+      "referenceNumber": "2026/10671",
+      "proposalId": 10671,
+      "name": "101 Jackson Court Residential Development Project",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Residential Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "9fd0a24d-92bc-f111-aaae-000d3ad08efa"
+    },
+    {
+      "referenceNumber": "2026/10672",
+      "proposalId": 10672,
+      "name": "Yarrabee Coal Mine Project",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "630cbc32-38bd-f111-aaad-70a8a5554942"
+    },
+    {
+      "referenceNumber": "2026/10673",
+      "proposalId": 10673,
+      "name": "Gold Coast Oceanway Project",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Tourism and Recreation",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "e690f974-08be-f111-aaae-6045bde6885a"
+    },
+    {
+      "referenceNumber": "2026/10674",
+      "proposalId": 10674,
+      "name": "South East Leopold Growth Area – water infrastructure",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Residential Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "642255e1-28be-f111-aaad-6045bde68010"
+    },
+    {
+      "referenceNumber": "2026/10675",
+      "proposalId": 10675,
+      "name": "Joel Joel Battery Energy Storage System Project",
+      "jurisdiction": "VIC",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "760dc19c-5bc0-f111-aaaf-7c1e522b52b7"
+    },
+    {
+      "referenceNumber": "2026/10680",
+      "proposalId": 10680,
+      "name": "Residential Development Project",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Residential Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "c444f1d8-92c2-f111-aaaf-7ced8da23712"
+    },
+    {
+      "referenceNumber": "2026/10682",
+      "proposalId": 10682,
+      "name": "Mara Team Testing - Hotfix 51.4",
+      "jurisdiction": "SA",
+      "decision": null,
+      "determination": null,
+      "status": "Cancelled",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Commercial Development",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "af6491bf-ebc2-f111-aaaf-6045bde6885a"
+    },
+    {
+      "referenceNumber": "2026/10683",
+      "proposalId": 10683,
+      "name": "Foxleigh Coal Mine – Roper Creek Extension Project",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "a9bc8afa-89c3-f111-aaad-6045bde68964"
+    },
+    {
+      "referenceNumber": "2026/10684",
+      "proposalId": 10684,
+      "name": "Tasman Ring Network Marine Route Survey for Submarine Telecommunication Cable",
+      "jurisdiction": "CM",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting additional information",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Telecommunications",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "c5181616-8ac3-f111-aaaf-70a8a5568e95"
+    },
+    {
+      "referenceNumber": "2026/10685",
+      "proposalId": 10685,
+      "name": "Kerrawary Power Station - Lateral Gas Pipeline",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (non-renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "eae1d0a8-ccc3-f111-aaaf-6045bde6885a"
+    },
+    {
+      "referenceNumber": "2026/10686",
+      "proposalId": 10686,
+      "name": "Kerrawarry Power Station",
+      "jurisdiction": "NSW",
+      "decision": null,
+      "determination": null,
+      "status": "Awaiting Delegate Decision",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Energy Generation and Supply (non-renewable)",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "29a027ce-ccc3-f111-aaaf-70a8a5568e95"
+    },
+    {
+      "referenceNumber": "2026/10690",
+      "proposalId": 10690,
+      "name": "Foxleigh Mine Extension - Pipeline Pit Expansion",
+      "jurisdiction": "QLD",
+      "decision": null,
+      "determination": null,
+      "status": "Referral Decision - Open for Public Comment",
+      "stage": "Referral Decision",
+      "referralType": "Referral (S68)",
+      "year": 2026,
+      "category": "Mining",
+      "portalUrl": "http://epbcnotices.environment.gov.au/referralslist",
+      "crmId": "ac002fdf-feca-f111-a05a-6045bde68010"
+    }
+  ],
+  "changed": [
+    {
+      "referenceNumber": "2024/09768",
+      "from": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      },
+      "to": {
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09778",
+      "from": {
+        "status": "Under Assessment",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09786",
+      "from": {
+        "status": "Guidelines Issued"
+      },
+      "to": {
+        "status": "Awaiting additional information"
+      }
+    },
+    {
+      "referenceNumber": "2024/09800",
+      "from": {
+        "status": "Considering Final Decision",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09809",
+      "from": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      },
+      "to": {
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09812",
+      "from": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Project Withdrawn",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2024/09825",
+      "from": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09839",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2024/09848",
+      "from": {
+        "status": "Under Assessment",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09859",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2024/09874",
+      "from": {
+        "status": "Final State/Territory Report Received",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09887",
+      "from": {
+        "status": "Assessment Approach Determined",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09907",
+      "from": {
+        "status": "Condition variation being considered"
+      },
+      "to": {
+        "status": "Approval Decision made"
+      }
+    },
+    {
+      "referenceNumber": "2024/09924",
+      "from": {
+        "status": "Under Assessment",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09936",
+      "from": {
+        "status": "Assessment Approach Determined"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2024/09948",
+      "from": {
+        "status": "Awaiting additional information",
+        "stage": "Approval"
+      },
+      "to": {
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09955",
+      "from": {
+        "status": "Under Assessment",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09956",
+      "from": {
+        "status": "Considering Final Decision",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09961",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2024/09976",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2024/09978",
+      "from": {
+        "status": "Considering Final Decision",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/09985",
+      "from": {
+        "status": "Reconsideration Requested",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Referral Decision"
+      }
+    },
+    {
+      "referenceNumber": "2024/10002",
+      "from": {
+        "status": "Under Assessment"
+      },
+      "to": {
+        "status": "Draft documentation published - Open for Public Comment"
+      }
+    },
+    {
+      "referenceNumber": "2024/10050",
+      "from": {
+        "status": "Assessment Approach Determined"
+      },
+      "to": {
+        "status": "Considering Variation to Proposal"
+      }
+    },
+    {
+      "referenceNumber": "2024/10068",
+      "from": {
+        "status": "Under Assessment",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2024/10070",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Considering Final Decision"
+      }
+    },
+    {
+      "referenceNumber": "2024/10083",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2024/10087",
+      "from": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Project Withdrawn",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2025/10098",
+      "from": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      },
+      "to": {
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2025/10111",
+      "from": {
+        "status": "Guidelines Issued"
+      },
+      "to": {
+        "status": "Considering Variation to Proposal"
+      }
+    },
+    {
+      "referenceNumber": "2025/10117",
+      "from": {
+        "status": "Under Assessment",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2025/10127",
+      "from": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Project Withdrawn",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2025/10141",
+      "from": {
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2025/10150",
+      "from": {
+        "status": "Under Assessment"
+      },
+      "to": {
+        "status": "Guidelines Issued"
+      }
+    },
+    {
+      "referenceNumber": "2025/10151",
+      "from": {
+        "status": "Awaiting additional information",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2025/10166",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2025/10176",
+      "from": {
+        "status": "Under Assessment",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2025/10177",
+      "from": {
+        "status": "Under Assessment",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2025/10179",
+      "from": {
+        "status": "Assessment Approach Determined"
+      },
+      "to": {
+        "status": "Considering Variation to Proposal"
+      }
+    },
+    {
+      "referenceNumber": "2025/10181",
+      "from": {
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2025/10185",
+      "from": {
+        "status": "Approval Decision made"
+      },
+      "to": {
+        "status": "Condition variation being considered"
+      }
+    },
+    {
+      "referenceNumber": "2025/10188",
+      "from": {
+        "status": "Assessment Approach Determined"
+      },
+      "to": {
+        "status": "Awaiting additional information"
+      }
+    },
+    {
+      "referenceNumber": "2025/10214",
+      "from": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Project Withdrawn",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2025/10215",
+      "from": {
+        "status": "Under Assessment"
+      },
+      "to": {
+        "status": "Considering Variation to Proposal"
+      }
+    },
+    {
+      "referenceNumber": "2025/10234",
+      "from": {
+        "status": "Considering Variation to Proposal"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2025/10235",
+      "from": {
+        "status": "Draft EIS Guidelines Published - Open for Public Comment"
+      },
+      "to": {
+        "status": "Guidelines Issued"
+      }
+    },
+    {
+      "referenceNumber": "2025/10257",
+      "from": {
+        "status": "Assessment Approach Determined"
+      },
+      "to": {
+        "status": "Guidelines Issued"
+      }
+    },
+    {
+      "referenceNumber": "2025/10259",
+      "from": {
+        "status": "Guidelines Issued"
+      },
+      "to": {
+        "status": "Considering Variation to Proposal"
+      }
+    },
+    {
+      "referenceNumber": "2025/10322",
+      "from": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2025/10348",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Draft documentation published - Open for Public Comment"
+      }
+    },
+    {
+      "referenceNumber": "2025/10353",
+      "from": {
+        "status": "Assessment Approach Determined"
+      },
+      "to": {
+        "status": "Considering Variation to Proposal"
+      }
+    },
+    {
+      "referenceNumber": "2025/10354",
+      "from": {
+        "status": "Assessment Approach Determined"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2025/10358",
+      "from": {
+        "status": "Awaiting additional information",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2025/10364",
+      "from": {
+        "status": "Awaiting additional information"
+      },
+      "to": {
+        "status": "Considering Variation to Proposal"
+      }
+    },
+    {
+      "referenceNumber": "2025/10373",
+      "from": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Project Withdrawn",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2025/10381",
+      "from": {
+        "status": "Assessment Approach Determined",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Guidelines Issued",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2025/10383",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2025/10390",
+      "from": {
+        "status": "Direction to Publish Draft Preliminary Documentation Issued",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2025/10391",
+      "from": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2025/10397",
+      "from": {
+        "status": "Assessment Approach Determined"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2025/10403",
+      "from": {
+        "status": "Assessment Approach Determined"
+      },
+      "to": {
+        "status": "Guidelines Issued"
+      }
+    },
+    {
+      "referenceNumber": "2026/10410",
+      "from": {
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10411",
+      "from": {
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10412",
+      "from": {
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10435",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Awaiting additional information"
+      }
+    },
+    {
+      "referenceNumber": "2026/10453",
+      "from": {
+        "status": "Referral Decision Made"
+      },
+      "to": {
+        "status": "Reconsideration Requested"
+      }
+    },
+    {
+      "referenceNumber": "2026/10462",
+      "from": {
+        "status": "Assessment Approach Determined"
+      },
+      "to": {
+        "status": "Assessment Commenced"
+      }
+    },
+    {
+      "referenceNumber": "2026/10467",
+      "from": {
+        "status": "Awaiting additional information",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10471",
+      "from": {
+        "status": "Referral Decision Made"
+      },
+      "to": {
+        "status": "Reconsideration Decision Made"
+      }
+    },
+    {
+      "referenceNumber": "2026/10475",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10477",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10480",
+      "from": {
+        "status": "Assessment Approach Determined"
+      },
+      "to": {
+        "status": "Guidelines Issued"
+      }
+    },
+    {
+      "referenceNumber": "2026/10482",
+      "from": {
+        "status": "Under Assessment",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2026/10484",
+      "from": {
+        "status": "Considering Variation to Proposal"
+      },
+      "to": {
+        "status": "Under Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10486",
+      "from": {
+        "status": "Awaiting additional information",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10489",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Approach Determined",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10503",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Draft documentation published - Open for Public Comment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10508",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10515",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Considering Variation to Proposal"
+      }
+    },
+    {
+      "referenceNumber": "2026/10527",
+      "from": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2026/10528",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10530",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Assessment Approach Determined"
+      }
+    },
+    {
+      "referenceNumber": "2026/10535",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10539",
+      "from": {
+        "status": "Assessment Approach Determined"
+      },
+      "to": {
+        "status": "Assessment Commenced"
+      }
+    },
+    {
+      "referenceNumber": "2026/10540",
+      "from": {
+        "status": "Assessment Commenced"
+      },
+      "to": {
+        "status": "Considering Variation to Proposal"
+      }
+    },
+    {
+      "referenceNumber": "2026/10542",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10543",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10545",
+      "from": {
+        "status": "Awaiting additional information"
+      },
+      "to": {
+        "status": "Assessment Approach Determined"
+      }
+    },
+    {
+      "referenceNumber": "2026/10547",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10549",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10551",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10552",
+      "from": {
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10553",
+      "from": {
+        "status": "Awaiting Assessment Approach Decision",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Considering Final Decision",
+        "stage": "Approval"
+      }
+    },
+    {
+      "referenceNumber": "2026/10554",
+      "from": {
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10556",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10557",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10558",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10560",
+      "from": {
+        "status": "Awaiting additional information",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Approach Determined",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10564",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Approach Determined",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10565",
+      "from": {
+        "status": "Awaiting additional information",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10566",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10569",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Under Assessment",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10571",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10572",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10574",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10575",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10576",
+      "from": {
+        "status": "Awaiting Delegate Decision"
+      },
+      "to": {
+        "status": "Awaiting additional information"
+      }
+    },
+    {
+      "referenceNumber": "2026/10580",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Awaiting Assessment Approach Decision",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10581",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Awaiting Assessment Approach Decision",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10582",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10583",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10585",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10587",
+      "from": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      },
+      "to": {
+        "status": "Approval Decision made",
+        "stage": "Post-Approval"
+      }
+    },
+    {
+      "referenceNumber": "2026/10588",
+      "from": {
+        "status": "Awaiting Delegate Decision",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10589",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10590",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10593",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10594",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10595",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10596",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10597",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Commenced",
+        "stage": "Assessment"
+      }
+    },
+    {
+      "referenceNumber": "2026/10598",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Referral Decision Made",
+        "stage": "Completed"
+      }
+    },
+    {
+      "referenceNumber": "2026/10603",
+      "from": {
+        "status": "Referral Decision - Open for Public Comment",
+        "stage": "Referral Decision"
+      },
+      "to": {
+        "status": "Assessment Approach Determined",
+        "stage": "Assessment"
+      }
+    }
+  ],
+  "removed": [],
+  "stats": {
+    "totalCurrent": 8092,
+    "totalPrevious": 8017,
+    "addedCount": 75,
+    "changedCount": 123,
+    "removedCount": 0
+  }
+}

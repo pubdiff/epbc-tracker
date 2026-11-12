@@ -7,15 +7,41 @@
   "language": "en-AU",
   "items": [
     {
-      "id": "urn:epbc-tracker:added:2025/10151:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10151",
-      "title": "New referral: Porcupine Village Holiday Park Redevelopment",
-      "content_text": "Reference 2025/10151 - Jurisdiction: VIC - Category: Tourism and Recreation - Type: Referral (S68) - Status: Awaiting additional information",
-      "content_html": "<p>Reference 2025/10151 - Jurisdiction: VIC - Category: Tourism and Recreation - Type: Referral (S68) - Status: Awaiting additional information</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10637:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10637",
+      "title": "New referral: Adelaide Circuit Redevelopment (ACR) Project",
+      "content_text": "Reference 2026/10637 - Jurisdiction: SA - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10637 - Jurisdiction: SA - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
-        "VIC",
+        "SA",
+        "Tourism and Recreation"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10648:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10648",
+      "title": "New referral: Smithfield Mountain Bike Park Expansion Project",
+      "content_text": "Reference 2026/10648 - Jurisdiction: QLD - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10648 - Jurisdiction: QLD - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Tourism and Recreation"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10673:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10673",
+      "title": "New referral: Gold Coast Oceanway Project",
+      "content_text": "Reference 2026/10673 - Jurisdiction: QLD - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10673 - Jurisdiction: QLD - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
         "Tourism and Recreation"
       ]
     }

@@ -5,5 +5,19 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/commonwealth.json",
   "description": "EPBC Act referral changes in the Commonwealth category.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2026/10610:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10610",
+      "title": "New referral: Uluru Base Walk Upgrades",
+      "content_text": "Reference 2026/10610 - Jurisdiction: NT - Category: Commonwealth - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10610 - Jurisdiction: NT - Category: Commonwealth - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NT",
+        "Commonwealth"
+      ]
+    }
+  ]
 }

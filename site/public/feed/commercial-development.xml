@@ -6,14 +6,63 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/commercial-development.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes in the Commercial Development category.</description>
     <language>en-au</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:48:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:51:35 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
     <item>
-      <title>New referral: Honeman Close Warehouse Facility (SSD-79500208)</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10159</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10159:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2025/10159 - Jurisdiction: NSW - Category: Commercial Development - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+      <title>New referral: Point Cook Industrial and Commercial subdivision</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10184</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10184:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2025/10184 - Jurisdiction: VIC - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</description>
+    </item>
+    <item>
+      <title>New referral: Swanbank South Enterprise Park</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10602</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10602:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10602 - Jurisdiction: QLD - Category: Commercial Development - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Industrial Development, Wattleup</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10618</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10618:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10618 - Jurisdiction: WA - Category: Commercial Development - Type: Referral (S68) - Status: Assessment Commenced</description>
+    </item>
+    <item>
+      <title>New referral: Gungahlin Homestead Estate</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10628</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10628:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10628 - Jurisdiction: ACT - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Casuarina South Precinct Residential Development - Lot 1002 Mortimer Road</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10639</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10639:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10639 - Jurisdiction: WA - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</description>
+    </item>
+    <item>
+      <title>New referral: Academy of Mary Immaculate, Fitzroy</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10641</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10641:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10641 - Jurisdiction: VIC - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</description>
+    </item>
+    <item>
+      <title>New referral: Proposed commercial construction of a data centre</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10668</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10668:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10668 - Jurisdiction: VIC - Category: Commercial Development - Type: Referral (S68) - Status: Awaiting Delegate Decision</description>
+    </item>
+    <item>
+      <title>New referral: Mara Team Testing - Hotfix 51.4</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10682</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10682:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10682 - Jurisdiction: SA - Category: Commercial Development - Type: Referral (S68) - Status: Cancelled</description>
     </item>
   </channel>
 </rss>

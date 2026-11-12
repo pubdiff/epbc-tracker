@@ -6,42 +6,28 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/energy-generation-and-supply-non-renewable.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes in the Energy Generation and Supply (non-renewable) category.</description>
     <language>en-au</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:48:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:51:35 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
     <item>
-      <title>New referral: Borumba to Halys Transmission Connection Project</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10128</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10128:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2025/10128 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Guidelines Issued</description>
+      <title>New referral: Roma Phase 8B Stage 2 Development</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10646</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10646:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10646 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
     </item>
     <item>
-      <title>New referral: Burdekin BESS and Transmission Line</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10166</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10166:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2025/10166 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Assessment Commenced</description>
+      <title>New referral: Kerrawary Power Station - Lateral Gas Pipeline</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10685</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10685:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10685 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</description>
     </item>
     <item>
-      <title>New referral: Talbingo Battery</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10200</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10200:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2025/10200 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</description>
-    </item>
-    <item>
-      <title>New referral: Moomba to Wilton Pipeline – MW733 Compressor Station (Modification 8)</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10225</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10225:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2025/10225 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
-    </item>
-    <item>
-      <title>New referral: Roma Phase 7-7B-SD20 Development</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10227</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10227:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2025/10227 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+      <title>New referral: Kerrawarry Power Station</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10686</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10686:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10686 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</description>
     </item>
   </channel>
 </rss>

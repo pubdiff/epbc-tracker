@@ -7,51 +7,12 @@
   "language": "en-AU",
   "items": [
     {
-      "id": "urn:epbc-tracker:added:2024/09958:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09958",
-      "title": "New referral: Wattle Hill Creek, Bridge Replacement Project, Henty Highway, Portland",
-      "content_text": "Reference 2024/09958 - Jurisdiction: VIC - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2024/09958 - Jurisdiction: VIC - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "VIC",
-        "Transport - Land"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10142:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10142",
-      "title": "New referral: Karnup Road Widening Project, Hopeland",
-      "content_text": "Reference 2025/10142 - Jurisdiction: WA - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10142 - Jurisdiction: WA - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Transport - Land"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10203:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10203",
-      "title": "New referral: Wolgan Road Reconstruction Project",
-      "content_text": "Reference 2025/10203 - Jurisdiction: NSW - Category: Transport - Land - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10203 - Jurisdiction: NSW - Category: Transport - Land - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Transport - Land"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10210:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10210",
-      "title": "New referral: Lansdown Eco-Industrial Precinct (LEIP) Old Flinders Highway Intersection Upgrade",
-      "content_text": "Reference 2025/10210 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10210 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10577:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10577",
+      "title": "New referral: Old Gympie Road Upgrade",
+      "content_text": "Reference 2026/10577 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10577 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "QLD",
@@ -59,15 +20,28 @@
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10218:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10218",
-      "title": "New referral: Approved Industrial Subdivision",
-      "content_text": "Reference 2025/10218 - Jurisdiction: NSW - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10218 - Jurisdiction: NSW - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10653:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10653",
+      "title": "New referral: George Alexander Way Upgrade",
+      "content_text": "Reference 2026/10653 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10653 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
-        "NSW",
+        "QLD",
+        "Transport - Land"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10663:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10663",
+      "title": "New referral: Suncoast Beach Drive and South Coolum Road Extensions",
+      "content_text": "Reference 2026/10663 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2026/10663 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
         "Transport - Land"
       ]
     }

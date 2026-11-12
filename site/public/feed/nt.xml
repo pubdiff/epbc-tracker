@@ -6,21 +6,21 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/nt.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes where the primary jurisdiction is NT.</description>
     <language>en-au</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:48:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:51:35 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
     <item>
-      <title>New referral: Sweetwater Agricultural Development Stage 1</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10235</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10235:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2025/10235 - Jurisdiction: NT - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Draft EIS Guidelines Published - Open for Public Comment</description>
+      <title>New referral: Uluru Base Walk Upgrades</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10610</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10610:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10610 - Jurisdiction: NT - Category: Commonwealth - Type: Referral (S68) - Status: Referral Decision Made</description>
     </item>
     <item>
-      <title>New referral: Roper Valley Iron Ore Project</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10240</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10240:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2025/10240 - Jurisdiction: NT - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</description>
+      <title>New referral: Lloyd Creek Rural Village – Stage 1</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10629</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10629:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10629 - Jurisdiction: NT - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision</description>
     </item>
   </channel>
 </rss>

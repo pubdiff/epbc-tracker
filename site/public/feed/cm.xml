@@ -6,14 +6,42 @@
     <atom:link href="https://pubdiff.github.io/epbc-tracker/feed/cm.xml" rel="self" type="application/rss+xml" />
     <description>EPBC Act referral changes where the primary jurisdiction is CM.</description>
     <language>en-au</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:48:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:51:35 GMT</lastBuildDate>
     <copyright>EPBC referrals data © Commonwealth of Australia (DCCEEW). Feed CC-BY-4.0 pubdiff.</copyright>
     <item>
-      <title>New referral: Marine survey of the Bunbury continental shelf.</title>
-      <link>https://pubdiff.github.io/epbc-tracker/r/2025-10161</link>
-      <guid isPermaLink="false">urn:epbc-tracker:added:2025/10161:2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Reference 2025/10161 - Jurisdiction: CM - Category: Science and Research - Type: Referral (S68) - Status: Referral Decision Made</description>
+      <title>New referral: Star of the South Offshore Wind Farm Geophysical and Geotechnical Investigations</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10573</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10573:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10573 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</description>
+    </item>
+    <item>
+      <title>New referral: High Sea Wind Commonwealth Component</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10601</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10601:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10601 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</description>
+    </item>
+    <item>
+      <title>New referral: Bunbury Offshore Wind Project</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10613</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10613:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10613 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</description>
+    </item>
+    <item>
+      <title>New referral: Aquaculture research in the Blue Economy Zone: stocking salmon and cultivating seaweed</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10627</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10627:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10627 - Jurisdiction: CM - Category: Aquaculture - Type: Referral (S68) - Status: Under Assessment</description>
+    </item>
+    <item>
+      <title>New referral: Tasman Ring Network Marine Route Survey for Submarine Telecommunication Cable</title>
+      <link>https://pubdiff.github.io/epbc-tracker/r/2026-10684</link>
+      <guid isPermaLink="false">urn:epbc-tracker:added:2026/10684:2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Reference 2026/10684 - Jurisdiction: CM - Category: Telecommunications - Type: Referral (S68) - Status: Awaiting additional information</description>
     </item>
   </channel>
 </rss>

@@ -7,38 +7,38 @@
   "language": "en-AU",
   "items": [
     {
-      "id": "urn:epbc-tracker:added:2024/09961:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09961",
-      "title": "New referral: Whyte Yarcowie Wind Farm",
-      "content_text": "Reference 2024/09961 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2024/09961 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10573:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10573",
+      "title": "New referral: Star of the South Offshore Wind Farm Geophysical and Geotechnical Investigations",
+      "content_text": "Reference 2026/10573 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10573 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
-        "SA",
+        "CM",
         "Energy Generation and Supply (renewable)"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2024/10086:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-10086",
-      "title": "New referral: Morgan Solar Project",
-      "content_text": "Reference 2024/10086 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2024/10086 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10591:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10591",
+      "title": "New referral: Bungaban Solar Project",
+      "content_text": "Reference 2026/10591 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10591 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
-        "SA",
+        "QLD",
         "Energy Generation and Supply (renewable)"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2024/10088:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-10088",
-      "title": "New referral: Great Eastern Offshore Wind",
-      "content_text": "Reference 2024/10088 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Guidelines Issued",
-      "content_html": "<p>Reference 2024/10088 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Guidelines Issued</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10600:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10600",
+      "title": "New referral: High Sea Wind Victorian Component",
+      "content_text": "Reference 2026/10600 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10600 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "VIC",
@@ -46,12 +46,25 @@
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10136:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10136",
-      "title": "New referral: Peninsula Solar Farm",
-      "content_text": "Reference 2025/10136 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10136 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10601:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10601",
+      "title": "New referral: High Sea Wind Commonwealth Component",
+      "content_text": "Reference 2026/10601 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10601 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "CM",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10604:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10604",
+      "title": "New referral: The Rix’s Creek North Solar Farm",
+      "content_text": "Reference 2026/10604 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Assessment Approach Decision",
+      "content_html": "<p>Reference 2026/10604 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Assessment Approach Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "NSW",
@@ -59,25 +72,12 @@
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10143:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10143",
-      "title": "New referral: Brewongle Solar Farm",
-      "content_text": "Reference 2025/10143 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10143 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10150:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10150",
-      "title": "New referral: Cattle Creek Wind Farm",
-      "content_text": "Reference 2025/10150 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2025/10150 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10609:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10609",
+      "title": "New referral: Mount Britton Battery Energy Storage System",
+      "content_text": "Reference 2026/10609 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10609 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "QLD",
@@ -85,259 +85,25 @@
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10152:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10152",
-      "title": "New referral: South Coree BESS",
-      "content_text": "Reference 2025/10152 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10152 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10613:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10613",
+      "title": "New referral: Bunbury Offshore Wind Project",
+      "content_text": "Reference 2026/10613 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10613 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
-        "NSW",
+        "CM",
         "Energy Generation and Supply (renewable)"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10160:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10160",
-      "title": "New referral: Weasel Solar Farm",
-      "content_text": "Reference 2025/10160 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10160 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "TAS",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10163:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10163",
-      "title": "New referral: Turner River Solar Hub",
-      "content_text": "Reference 2025/10163 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Approval Decision made",
-      "content_html": "<p>Reference 2025/10163 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Approval Decision made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10164:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10164",
-      "title": "New referral: Nonowie Wind Farm",
-      "content_text": "Reference 2025/10164 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10164 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "SA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10179:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10179",
-      "title": "New referral: Yanco Delta Wind Farm",
-      "content_text": "Reference 2025/10179 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10179 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10189:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10189",
-      "title": "New referral: Hookey Creek Solar Farm and Battery Energy Storage System (BESS)",
-      "content_text": "Reference 2025/10189 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10189 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10190:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10190",
-      "title": "New referral: Eastern Hub Firming Battery Project",
-      "content_text": "Reference 2025/10190 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10190 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10191:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10191",
-      "title": "New referral: Broome Future Energy System",
-      "content_text": "Reference 2025/10191 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10191 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10194:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10194",
-      "title": "New referral: East Pilbara Generation Hub",
-      "content_text": "Reference 2025/10194 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10194 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10195:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10195",
-      "title": "New referral: Yanco Delta Wind Farm - Dinawan Transmission Line",
-      "content_text": "Reference 2025/10195 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2025/10195 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10209:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10209",
-      "title": "New referral: Forbes Solar Farm",
-      "content_text": "Reference 2025/10209 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10209 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10211:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10211",
-      "title": "New referral: Sunny Corner Wind Farm",
-      "content_text": "Reference 2025/10211 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10211 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10212:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10212",
-      "title": "New referral: Garoo Solar Farm and BESS",
-      "content_text": "Reference 2025/10212 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10212 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10215:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10215",
-      "title": "New referral: Derby Future Energy System",
-      "content_text": "Reference 2025/10215 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2025/10215 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10220:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10220",
-      "title": "New referral: Mangoplah BESS",
-      "content_text": "Reference 2025/10220 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10220 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10221:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10221",
-      "title": "New referral: Kiar Battery Energy Storage System (BESS)",
-      "content_text": "Reference 2025/10221 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10221 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10222:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10222",
-      "title": "New referral: Baru-Marnda Renewable Energy Project",
-      "content_text": "Reference 2025/10222 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting additional information",
-      "content_html": "<p>Reference 2025/10222 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting additional information</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10226:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10226",
-      "title": "New referral: Tarraleah Redevelopment Project",
-      "content_text": "Reference 2025/10226 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10226 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "TAS",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10230:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10230",
-      "title": "New referral: Sunshine State Solar Farm and BESS",
-      "content_text": "Reference 2025/10230 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10230 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10231:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10231",
-      "title": "New referral: Nowingi Solar Power Station",
-      "content_text": "Reference 2025/10231 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10231 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10614:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10614",
+      "title": "New referral: Battery Energy Storage System",
+      "content_text": "Reference 2026/10614 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10614 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "VIC",
@@ -345,12 +111,12 @@
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10233:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10233",
-      "title": "New referral: Canyonleigh Battery Energy Storage System",
-      "content_text": "Reference 2025/10233 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10233 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10615:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10615",
+      "title": "New referral: Hanworth Battery Project",
+      "content_text": "Reference 2026/10615 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10615 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "NSW",
@@ -358,12 +124,12 @@
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10238:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10238",
-      "title": "New referral: Tall Tree Wind Farm",
-      "content_text": "Reference 2025/10238 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10238 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10619:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10619",
+      "title": "New referral: Ballyrogan Wind Farm",
+      "content_text": "Reference 2026/10619 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10619 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "VIC",
@@ -371,15 +137,158 @@
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10241:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10241",
-      "title": "New referral: Columboola Battery",
-      "content_text": "Reference 2025/10241 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10241 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10620:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10620",
+      "title": "New referral: Wala Wala Pumped Hydro Energy Storage (Dungowan Valley)",
+      "content_text": "Reference 2026/10620 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10620 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10622:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10622",
+      "title": "New referral: Magpie Hill Solar Farm",
+      "content_text": "Reference 2026/10622 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10622 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10624:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10624",
+      "title": "New referral: Construction and Operation of the Blackstone Battery Energy Storage System (BESS)",
+      "content_text": "Reference 2026/10624 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10624 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "QLD",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10631:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10631",
+      "title": "New referral: Narrogin East Renewable Energy Project",
+      "content_text": "Reference 2026/10631 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10631 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10632:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10632",
+      "title": "New referral: Kangaroo Valley Battery Energy Storage System",
+      "content_text": "Reference 2026/10632 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10632 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10635:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10635",
+      "title": "New referral: Origin Energy Eraring BESS Expansion",
+      "content_text": "Reference 2026/10635 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10635 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10643:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10643",
+      "title": "New referral: Macorna Wind Farm",
+      "content_text": "Reference 2026/10643 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10643 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10651:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10651",
+      "title": "New referral: Abermain Battery Project",
+      "content_text": "Reference 2026/10651 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10651 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10654:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10654",
+      "title": "New referral: Meridien - Renewable Energy Hub and Data Centre",
+      "content_text": "Reference 2026/10654 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10654 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10658:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10658",
+      "title": "New referral: Darnum Battery Energy Storage System",
+      "content_text": "Reference 2026/10658 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10658 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10660:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10660",
+      "title": "New referral: Balala Wind Farm",
+      "content_text": "Reference 2026/10660 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Assessment Approach Decision",
+      "content_html": "<p>Reference 2026/10660 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Assessment Approach Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10675:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10675",
+      "title": "New referral: Joel Joel Battery Energy Storage System Project",
+      "content_text": "Reference 2026/10675 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10675 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
         "Energy Generation and Supply (renewable)"
       ]
     }

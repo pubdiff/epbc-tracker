@@ -7,1090 +7,948 @@
   "language": "en-AU",
   "items": [
     {
-      "id": "urn:epbc-tracker:added:2024/09876:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09876",
-      "title": "New referral: Barton Heights Master Plan",
-      "content_text": "Reference 2024/09876 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2024/09876 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Residential Development"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2024/09955:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09955",
-      "title": "New referral: Copi Mineral Sands Project",
-      "content_text": "Reference 2024/09955 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2024/09955 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2024/09958:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09958",
-      "title": "New referral: Wattle Hill Creek, Bridge Replacement Project, Henty Highway, Portland",
-      "content_text": "Reference 2024/09958 - Jurisdiction: VIC - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2024/09958 - Jurisdiction: VIC - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2025/10184:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10184",
+      "title": "New referral: Point Cook Industrial and Commercial subdivision",
+      "content_text": "Reference 2025/10184 - Jurisdiction: VIC - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2025/10184 - Jurisdiction: VIC - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "VIC",
-        "Transport - Land"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2024/09961:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09961",
-      "title": "New referral: Whyte Yarcowie Wind Farm",
-      "content_text": "Reference 2024/09961 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2024/09961 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "SA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2024/09976:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09976",
-      "title": "New referral: Land clearing for development of Brooklyn Fields Estate",
-      "content_text": "Reference 2024/09976 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2024/09976 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Residential Development"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2024/10003:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-10003",
-      "title": "New referral: Land clearing for residential development",
-      "content_text": "Reference 2024/10003 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2024/10003 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Residential Development"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2024/10086:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-10086",
-      "title": "New referral: Morgan Solar Project",
-      "content_text": "Reference 2024/10086 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2024/10086 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "SA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2024/10088:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-10088",
-      "title": "New referral: Great Eastern Offshore Wind",
-      "content_text": "Reference 2024/10088 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Guidelines Issued",
-      "content_html": "<p>Reference 2024/10088 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Guidelines Issued</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "VIC",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10116:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10116",
-      "title": "New referral: Vegetation Clearing at Karalee",
-      "content_text": "Reference 2025/10116 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10116 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Residential Development"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10127:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10127",
-      "title": "New referral: Poultry rearing facility, Anakie",
-      "content_text": "Reference 2025/10127 - Jurisdiction: VIC - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10127 - Jurisdiction: VIC - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "VIC",
-        "Agriculture and Forestry"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10128:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10128",
-      "title": "New referral: Borumba to Halys Transmission Connection Project",
-      "content_text": "Reference 2025/10128 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Guidelines Issued",
-      "content_html": "<p>Reference 2025/10128 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Guidelines Issued</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Energy Generation and Supply (non-renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10131:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10131",
-      "title": "New referral: Rix's Creek North Open Cut Mine",
-      "content_text": "Reference 2025/10131 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10131 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10132:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10132",
-      "title": "New referral: Rix's Creek North Continuation Project",
-      "content_text": "Reference 2025/10132 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10132 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10133:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10133",
-      "title": "New referral: Blue Hills Quarry",
-      "content_text": "Reference 2025/10133 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10133 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "VIC",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10136:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10136",
-      "title": "New referral: Peninsula Solar Farm",
-      "content_text": "Reference 2025/10136 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10136 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10137:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10137",
-      "title": "New referral: Reconnecting River Country: Werai Forest Regulators infrastructure upgrade",
-      "content_text": "Reference 2025/10137 - Jurisdiction: NSW - Category: Natural Resources Management - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10137 - Jurisdiction: NSW - Category: Natural Resources Management - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Natural Resources Management"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10141:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10141",
-      "title": "New referral: CBH Nyabing Road Intersection Upgrades",
-      "content_text": "Reference 2025/10141 - Jurisdiction: WA - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10141 - Jurisdiction: WA - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Agriculture and Forestry"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10142:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10142",
-      "title": "New referral: Karnup Road Widening Project, Hopeland",
-      "content_text": "Reference 2025/10142 - Jurisdiction: WA - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10142 - Jurisdiction: WA - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Transport - Land"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10143:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10143",
-      "title": "New referral: Brewongle Solar Farm",
-      "content_text": "Reference 2025/10143 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10143 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10146:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10146",
-      "title": "New referral: Merinda Mara test 22 March2025 release- draw map",
-      "content_text": "Reference 2025/10146 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Cancelled",
-      "content_html": "<p>Reference 2025/10146 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Cancelled</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10148:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10148",
-      "title": "New referral: 1.1.1\tGolden Sun Moth Population Present on Lot Development",
-      "content_text": "Reference 2025/10148 - Jurisdiction: VIC - Category: Private - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10148 - Jurisdiction: VIC - Category: Private - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "VIC",
-        "Private"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10149:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10149",
-      "title": "New referral: Ocean-based aquaculture for golden kelp farm",
-      "content_text": "Reference 2025/10149 - Jurisdiction: NSW - Category: Aquaculture - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10149 - Jurisdiction: NSW - Category: Aquaculture - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Aquaculture"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10150:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10150",
-      "title": "New referral: Cattle Creek Wind Farm",
-      "content_text": "Reference 2025/10150 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2025/10150 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10151:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10151",
-      "title": "New referral: Porcupine Village Holiday Park Redevelopment",
-      "content_text": "Reference 2025/10151 - Jurisdiction: VIC - Category: Tourism and Recreation - Type: Referral (S68) - Status: Awaiting additional information",
-      "content_html": "<p>Reference 2025/10151 - Jurisdiction: VIC - Category: Tourism and Recreation - Type: Referral (S68) - Status: Awaiting additional information</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "VIC",
-        "Tourism and Recreation"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10152:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10152",
-      "title": "New referral: South Coree BESS",
-      "content_text": "Reference 2025/10152 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10152 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10155:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10155",
-      "title": "New referral: Monarchs Rise Residential Subdivision",
-      "content_text": "Reference 2025/10155 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10155 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Residential Development"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10156:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10156",
-      "title": "New referral: Yarra Valley Quarry Stage 3 Expansion Project",
-      "content_text": "Reference 2025/10156 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2025/10156 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "VIC",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10157:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10157",
-      "title": "New referral: Discovery Drive, Agnes Water Residential Development",
-      "content_text": "Reference 2025/10157 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Project Withdrawn",
-      "content_html": "<p>Reference 2025/10157 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Project Withdrawn</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Residential Development"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10158:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10158",
-      "title": "New referral: Lot 102 Bussell Highway, Cowaramup Residential Development",
-      "content_text": "Reference 2025/10158 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10158 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Residential Development"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10159:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10159",
-      "title": "New referral: Honeman Close Warehouse Facility (SSD-79500208)",
-      "content_text": "Reference 2025/10159 - Jurisdiction: NSW - Category: Commercial Development - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10159 - Jurisdiction: NSW - Category: Commercial Development - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
         "Commercial Development"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10160:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10160",
-      "title": "New referral: Weasel Solar Farm",
-      "content_text": "Reference 2025/10160 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10160 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10541:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10541",
+      "title": "New referral: Continuation of Bengalla Mine Modification 9",
+      "content_text": "Reference 2026/10541 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Project Withdrawn",
+      "content_html": "<p>Reference 2026/10541 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Project Withdrawn</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
-        "TAS",
+        "NSW",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10573:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10573",
+      "title": "New referral: Star of the South Offshore Wind Farm Geophysical and Geotechnical Investigations",
+      "content_text": "Reference 2026/10573 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10573 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "CM",
         "Energy Generation and Supply (renewable)"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10161:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10161",
-      "title": "New referral: Marine survey of the Bunbury continental shelf.",
-      "content_text": "Reference 2025/10161 - Jurisdiction: CM - Category: Science and Research - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10161 - Jurisdiction: CM - Category: Science and Research - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10577:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10577",
+      "title": "New referral: Old Gympie Road Upgrade",
+      "content_text": "Reference 2026/10577 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10577 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Transport - Land"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10586:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10586",
+      "title": "New referral: Wallacia Quarry Expansion and Landfill",
+      "content_text": "Reference 2026/10586 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Awaiting Assessment Approach Decision",
+      "content_html": "<p>Reference 2026/10586 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Awaiting Assessment Approach Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10591:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10591",
+      "title": "New referral: Bungaban Solar Project",
+      "content_text": "Reference 2026/10591 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10591 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10592:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10592",
+      "title": "New referral: Bullsbrook South - Stage 2 Residential Development",
+      "content_text": "Reference 2026/10592 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10592 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10600:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10600",
+      "title": "New referral: High Sea Wind Victorian Component",
+      "content_text": "Reference 2026/10600 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10600 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10601:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10601",
+      "title": "New referral: High Sea Wind Commonwealth Component",
+      "content_text": "Reference 2026/10601 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10601 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "CM",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10602:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10602",
+      "title": "New referral: Swanbank South Enterprise Park",
+      "content_text": "Reference 2026/10602 - Jurisdiction: QLD - Category: Commercial Development - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2026/10602 - Jurisdiction: QLD - Category: Commercial Development - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Commercial Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10604:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10604",
+      "title": "New referral: The Rix’s Creek North Solar Farm",
+      "content_text": "Reference 2026/10604 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Assessment Approach Decision",
+      "content_html": "<p>Reference 2026/10604 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Assessment Approach Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10605:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10605",
+      "title": "New referral: Bundey Data Centre Campus",
+      "content_text": "Reference 2026/10605 - Jurisdiction: SA - Category: Telecommunications - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10605 - Jurisdiction: SA - Category: Telecommunications - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "SA",
+        "Telecommunications"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10607:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10607",
+      "title": "New referral: Bacchus Marsh Quarry Expansion",
+      "content_text": "Reference 2026/10607 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10607 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10608:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10608",
+      "title": "New referral: Land preparation for Residential Subdivision",
+      "content_text": "Reference 2026/10608 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10608 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10609:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10609",
+      "title": "New referral: Mount Britton Battery Energy Storage System",
+      "content_text": "Reference 2026/10609 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10609 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10610:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10610",
+      "title": "New referral: Uluru Base Walk Upgrades",
+      "content_text": "Reference 2026/10610 - Jurisdiction: NT - Category: Commonwealth - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10610 - Jurisdiction: NT - Category: Commonwealth - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NT",
+        "Commonwealth"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10613:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10613",
+      "title": "New referral: Bunbury Offshore Wind Project",
+      "content_text": "Reference 2026/10613 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10613 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "CM",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10614:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10614",
+      "title": "New referral: Battery Energy Storage System",
+      "content_text": "Reference 2026/10614 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10614 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10615:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10615",
+      "title": "New referral: Hanworth Battery Project",
+      "content_text": "Reference 2026/10615 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10615 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10616:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10616",
+      "title": "New referral: Eva Copper Mine Project (Stage 2)",
+      "content_text": "Reference 2026/10616 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Direction to Publish Draft Preliminary Documentation Issued",
+      "content_html": "<p>Reference 2026/10616 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Direction to Publish Draft Preliminary Documentation Issued</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10617:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10617",
+      "title": "New referral: Ensham Life of Mine Extension 2",
+      "content_text": "Reference 2026/10617 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Awaiting Assessment Approach Decision",
+      "content_html": "<p>Reference 2026/10617 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Awaiting Assessment Approach Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10618:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10618",
+      "title": "New referral: Industrial Development, Wattleup",
+      "content_text": "Reference 2026/10618 - Jurisdiction: WA - Category: Commercial Development - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2026/10618 - Jurisdiction: WA - Category: Commercial Development - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Commercial Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10619:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10619",
+      "title": "New referral: Ballyrogan Wind Farm",
+      "content_text": "Reference 2026/10619 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10619 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10620:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10620",
+      "title": "New referral: Wala Wala Pumped Hydro Energy Storage (Dungowan Valley)",
+      "content_text": "Reference 2026/10620 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10620 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10621:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10621",
+      "title": "New referral: Atlas North Mineral Sands Project (Atlas North)",
+      "content_text": "Reference 2026/10621 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10621 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10622:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10622",
+      "title": "New referral: Magpie Hill Solar Farm",
+      "content_text": "Reference 2026/10622 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10622 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10624:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10624",
+      "title": "New referral: Construction and Operation of the Blackstone Battery Energy Storage System (BESS)",
+      "content_text": "Reference 2026/10624 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10624 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10625:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10625",
+      "title": "New referral: Eagle Downs Mine Transport Corridor",
+      "content_text": "Reference 2026/10625 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2026/10625 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10626:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10626",
+      "title": "New referral: Wilpinjong Continuation Project",
+      "content_text": "Reference 2026/10626 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10626 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10627:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10627",
+      "title": "New referral: Aquaculture research in the Blue Economy Zone: stocking salmon and cultivating seaweed",
+      "content_text": "Reference 2026/10627 - Jurisdiction: CM - Category: Aquaculture - Type: Referral (S68) - Status: Under Assessment",
+      "content_html": "<p>Reference 2026/10627 - Jurisdiction: CM - Category: Aquaculture - Type: Referral (S68) - Status: Under Assessment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "CM",
+        "Aquaculture"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10628:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10628",
+      "title": "New referral: Gungahlin Homestead Estate",
+      "content_text": "Reference 2026/10628 - Jurisdiction: ACT - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10628 - Jurisdiction: ACT - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "ACT",
+        "Commercial Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10629:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10629",
+      "title": "New referral: Lloyd Creek Rural Village – Stage 1",
+      "content_text": "Reference 2026/10629 - Jurisdiction: NT - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10629 - Jurisdiction: NT - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NT",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10631:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10631",
+      "title": "New referral: Narrogin East Renewable Energy Project",
+      "content_text": "Reference 2026/10631 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10631 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10632:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10632",
+      "title": "New referral: Kangaroo Valley Battery Energy Storage System",
+      "content_text": "Reference 2026/10632 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10632 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10633:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10633",
+      "title": "New referral: Lot 2 Yanchep Beach Road Residential Development",
+      "content_text": "Reference 2026/10633 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10633 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10634:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10634",
+      "title": "New referral: Casuarina South Precinct Residential Project, Lot 2001 Mortimer Road",
+      "content_text": "Reference 2026/10634 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10634 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10635:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10635",
+      "title": "New referral: Origin Energy Eraring BESS Expansion",
+      "content_text": "Reference 2026/10635 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10635 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10636:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10636",
+      "title": "New referral: Casuarina South Precinct Residential Development - Lot 109 Lugg Place",
+      "content_text": "Reference 2026/10636 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10636 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10637:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10637",
+      "title": "New referral: Adelaide Circuit Redevelopment (ACR) Project",
+      "content_text": "Reference 2026/10637 - Jurisdiction: SA - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10637 - Jurisdiction: SA - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "SA",
+        "Tourism and Recreation"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10638:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10638",
+      "title": "New referral: Residential development - Halden Road",
+      "content_text": "Reference 2026/10638 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10638 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10639:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10639",
+      "title": "New referral: Casuarina South Precinct Residential Development - Lot 1002 Mortimer Road",
+      "content_text": "Reference 2026/10639 - Jurisdiction: WA - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10639 - Jurisdiction: WA - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Commercial Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10640:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10640",
+      "title": "New referral: North Pine Dam Improvement Project – Saddle Dams and Earthworks Package",
+      "content_text": "Reference 2026/10640 - Jurisdiction: QLD - Category: Water Management and Use - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10640 - Jurisdiction: QLD - Category: Water Management and Use - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Water Management and Use"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10641:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10641",
+      "title": "New referral: Academy of Mary Immaculate, Fitzroy",
+      "content_text": "Reference 2026/10641 - Jurisdiction: VIC - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10641 - Jurisdiction: VIC - Category: Commercial Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Commercial Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10642:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10642",
+      "title": "New referral: Development and operation of a hard rock quarry",
+      "content_text": "Reference 2026/10642 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2026/10642 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10643:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10643",
+      "title": "New referral: Macorna Wind Farm",
+      "content_text": "Reference 2026/10643 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10643 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10646:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10646",
+      "title": "New referral: Roma Phase 8B Stage 2 Development",
+      "content_text": "Reference 2026/10646 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2026/10646 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Energy Generation and Supply (non-renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10648:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10648",
+      "title": "New referral: Smithfield Mountain Bike Park Expansion Project",
+      "content_text": "Reference 2026/10648 - Jurisdiction: QLD - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10648 - Jurisdiction: QLD - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Tourism and Recreation"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10650:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10650",
+      "title": "New referral: Pacific Waters Residential Development, Greensill Road, Dundowran Beach",
+      "content_text": "Reference 2026/10650 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2026/10650 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10651:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10651",
+      "title": "New referral: Abermain Battery Project",
+      "content_text": "Reference 2026/10651 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10651 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10653:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10653",
+      "title": "New referral: George Alexander Way Upgrade",
+      "content_text": "Reference 2026/10653 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10653 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Transport - Land"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10654:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10654",
+      "title": "New referral: Meridien - Renewable Energy Hub and Data Centre",
+      "content_text": "Reference 2026/10654 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10654 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10655:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10655",
+      "title": "New referral: In-situ cement additive trial",
+      "content_text": "Reference 2026/10655 - Jurisdiction: VIC - Category: Science and Research - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10655 - Jurisdiction: VIC - Category: Science and Research - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
         "Science and Research"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10162:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10162",
-      "title": "New referral: Goldfields and Agricultural Region Water Supply Scheme (GAWS) Main Conduit Replacement - Yerbillion Project",
-      "content_text": "Reference 2025/10162 - Jurisdiction: WA - Category: Water Management and Use - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10162 - Jurisdiction: WA - Category: Water Management and Use - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10656:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10656",
+      "title": "New referral: Montrose Quarry Extension",
+      "content_text": "Reference 2026/10656 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10656 - Jurisdiction: VIC - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
-        "WA",
-        "Water Management and Use"
+        "VIC",
+        "Mining"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10163:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10163",
-      "title": "New referral: Turner River Solar Hub",
-      "content_text": "Reference 2025/10163 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Approval Decision made",
-      "content_html": "<p>Reference 2025/10163 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Approval Decision made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10164:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10164",
-      "title": "New referral: Nonowie Wind Farm",
-      "content_text": "Reference 2025/10164 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10164 - Jurisdiction: SA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10657:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10657",
+      "title": "New referral: Honeymoon Mine Extension",
+      "content_text": "Reference 2026/10657 - Jurisdiction: SA - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10657 - Jurisdiction: SA - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "SA",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10658:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10658",
+      "title": "New referral: Darnum Battery Energy Storage System",
+      "content_text": "Reference 2026/10658 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10658 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
         "Energy Generation and Supply (renewable)"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10165:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10165",
-      "title": "New referral: Geraldton Port Maximisation Project (PMaxP)",
-      "content_text": "Reference 2025/10165 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10165 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Transport - Water"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10166:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10166",
-      "title": "New referral: Burdekin BESS and Transmission Line",
-      "content_text": "Reference 2025/10166 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10166 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10659:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10659",
+      "title": "New referral: Sunrise Bauxite Project",
+      "content_text": "Reference 2026/10659 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10659 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "QLD",
-        "Energy Generation and Supply (non-renewable)"
+        "Mining"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10167:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10167",
-      "title": "New referral: Merinda MARA TEST April 2025",
-      "content_text": "Reference 2025/10167 - Jurisdiction: NSW - Category: Fishing - Type: Referral (S68) - Status: Cancelled",
-      "content_html": "<p>Reference 2025/10167 - Jurisdiction: NSW - Category: Fishing - Type: Referral (S68) - Status: Cancelled</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10660:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10660",
+      "title": "New referral: Balala Wind Farm",
+      "content_text": "Reference 2026/10660 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Assessment Approach Decision",
+      "content_html": "<p>Reference 2026/10660 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting Assessment Approach Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "NSW",
-        "Fishing"
+        "Energy Generation and Supply (renewable)"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10171:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10171",
-      "title": "New referral: CBH Kellerberrin Rail Out loading Project",
-      "content_text": "Reference 2025/10171 - Jurisdiction: WA - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Approval Decision made",
-      "content_html": "<p>Reference 2025/10171 - Jurisdiction: WA - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Approval Decision made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10663:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10663",
+      "title": "New referral: Suncoast Beach Drive and South Coolum Road Extensions",
+      "content_text": "Reference 2026/10663 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Assessment Commenced",
+      "content_html": "<p>Reference 2026/10663 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Assessment Commenced</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
-        "WA",
-        "Agriculture and Forestry"
+        "QLD",
+        "Transport - Land"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10172:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10172",
-      "title": "New referral: Hammond Road Residential Development",
-      "content_text": "Reference 2025/10172 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10172 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10664:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10664",
+      "title": "New referral: Davis Road Recycling and Waste Management Facility Landfill Capping",
+      "content_text": "Reference 2026/10664 - Jurisdiction: WA - Category: Waste Management (non-sewerage) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10664 - Jurisdiction: WA - Category: Waste Management (non-sewerage) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "WA",
+        "Waste Management (non-sewerage)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10665:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10665",
+      "title": "New referral: Metropolitan Continuation Project",
+      "content_text": "Reference 2026/10665 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Awaiting additional information",
+      "content_html": "<p>Reference 2026/10665 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Awaiting additional information</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "NSW",
+        "Mining"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10667:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10667",
+      "title": "New referral: Western Downs Digital Park",
+      "content_text": "Reference 2026/10667 - Jurisdiction: QLD - Category: Telecommunications - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10667 - Jurisdiction: QLD - Category: Telecommunications - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Telecommunications"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10668:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10668",
+      "title": "New referral: Proposed commercial construction of a data centre",
+      "content_text": "Reference 2026/10668 - Jurisdiction: VIC - Category: Commercial Development - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10668 - Jurisdiction: VIC - Category: Commercial Development - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Commercial Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10670:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10670",
+      "title": "New referral: Construction of a mixed use retail and residential development.",
+      "content_text": "Reference 2026/10670 - Jurisdiction: VIC - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10670 - Jurisdiction: VIC - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
         "Residential Development"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10173:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10173",
-      "title": "New referral: Andersons Clay Mine Extension",
-      "content_text": "Reference 2025/10173 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10173 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10174:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10174",
-      "title": "New referral: Browns Range Heavy Rare Earths Project - Heavy Rare Earth Bagging Facility and Concentrate Storage Area",
-      "content_text": "Reference 2025/10174 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10174 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10176:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10176",
-      "title": "New referral: Hunter Valley Operations (HVO) South Open Cut Coal Continuation Project",
-      "content_text": "Reference 2025/10176 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2025/10176 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10177:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10177",
-      "title": "New referral: Hunter Valley Operations (HVO) North Open Cut Coal Continuation Project.",
-      "content_text": "Reference 2025/10177 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2025/10177 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10178:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10178",
-      "title": "New referral: Decommissioning Campaign #1 - Onshore Reception Centre early works",
-      "content_text": "Reference 2025/10178 - Jurisdiction: VIC - Category: Exploration (mineral, oil and gas - non-marine) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10178 - Jurisdiction: VIC - Category: Exploration (mineral, oil and gas - non-marine) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "VIC",
-        "Exploration (mineral, oil and gas - non-marine)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10179:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10179",
-      "title": "New referral: Yanco Delta Wind Farm",
-      "content_text": "Reference 2025/10179 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10179 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10180:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10180",
-      "title": "New referral: Tantabiddi Boating Facility",
-      "content_text": "Reference 2025/10180 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10180 - Jurisdiction: WA - Category: Transport - Water - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Transport - Water"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10181:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10181",
-      "title": "New referral: Corvus Metallurgical Coal Project",
-      "content_text": "Reference 2025/10181 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2025/10181 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10671:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10671",
+      "title": "New referral: 101 Jackson Court Residential Development Project",
+      "content_text": "Reference 2026/10671 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10671 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "QLD",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10182:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10182",
-      "title": "New referral: Westside Northern Tenements (Mungis) – Coal Seam Gas on Petroleum Leases 1048 and 1049",
-      "content_text": "Reference 2025/10182 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Guidelines Issued",
-      "content_html": "<p>Reference 2025/10182 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Guidelines Issued</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10183:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10183",
-      "title": "New referral: Isaac Downs Extension Project - near Moranbah, Queensland",
-      "content_text": "Reference 2025/10183 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2025/10183 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10185:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10185",
-      "title": "New referral: Burtundy Station Dryland Cropping Expansion",
-      "content_text": "Reference 2025/10185 - Jurisdiction: NSW - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Approval Decision made",
-      "content_html": "<p>Reference 2025/10185 - Jurisdiction: NSW - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Approval Decision made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Agriculture and Forestry"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10186:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10186",
-      "title": "New referral: McArdles Gap Wetland Watering Infrastructure",
-      "content_text": "Reference 2025/10186 - Jurisdiction: VIC - Category: Natural Resources Management - Type: Referral (S68) - Status: Project Withdrawn",
-      "content_html": "<p>Reference 2025/10186 - Jurisdiction: VIC - Category: Natural Resources Management - Type: Referral (S68) - Status: Project Withdrawn</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "VIC",
-        "Natural Resources Management"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10187:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10187",
-      "title": "New referral: Dianne Copper Mine Recommencement Project",
-      "content_text": "Reference 2025/10187 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10187 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10188:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10188",
-      "title": "New referral: Lord Howe Island Critical Infrastructure Project",
-      "content_text": "Reference 2025/10188 - Jurisdiction: NSW - Category: Transport - Water - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10188 - Jurisdiction: NSW - Category: Transport - Water - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Transport - Water"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10189:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10189",
-      "title": "New referral: Hookey Creek Solar Farm and Battery Energy Storage System (BESS)",
-      "content_text": "Reference 2025/10189 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10189 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10190:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10190",
-      "title": "New referral: Eastern Hub Firming Battery Project",
-      "content_text": "Reference 2025/10190 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10190 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10191:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10191",
-      "title": "New referral: Broome Future Energy System",
-      "content_text": "Reference 2025/10191 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10191 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10194:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10194",
-      "title": "New referral: East Pilbara Generation Hub",
-      "content_text": "Reference 2025/10194 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10194 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10195:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10195",
-      "title": "New referral: Yanco Delta Wind Farm - Dinawan Transmission Line",
-      "content_text": "Reference 2025/10195 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2025/10195 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10199:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10199",
-      "title": "New referral: Stage 14F residential development, Dalyellup, WA",
-      "content_text": "Reference 2025/10199 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10199 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
         "Residential Development"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10200:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10200",
-      "title": "New referral: Talbingo Battery",
-      "content_text": "Reference 2025/10200 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision",
-      "content_html": "<p>Reference 2025/10200 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10672:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10672",
+      "title": "New referral: Yarrabee Coal Mine Project",
+      "content_text": "Reference 2026/10672 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10672 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
-        "NSW",
-        "Energy Generation and Supply (non-renewable)"
+        "QLD",
+        "Mining"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10202:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10202",
-      "title": "New referral: Osborne Utilities Relocation",
-      "content_text": "Reference 2025/10202 - Jurisdiction: SA - Category: Commonwealth Development - Type: Referral (S68) - Status: Project Withdrawn",
-      "content_html": "<p>Reference 2025/10202 - Jurisdiction: SA - Category: Commonwealth Development - Type: Referral (S68) - Status: Project Withdrawn</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10673:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10673",
+      "title": "New referral: Gold Coast Oceanway Project",
+      "content_text": "Reference 2026/10673 - Jurisdiction: QLD - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10673 - Jurisdiction: QLD - Category: Tourism and Recreation - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Tourism and Recreation"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10674:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10674",
+      "title": "New referral: South East Leopold Growth Area – water infrastructure",
+      "content_text": "Reference 2026/10674 - Jurisdiction: VIC - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10674 - Jurisdiction: VIC - Category: Residential Development - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10675:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10675",
+      "title": "New referral: Joel Joel Battery Energy Storage System Project",
+      "content_text": "Reference 2026/10675 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10675 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "VIC",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10680:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10680",
+      "title": "New referral: Residential Development Project",
+      "content_text": "Reference 2026/10680 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10680 - Jurisdiction: QLD - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Residential Development"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10682:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10682",
+      "title": "New referral: Mara Team Testing - Hotfix 51.4",
+      "content_text": "Reference 2026/10682 - Jurisdiction: SA - Category: Commercial Development - Type: Referral (S68) - Status: Cancelled",
+      "content_html": "<p>Reference 2026/10682 - Jurisdiction: SA - Category: Commercial Development - Type: Referral (S68) - Status: Cancelled</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "SA",
-        "Commonwealth Development"
+        "Commercial Development"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10203:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10203",
-      "title": "New referral: Wolgan Road Reconstruction Project",
-      "content_text": "Reference 2025/10203 - Jurisdiction: NSW - Category: Transport - Land - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10203 - Jurisdiction: NSW - Category: Transport - Land - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10683:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10683",
+      "title": "New referral: Foxleigh Coal Mine – Roper Creek Extension Project",
+      "content_text": "Reference 2026/10683 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10683 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
-        "NSW",
-        "Transport - Land"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10204:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10204",
-      "title": "New referral: Williams Park Estate - Housing Subdivision, Thurgoona NSW",
-      "content_text": "Reference 2025/10204 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Approval Decision made",
-      "content_html": "<p>Reference 2025/10204 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Approval Decision made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Residential Development"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10205:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10205",
-      "title": "New referral: Greenbushes Lithium Mine Additional Waste Rock Landforms and Salt Water Gully Dam",
-      "content_text": "Reference 2025/10205 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10205 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
+        "QLD",
         "Mining"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10206:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10206",
-      "title": "New referral: Concrete Batch Plant and Trial Embankment Area for the Paradise Dam Improvement Project",
-      "content_text": "Reference 2025/10206 - Jurisdiction: QLD - Category: Water Management and Use - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10206 - Jurisdiction: QLD - Category: Water Management and Use - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10684:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10684",
+      "title": "New referral: Tasman Ring Network Marine Route Survey for Submarine Telecommunication Cable",
+      "content_text": "Reference 2026/10684 - Jurisdiction: CM - Category: Telecommunications - Type: Referral (S68) - Status: Awaiting additional information",
+      "content_html": "<p>Reference 2026/10684 - Jurisdiction: CM - Category: Telecommunications - Type: Referral (S68) - Status: Awaiting additional information</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
-        "QLD",
-        "Water Management and Use"
+        "CM",
+        "Telecommunications"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10207:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10207",
-      "title": "New referral: Phase One - Prime Dunsborough",
-      "content_text": "Reference 2025/10207 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10207 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Residential Development"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10208:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10208",
-      "title": "New referral: Winu Copper and Gold Mine (Winu Project)",
-      "content_text": "Reference 2025/10208 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10208 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10209:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10209",
-      "title": "New referral: Forbes Solar Farm",
-      "content_text": "Reference 2025/10209 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10209 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10210:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10210",
-      "title": "New referral: Lansdown Eco-Industrial Precinct (LEIP) Old Flinders Highway Intersection Upgrade",
-      "content_text": "Reference 2025/10210 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10210 - Jurisdiction: QLD - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Transport - Land"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10211:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10211",
-      "title": "New referral: Sunny Corner Wind Farm",
-      "content_text": "Reference 2025/10211 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10211 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10212:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10212",
-      "title": "New referral: Garoo Solar Farm and BESS",
-      "content_text": "Reference 2025/10212 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10212 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10213:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10213",
-      "title": "New referral: Upper Yarra Debris Flow Nets",
-      "content_text": "Reference 2025/10213 - Jurisdiction: VIC - Category: Water Management and Use - Type: Referral (S68) - Status: Awaiting additional information",
-      "content_html": "<p>Reference 2025/10213 - Jurisdiction: VIC - Category: Water Management and Use - Type: Referral (S68) - Status: Awaiting additional information</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "VIC",
-        "Water Management and Use"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10214:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10214",
-      "title": "New referral: Airservices PFAS Remediation at Canberra Airport, in accordance with the Environmental Remedial Order (ERO) - Fire Training Ground and Main Fire Station at Canberra Airport.",
-      "content_text": "Reference 2025/10214 - Category: Transport - Air and Space - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10214 - Category: Transport - Air and Space - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "Transport - Air and Space"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10215:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10215",
-      "title": "New referral: Derby Future Energy System",
-      "content_text": "Reference 2025/10215 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2025/10215 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10216:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10216",
-      "title": "New referral: Cairns Marine Precinct Common User Facility",
-      "content_text": "Reference 2025/10216 - Jurisdiction: QLD - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10216 - Jurisdiction: QLD - Category: Transport - Water - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Transport - Water"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10217:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10217",
-      "title": "New referral: Caddadup 25ML Water Storage Tank Project",
-      "content_text": "Reference 2025/10217 - Jurisdiction: WA - Category: Water Management and Use - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10217 - Jurisdiction: WA - Category: Water Management and Use - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Water Management and Use"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10218:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10218",
-      "title": "New referral: Approved Industrial Subdivision",
-      "content_text": "Reference 2025/10218 - Jurisdiction: NSW - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10218 - Jurisdiction: NSW - Category: Transport - Land - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Transport - Land"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10220:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10220",
-      "title": "New referral: Mangoplah BESS",
-      "content_text": "Reference 2025/10220 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10220 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10221:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10221",
-      "title": "New referral: Kiar Battery Energy Storage System (BESS)",
-      "content_text": "Reference 2025/10221 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10221 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10222:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10222",
-      "title": "New referral: Baru-Marnda Renewable Energy Project",
-      "content_text": "Reference 2025/10222 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting additional information",
-      "content_html": "<p>Reference 2025/10222 - Jurisdiction: WA - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Awaiting additional information</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10223:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10223",
-      "title": "New referral: Clearing of native vegetation for development of Ravenswood Cemetery, Wallacia (SSD-50748212)",
-      "content_text": "Reference 2025/10223 - Jurisdiction: NSW - Category: Private - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10223 - Jurisdiction: NSW - Category: Private - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "NSW",
-        "Private"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10224:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10224",
-      "title": "New referral: 2025 Victorian Renewable Energy Terminal",
-      "content_text": "Reference 2025/10224 - Jurisdiction: VIC - Category: Transport - Water - Type: Referral (S68) - Status: Under Assessment",
-      "content_html": "<p>Reference 2025/10224 - Jurisdiction: VIC - Category: Transport - Water - Type: Referral (S68) - Status: Under Assessment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "VIC",
-        "Transport - Water"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10225:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10225",
-      "title": "New referral: Moomba to Wilton Pipeline – MW733 Compressor Station (Modification 8)",
-      "content_text": "Reference 2025/10225 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10225 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10685:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10685",
+      "title": "New referral: Kerrawary Power Station - Lateral Gas Pipeline",
+      "content_text": "Reference 2026/10685 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10685 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "NSW",
@@ -1098,211 +956,304 @@
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10226:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10226",
-      "title": "New referral: Tarraleah Redevelopment Project",
-      "content_text": "Reference 2025/10226 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10226 - Jurisdiction: TAS - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10686:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10686",
+      "title": "New referral: Kerrawarry Power Station",
+      "content_text": "Reference 2026/10686 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10686 - Jurisdiction: NSW - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
-        "TAS",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10227:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10227",
-      "title": "New referral: Roma Phase 7-7B-SD20 Development",
-      "content_text": "Reference 2025/10227 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10227 - Jurisdiction: QLD - Category: Energy Generation and Supply (non-renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
+        "NSW",
         "Energy Generation and Supply (non-renewable)"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10228:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10228",
-      "title": "New referral: Atlas Iron Pty Ltd - Sanjiv Ridge Stage 1 Below Groundwater Table Mining",
-      "content_text": "Reference 2025/10228 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Guidelines Issued",
-      "content_html": "<p>Reference 2025/10228 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Guidelines Issued</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
-        "Mining"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10229:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10229",
-      "title": "New referral: Paradise Dam Improvement Project",
-      "content_text": "Reference 2025/10229 - Jurisdiction: QLD - Category: Water Management and Use - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10229 - Jurisdiction: QLD - Category: Water Management and Use - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10690:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10690",
+      "title": "New referral: Foxleigh Mine Extension - Pipeline Pit Expansion",
+      "content_text": "Reference 2026/10690 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10690 - Jurisdiction: QLD - Category: Mining - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "QLD",
-        "Water Management and Use"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10230:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10230",
-      "title": "New referral: Sunshine State Solar Farm and BESS",
-      "content_text": "Reference 2025/10230 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10230 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "QLD",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10231:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10231",
-      "title": "New referral: Nowingi Solar Power Station",
-      "content_text": "Reference 2025/10231 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10231 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "VIC",
-        "Energy Generation and Supply (renewable)"
-      ]
-    },
-    {
-      "id": "urn:epbc-tracker:added:2025/10232:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10232",
-      "title": "New referral: Ausgold - Katanning Gold Project",
-      "content_text": "Reference 2025/10232 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10232 - Jurisdiction: WA - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
-      "tags": [
-        "added",
-        "WA",
         "Mining"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10233:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10233",
-      "title": "New referral: Canyonleigh Battery Energy Storage System",
-      "content_text": "Reference 2025/10233 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10233 - Jurisdiction: NSW - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:change:2024/09768:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09768",
+      "title": "Approval Decision made: 2024/09768",
+      "content_text": "2024/09768 - status: \"Considering Final Decision\" → \"Approval Decision made\"; stage: \"Approval\" → \"Post-Approval\"",
+      "content_html": "<p>2024/09768 - status: &quot;Considering Final Decision&quot; → &quot;Approval Decision made&quot;; stage: &quot;Approval&quot; → &quot;Post-Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
-        "added",
-        "NSW",
-        "Energy Generation and Supply (renewable)"
+        "change"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10234:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10234",
-      "title": "New referral: Residential Development, Mariginiup",
-      "content_text": "Reference 2025/10234 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Considering Variation to Proposal",
-      "content_html": "<p>Reference 2025/10234 - Jurisdiction: WA - Category: Residential Development - Type: Referral (S68) - Status: Considering Variation to Proposal</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:change:2024/09778:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09778",
+      "title": "Approval Decision made: 2024/09778",
+      "content_text": "2024/09778 - status: \"Under Assessment\" → \"Approval Decision made\"; stage: \"Assessment\" → \"Post-Approval\"",
+      "content_html": "<p>2024/09778 - status: &quot;Under Assessment&quot; → &quot;Approval Decision made&quot;; stage: &quot;Assessment&quot; → &quot;Post-Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
-        "added",
-        "WA",
-        "Residential Development"
+        "change"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10235:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10235",
-      "title": "New referral: Sweetwater Agricultural Development Stage 1",
-      "content_text": "Reference 2025/10235 - Jurisdiction: NT - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Draft EIS Guidelines Published - Open for Public Comment",
-      "content_html": "<p>Reference 2025/10235 - Jurisdiction: NT - Category: Agriculture and Forestry - Type: Referral (S68) - Status: Draft EIS Guidelines Published - Open for Public Comment</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:change:2024/09786:2026-11-12:1",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09786",
+      "title": "Awaiting additional information: 2024/09786",
+      "content_text": "2024/09786 - status: \"Guidelines Issued\" → \"Awaiting additional information\"",
+      "content_html": "<p>2024/09786 - status: &quot;Guidelines Issued&quot; → &quot;Awaiting additional information&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
-        "added",
-        "NT",
-        "Agriculture and Forestry"
+        "change"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10236:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10236",
-      "title": "New referral: Continuation of Bengalla Mine Modification 8",
-      "content_text": "Reference 2025/10236 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10236 - Jurisdiction: NSW - Category: Mining - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:change:2024/09800:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09800",
+      "title": "Approval Decision made: 2024/09800",
+      "content_text": "2024/09800 - status: \"Considering Final Decision\" → \"Approval Decision made\"; stage: \"Assessment\" → \"Post-Approval\"",
+      "content_html": "<p>2024/09800 - status: &quot;Considering Final Decision&quot; → &quot;Approval Decision made&quot;; stage: &quot;Assessment&quot; → &quot;Post-Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
-        "added",
-        "NSW",
-        "Mining"
+        "change"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10238:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10238",
-      "title": "New referral: Tall Tree Wind Farm",
-      "content_text": "Reference 2025/10238 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
-      "content_html": "<p>Reference 2025/10238 - Jurisdiction: VIC - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:change:2024/09809:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09809",
+      "title": "Approval Decision made: 2024/09809",
+      "content_text": "2024/09809 - status: \"Considering Final Decision\" → \"Approval Decision made\"; stage: \"Approval\" → \"Post-Approval\"",
+      "content_html": "<p>2024/09809 - status: &quot;Considering Final Decision&quot; → &quot;Approval Decision made&quot;; stage: &quot;Approval&quot; → &quot;Post-Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
-        "added",
-        "VIC",
-        "Energy Generation and Supply (renewable)"
+        "change"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10239:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10239",
-      "title": "New referral: Residential subdivision, Mirador.",
-      "content_text": "Reference 2025/10239 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10239 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:change:2024/09812:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09812",
+      "title": "Project Withdrawn: 2024/09812",
+      "content_text": "2024/09812 - status: \"Assessment Commenced\" → \"Project Withdrawn\"; stage: \"Assessment\" → \"Completed\"",
+      "content_html": "<p>2024/09812 - status: &quot;Assessment Commenced&quot; → &quot;Project Withdrawn&quot;; stage: &quot;Assessment&quot; → &quot;Completed&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
-        "added",
-        "NSW",
-        "Residential Development"
+        "change"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10240:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10240",
-      "title": "New referral: Roper Valley Iron Ore Project",
-      "content_text": "Reference 2025/10240 - Jurisdiction: NT - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10240 - Jurisdiction: NT - Category: Mining - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:change:2024/09825:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09825",
+      "title": "Considering Final Decision: 2024/09825",
+      "content_text": "2024/09825 - status: \"Assessment Commenced\" → \"Considering Final Decision\"; stage: \"Assessment\" → \"Approval\"",
+      "content_html": "<p>2024/09825 - status: &quot;Assessment Commenced&quot; → &quot;Considering Final Decision&quot;; stage: &quot;Assessment&quot; → &quot;Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
-        "added",
-        "NT",
-        "Mining"
+        "change"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10241:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10241",
-      "title": "New referral: Columboola Battery",
-      "content_text": "Reference 2025/10241 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced",
-      "content_html": "<p>Reference 2025/10241 - Jurisdiction: QLD - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Commenced</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:change:2024/09839:2026-11-12:1",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09839",
+      "title": "Under Assessment: 2024/09839",
+      "content_text": "2024/09839 - status: \"Assessment Commenced\" → \"Under Assessment\"",
+      "content_html": "<p>2024/09839 - status: &quot;Assessment Commenced&quot; → &quot;Under Assessment&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
-        "added",
-        "QLD",
-        "Energy Generation and Supply (renewable)"
+        "change"
       ]
     },
     {
-      "id": "urn:epbc-tracker:added:2025/10242:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10242",
-      "title": "New referral: “Elysian” Residential Development Project",
-      "content_text": "Reference 2025/10242 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10242 - Jurisdiction: NSW - Category: Residential Development - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:change:2024/09848:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09848",
+      "title": "Considering Final Decision: 2024/09848",
+      "content_text": "2024/09848 - status: \"Under Assessment\" → \"Considering Final Decision\"; stage: \"Assessment\" → \"Approval\"",
+      "content_html": "<p>2024/09848 - status: &quot;Under Assessment&quot; → &quot;Considering Final Decision&quot;; stage: &quot;Assessment&quot; → &quot;Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
-        "added",
-        "NSW",
-        "Residential Development"
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09859:2026-11-12:1",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09859",
+      "title": "Under Assessment: 2024/09859",
+      "content_text": "2024/09859 - status: \"Assessment Commenced\" → \"Under Assessment\"",
+      "content_html": "<p>2024/09859 - status: &quot;Assessment Commenced&quot; → &quot;Under Assessment&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09874:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09874",
+      "title": "Approval Decision made: 2024/09874",
+      "content_text": "2024/09874 - status: \"Final State/Territory Report Received\" → \"Approval Decision made\"; stage: \"Assessment\" → \"Post-Approval\"",
+      "content_html": "<p>2024/09874 - status: &quot;Final State/Territory Report Received&quot; → &quot;Approval Decision made&quot;; stage: &quot;Assessment&quot; → &quot;Post-Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09887:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09887",
+      "title": "Approval Decision made: 2024/09887",
+      "content_text": "2024/09887 - status: \"Assessment Approach Determined\" → \"Approval Decision made\"; stage: \"Assessment\" → \"Post-Approval\"",
+      "content_html": "<p>2024/09887 - status: &quot;Assessment Approach Determined&quot; → &quot;Approval Decision made&quot;; stage: &quot;Assessment&quot; → &quot;Post-Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09907:2026-11-12:1",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09907",
+      "title": "Approval Decision made: 2024/09907",
+      "content_text": "2024/09907 - status: \"Condition variation being considered\" → \"Approval Decision made\"",
+      "content_html": "<p>2024/09907 - status: &quot;Condition variation being considered&quot; → &quot;Approval Decision made&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09924:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09924",
+      "title": "Considering Final Decision: 2024/09924",
+      "content_text": "2024/09924 - status: \"Under Assessment\" → \"Considering Final Decision\"; stage: \"Assessment\" → \"Approval\"",
+      "content_html": "<p>2024/09924 - status: &quot;Under Assessment&quot; → &quot;Considering Final Decision&quot;; stage: &quot;Assessment&quot; → &quot;Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09936:2026-11-12:1",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09936",
+      "title": "Under Assessment: 2024/09936",
+      "content_text": "2024/09936 - status: \"Assessment Approach Determined\" → \"Under Assessment\"",
+      "content_html": "<p>2024/09936 - status: &quot;Assessment Approach Determined&quot; → &quot;Under Assessment&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09948:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09948",
+      "title": "Approval Decision made: 2024/09948",
+      "content_text": "2024/09948 - status: \"Awaiting additional information\" → \"Approval Decision made\"; stage: \"Approval\" → \"Post-Approval\"",
+      "content_html": "<p>2024/09948 - status: &quot;Awaiting additional information&quot; → &quot;Approval Decision made&quot;; stage: &quot;Approval&quot; → &quot;Post-Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09955:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09955",
+      "title": "Approval Decision made: 2024/09955",
+      "content_text": "2024/09955 - status: \"Under Assessment\" → \"Approval Decision made\"; stage: \"Assessment\" → \"Post-Approval\"",
+      "content_html": "<p>2024/09955 - status: &quot;Under Assessment&quot; → &quot;Approval Decision made&quot;; stage: &quot;Assessment&quot; → &quot;Post-Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09956:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09956",
+      "title": "Approval Decision made: 2024/09956",
+      "content_text": "2024/09956 - status: \"Considering Final Decision\" → \"Approval Decision made\"; stage: \"Assessment\" → \"Post-Approval\"",
+      "content_html": "<p>2024/09956 - status: &quot;Considering Final Decision&quot; → &quot;Approval Decision made&quot;; stage: &quot;Assessment&quot; → &quot;Post-Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09961:2026-11-12:1",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09961",
+      "title": "Under Assessment: 2024/09961",
+      "content_text": "2024/09961 - status: \"Assessment Commenced\" → \"Under Assessment\"",
+      "content_html": "<p>2024/09961 - status: &quot;Assessment Commenced&quot; → &quot;Under Assessment&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09976:2026-11-12:1",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09976",
+      "title": "Under Assessment: 2024/09976",
+      "content_text": "2024/09976 - status: \"Assessment Commenced\" → \"Under Assessment\"",
+      "content_html": "<p>2024/09976 - status: &quot;Assessment Commenced&quot; → &quot;Under Assessment&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09978:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09978",
+      "title": "Approval Decision made: 2024/09978",
+      "content_text": "2024/09978 - status: \"Considering Final Decision\" → \"Approval Decision made\"; stage: \"Assessment\" → \"Post-Approval\"",
+      "content_html": "<p>2024/09978 - status: &quot;Considering Final Decision&quot; → &quot;Approval Decision made&quot;; stage: &quot;Assessment&quot; → &quot;Post-Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/09985:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-09985",
+      "title": "Referral Decision Made: 2024/09985",
+      "content_text": "2024/09985 - status: \"Reconsideration Requested\" → \"Referral Decision Made\"; stage: \"Assessment\" → \"Referral Decision\"",
+      "content_html": "<p>2024/09985 - status: &quot;Reconsideration Requested&quot; → &quot;Referral Decision Made&quot;; stage: &quot;Assessment&quot; → &quot;Referral Decision&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/10002:2026-11-12:1",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-10002",
+      "title": "Draft documentation published - Open for Public Comment: 2024/10002",
+      "content_text": "2024/10002 - status: \"Under Assessment\" → \"Draft documentation published - Open for Public Comment\"",
+      "content_html": "<p>2024/10002 - status: &quot;Under Assessment&quot; → &quot;Draft documentation published - Open for Public Comment&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/10050:2026-11-12:1",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-10050",
+      "title": "Considering Variation to Proposal: 2024/10050",
+      "content_text": "2024/10050 - status: \"Assessment Approach Determined\" → \"Considering Variation to Proposal\"",
+      "content_html": "<p>2024/10050 - status: &quot;Assessment Approach Determined&quot; → &quot;Considering Variation to Proposal&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:change:2024/10068:2026-11-12:2",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2024-10068",
+      "title": "Considering Final Decision: 2024/10068",
+      "content_text": "2024/10068 - status: \"Under Assessment\" → \"Considering Final Decision\"; stage: \"Assessment\" → \"Approval\"",
+      "content_html": "<p>2024/10068 - status: &quot;Under Assessment&quot; → &quot;Considering Final Decision&quot;; stage: &quot;Assessment&quot; → &quot;Approval&quot;</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "change"
       ]
     }
   ]

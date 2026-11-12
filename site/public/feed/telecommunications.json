@@ -5,5 +5,45 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/telecommunications.json",
   "description": "EPBC Act referral changes in the Telecommunications category.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2026/10605:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10605",
+      "title": "New referral: Bundey Data Centre Campus",
+      "content_text": "Reference 2026/10605 - Jurisdiction: SA - Category: Telecommunications - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10605 - Jurisdiction: SA - Category: Telecommunications - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "SA",
+        "Telecommunications"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10667:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10667",
+      "title": "New referral: Western Downs Digital Park",
+      "content_text": "Reference 2026/10667 - Jurisdiction: QLD - Category: Telecommunications - Type: Referral (S68) - Status: Awaiting Delegate Decision",
+      "content_html": "<p>Reference 2026/10667 - Jurisdiction: QLD - Category: Telecommunications - Type: Referral (S68) - Status: Awaiting Delegate Decision</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "QLD",
+        "Telecommunications"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10684:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10684",
+      "title": "New referral: Tasman Ring Network Marine Route Survey for Submarine Telecommunication Cable",
+      "content_text": "Reference 2026/10684 - Jurisdiction: CM - Category: Telecommunications - Type: Referral (S68) - Status: Awaiting additional information",
+      "content_html": "<p>Reference 2026/10684 - Jurisdiction: CM - Category: Telecommunications - Type: Referral (S68) - Status: Awaiting additional information</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "CM",
+        "Telecommunications"
+      ]
+    }
+  ]
 }

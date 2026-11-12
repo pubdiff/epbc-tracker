@@ -7,16 +7,68 @@
   "language": "en-AU",
   "items": [
     {
-      "id": "urn:epbc-tracker:added:2025/10161:2026-08-19",
-      "url": "https://pubdiff.github.io/epbc-tracker/r/2025-10161",
-      "title": "New referral: Marine survey of the Bunbury continental shelf.",
-      "content_text": "Reference 2025/10161 - Jurisdiction: CM - Category: Science and Research - Type: Referral (S68) - Status: Referral Decision Made",
-      "content_html": "<p>Reference 2025/10161 - Jurisdiction: CM - Category: Science and Research - Type: Referral (S68) - Status: Referral Decision Made</p>",
-      "date_published": "2026-08-19T00:00:00Z",
+      "id": "urn:epbc-tracker:added:2026/10573:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10573",
+      "title": "New referral: Star of the South Offshore Wind Farm Geophysical and Geotechnical Investigations",
+      "content_text": "Reference 2026/10573 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment",
+      "content_html": "<p>Reference 2026/10573 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision - Open for Public Comment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
       "tags": [
         "added",
         "CM",
-        "Science and Research"
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10601:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10601",
+      "title": "New referral: High Sea Wind Commonwealth Component",
+      "content_text": "Reference 2026/10601 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined",
+      "content_html": "<p>Reference 2026/10601 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Assessment Approach Determined</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "CM",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10613:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10613",
+      "title": "New referral: Bunbury Offshore Wind Project",
+      "content_text": "Reference 2026/10613 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10613 - Jurisdiction: CM - Category: Energy Generation and Supply (renewable) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "CM",
+        "Energy Generation and Supply (renewable)"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10627:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10627",
+      "title": "New referral: Aquaculture research in the Blue Economy Zone: stocking salmon and cultivating seaweed",
+      "content_text": "Reference 2026/10627 - Jurisdiction: CM - Category: Aquaculture - Type: Referral (S68) - Status: Under Assessment",
+      "content_html": "<p>Reference 2026/10627 - Jurisdiction: CM - Category: Aquaculture - Type: Referral (S68) - Status: Under Assessment</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "CM",
+        "Aquaculture"
+      ]
+    },
+    {
+      "id": "urn:epbc-tracker:added:2026/10684:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10684",
+      "title": "New referral: Tasman Ring Network Marine Route Survey for Submarine Telecommunication Cable",
+      "content_text": "Reference 2026/10684 - Jurisdiction: CM - Category: Telecommunications - Type: Referral (S68) - Status: Awaiting additional information",
+      "content_html": "<p>Reference 2026/10684 - Jurisdiction: CM - Category: Telecommunications - Type: Referral (S68) - Status: Awaiting additional information</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "CM",
+        "Telecommunications"
       ]
     }
   ]

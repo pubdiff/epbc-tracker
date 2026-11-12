@@ -5,5 +5,19 @@
   "feed_url": "https://pubdiff.github.io/epbc-tracker/feed/waste-management-non-sewerage.json",
   "description": "EPBC Act referral changes in the Waste Management (non-sewerage) category.",
   "language": "en-AU",
-  "items": []
+  "items": [
+    {
+      "id": "urn:epbc-tracker:added:2026/10664:2026-11-12",
+      "url": "https://pubdiff.github.io/epbc-tracker/r/2026-10664",
+      "title": "New referral: Davis Road Recycling and Waste Management Facility Landfill Capping",
+      "content_text": "Reference 2026/10664 - Jurisdiction: WA - Category: Waste Management (non-sewerage) - Type: Referral (S68) - Status: Referral Decision Made",
+      "content_html": "<p>Reference 2026/10664 - Jurisdiction: WA - Category: Waste Management (non-sewerage) - Type: Referral (S68) - Status: Referral Decision Made</p>",
+      "date_published": "2026-11-12T00:00:00Z",
+      "tags": [
+        "added",
+        "WA",
+        "Waste Management (non-sewerage)"
+      ]
+    }
+  ]
 }
