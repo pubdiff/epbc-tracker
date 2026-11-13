@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T00:46:20.536Z",
+  "generatedAt": "2026-11-13T00:54:41.615Z",
   "source": "epbc-public-portal",
-  "count": 8299,
+  "count": 8306,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -650,7 +650,7 @@
       "location": "253 Stanhope Road, Elderslie and Blind Creek Road, Glendon Brook",
       "projectTitle": "Bluestone Hard Rock & Aggregate Quarry",
       "validDate": "2026-03-02",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Considering Variation to Proposal",
       "projectStatus": null
     },
     "2026/10454": {
@@ -1450,7 +1450,7 @@
       "location": "Atlas-Campaspe Mine, Link Road, Hatfield",
       "projectTitle": "Atlas-Campaspe Mine – Optimised Services Corridor",
       "validDate": "2025-11-24",
-      "statusReason": "Under Assessment",
+      "statusReason": "Considering Final Decision",
       "projectStatus": null
     },
     "2025/10339": {
@@ -1598,7 +1598,7 @@
       "incidentId": "868f4eca-f9b9-f011-bbd3-6045bdc3d06f",
       "proponent": "MAIZEWOOD PTY LTD",
       "location": "Property address is Campbell Street, Aberdeen NSW 2236",
-      "projectTitle": "Upper Hunter Battery Energy Storage System (BESS)",
+      "projectTitle": "Upper Hunter Battery Energy Storage System BESS",
       "validDate": "2025-11-10",
       "statusReason": "Considering Variation to Proposal",
       "projectStatus": null
@@ -3150,7 +3150,7 @@
       "location": "207 Woodhouse Road, Mulgrave Queensland.",
       "projectTitle": "Burdekin BESS and Transmission Line",
       "validDate": "2025-04-17",
-      "statusReason": "Under Assessment",
+      "statusReason": "Direction to Publish Draft Preliminary Documentation Issued",
       "projectStatus": null
     },
     "2025/10160": {
@@ -81760,7 +81760,7 @@
       "location": "Grosvenor Mine, Goonyella Rd, Moranbah, QLD, 4744",
       "projectTitle": "Grosvenor Mine – Additional Drainage & Ventilation Surface Disturbance",
       "validDate": "2026-06-30",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10495": {
@@ -81770,7 +81770,7 @@
       "location": "Moranbah North Mine, Goonyella Rd, Moranbah, QLD, 4744",
       "projectTitle": "Moranbah North Mine Extension – Additional Drainage & Ventilation Surface Disturbance and 100s Longwall Series Extension",
       "validDate": "2026-06-30",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10560": {
@@ -81800,7 +81800,7 @@
       "location": "18667 Gwydir Highway, Walgett NSW 2832",
       "projectTitle": "Tara and Dundulla Dryland Cropping Expansion",
       "validDate": "2026-06-29",
-      "statusReason": "Considering Final Decision",
+      "statusReason": "Approval Decision made",
       "projectStatus": null
     },
     "2026/10514": {
@@ -82320,7 +82320,7 @@
       "location": "Burke Developmental Road, Cloncurry, Queensland, 4824.",
       "projectTitle": "Eva Copper Mine Project (Stage 2)",
       "validDate": "2026-08-20",
-      "statusReason": "Direction to Publish Draft Preliminary Documentation Issued",
+      "statusReason": "Draft documentation published - Open for Public Comment",
       "projectStatus": null
     },
     "2026/10607": {
@@ -82380,7 +82380,7 @@
       "location": "Bass Strait Blue Economy Zone, approximately 12.5km north of Emu Bay, Burnie - at 40.9382°S, 145.9348°E",
       "projectTitle": "Aquaculture research in the Blue Economy Zone: stocking salmon and cultivating seaweed",
       "validDate": "2026-09-10",
-      "statusReason": "Under Assessment",
+      "statusReason": "Considering Final Decision",
       "projectStatus": null
     },
     "2026/10626": {
@@ -82580,7 +82580,7 @@
       "location": "Monaghan Street, Lloyd Creek, NT 0822",
       "projectTitle": "Lloyd Creek Rural Village – Stage 1",
       "validDate": "2026-10-01",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10648": {
@@ -82650,7 +82650,7 @@
       "location": "Vores Road, Whiteside, Queensland 4503",
       "projectTitle": "North Pine Dam Improvement Project – Saddle Dams and Earthworks Package",
       "validDate": "2026-09-25",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10671": {
@@ -82670,7 +82670,7 @@
       "location": "Helendoite Road, Tatyoon, Victoria 3378",
       "projectTitle": "Ballyrogan Wind Farm and Transmission Line",
       "validDate": "2026-10-08",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10636": {
@@ -82680,7 +82680,7 @@
       "location": "Lot 109 Lugg Place, Casuarina",
       "projectTitle": "Casuarina South Precinct Residential Development - Lot 109 Lugg Place",
       "validDate": "2026-10-07",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10670": {
@@ -82710,7 +82710,7 @@
       "location": "351 (Lot 2) Yanchep Beach Road, Yanchep",
       "projectTitle": "Lot 2 Yanchep Beach Road Residential Development",
       "validDate": "2026-10-06",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10655": {
@@ -82760,7 +82760,7 @@
       "location": "161-173 Holdsworth Road, Tivoli QLD 4305",
       "projectTitle": "Abermain Battery Project",
       "validDate": "2026-10-15",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10674": {
@@ -82770,7 +82770,7 @@
       "location": "Mollers Lane Leopold Victoria",
       "projectTitle": "South East Leopold Growth Area – water infrastructure",
       "validDate": "2026-10-14",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10658": {
@@ -82890,7 +82890,7 @@
       "location": "Yarrabee Coal Mine, Boonal Haul Road, Bluff, QLD, 4702",
       "projectTitle": "Yarrabee Coal Mine Project",
       "validDate": "2026-10-29",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10641": {
@@ -82900,7 +82900,7 @@
       "location": "88 Nicholson Street, Fitzroy, Victoria 3065",
       "projectTitle": "Academy of Mary Immaculate - Redevelopment",
       "validDate": "2026-10-28",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2025/10184": {
@@ -82910,7 +82910,7 @@
       "location": "5 Firth Place, Point Cook, Victoria",
       "projectTitle": "Point Cook Industrial and Commercial subdivision",
       "validDate": "2026-10-27",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10680": {
@@ -82920,7 +82920,7 @@
       "location": "Lot 1 on SP222448 Vaughan Road and Hamilton Road, Elimbah, Queensland 4516",
       "projectTitle": "Elimbah Residential Development Project",
       "validDate": "2026-10-27",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10609": {
@@ -82930,7 +82930,7 @@
       "location": "3 Suttor Developmental Road, Lot 3 SP185775",
       "projectTitle": "Mount Britton Battery Energy Storage System",
       "validDate": "2026-10-26",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10675": {
@@ -82940,7 +82940,7 @@
       "location": "128 Vances Crossing Road, Joel Joel, VIC, 3384",
       "projectTitle": "Joel Joel Battery Energy Storage System Project",
       "validDate": "2026-10-26",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10673": {
@@ -82950,7 +82950,7 @@
       "location": "Mermaid Esplanade and Los Angeles Esplanade, Mermaid Beach and Jefferson Esplanade, Palm Beach.",
       "projectTitle": "Gold Coast Oceanway Project",
       "validDate": "2026-10-23",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10690": {
@@ -82991,6 +82991,76 @@
       "projectTitle": "Casuarina South Precinct Residential Development - Lot 1002 Mortimer Road",
       "validDate": "2026-10-30",
       "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10707": {
+      "ticketNumber": "2026/10707",
+      "incidentId": "fde6ae0a-90d6-f111-a05b-00224810a775",
+      "proponent": "WEST ARTHUR ENERGY PTY LTD",
+      "location": "Approximately 3 km south of Darkan and 40 km east of Collie within the Shire of West Arthur",
+      "projectTitle": "West Arthur Wind Farm",
+      "validDate": "2026-11-12",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10692": {
+      "ticketNumber": "2026/10692",
+      "incidentId": "5f391f07-6fce-f111-a05a-6045bde68964",
+      "proponent": "CELESTINO MB PROJECTS PTY LIMITED",
+      "location": "David Evans Reserve, within Macintosh Island Park (Lot 571 SP287549), Main Beach Parade, Surfers Paradise QLD.",
+      "projectTitle": "Main Beach Parade Pedestrian Access to Foreshore.",
+      "validDate": "2026-11-11",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10693": {
+      "ticketNumber": "2026/10693",
+      "incidentId": "14f18014-dbd0-f111-a059-00224810a980",
+      "proponent": "Satterley Property Group Pty Ltd",
+      "location": "Lots 96 and 203 Vittoria Road, Henley Brook 6055",
+      "projectTitle": "Starflower Road Residential Development",
+      "validDate": "2026-11-10",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10662": {
+      "ticketNumber": "2026/10662",
+      "incidentId": "d12f148b-a3b5-f111-aaab-6045bde74b83",
+      "proponent": "RIVERLAND SOLAR ENERGY PTY LTD",
+      "location": "278 Nikalapko Road, Stuart, South Australia 5320",
+      "projectTitle": "Riverland BESS",
+      "validDate": "2026-11-10",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10678": {
+      "ticketNumber": "2026/10678",
+      "incidentId": "30434ca8-e7c1-f111-aaaf-70a8a5568e95",
+      "proponent": "ACENERGY PTY LTD",
+      "location": "405-455 Sandy Creek Road, Little River, VIC 3211",
+      "projectTitle": "Subdivision and Battery Storage System, Little River.",
+      "validDate": "2026-11-10",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10669": {
+      "ticketNumber": "2026/10669",
+      "incidentId": "44920a4e-c9bb-f111-aaad-7ced8da23712",
+      "proponent": "Pacific Hydro Australia Developments Pty Ltd",
+      "location": "20 Hattam Street, Golden Square, VIC",
+      "projectTitle": "Bendigo Battery Energy Storage System BESS",
+      "validDate": "2026-11-09",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10677": {
+      "ticketNumber": "2026/10677",
+      "incidentId": "b42751ce-a791-41ad-9cc5-5fdcc0c24431",
+      "proponent": "AUSTRALIA PACIFIC AIRPORTS (MELBOURNE) PTY LIMITED",
+      "location": "Victoria",
+      "projectTitle": "Major Development Plan-Melbourne Airport-Staff Car Park",
+      "validDate": "2026-10-05",
+      "statusReason": "Advice Decision Made",
       "projectStatus": null
     }
   }
