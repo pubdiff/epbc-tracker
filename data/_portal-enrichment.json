@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T00:54:41.615Z",
+  "generatedAt": "2026-11-20T01:43:57.194Z",
   "source": "epbc-public-portal",
-  "count": 8306,
+  "count": 8310,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -60,7 +60,7 @@
       "location": "1058 Wine Country Drive, Lovedale (1/-/DP1302850)",
       "projectTitle": "Lovedale Farm – Master Planned Residential Golf Resort",
       "validDate": "2026-05-25",
-      "statusReason": "Draft documentation published - Open for Public Comment",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2026/10505": {
@@ -1140,7 +1140,7 @@
       "location": "Lot 8 of Plan 47960, at the intersection of Rowes Rd and Dandaragan Rd, Yathroo",
       "projectTitle": "Yathroo Wind Farm",
       "validDate": "2026-01-09",
-      "statusReason": "Considering Variation to Proposal",
+      "statusReason": "Considering Final Decision",
       "projectStatus": null
     },
     "2025/10374": {
@@ -1900,7 +1900,7 @@
       "location": "Ripley Road, Ripley, Queensland, 4306 and Fischer Road, Ripley, Queensland, 4306.",
       "projectTitle": "Ripley Road and Fischer Road Upgrade",
       "validDate": "2025-10-16",
-      "statusReason": "Considering Final Decision",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10277": {
@@ -2300,7 +2300,7 @@
       "location": "WTP: 141 Bushland Road, Riverbend 4280 (Lot 141 on S312748); 412 Bushland Road, Riverbend 4280 (Lot 3 on SP201569); 7 Bushland Road (Lot 47 on SL4065)",
       "projectTitle": "Wyaralong Water Treatment Plant and Associated Infrastructure",
       "validDate": "2025-08-14",
-      "statusReason": "Under Assessment",
+      "statusReason": "Considering Variation to Proposal",
       "projectStatus": null
     },
     "2025/10249": {
@@ -2810,7 +2810,7 @@
       "location": "Project Area A - 563-571 Miles Franklin Drive Talbingo, NSW 2720; Project Area B - intersection of Miles Franklin Drive and Snowy Mountain Highway",
       "projectTitle": "Talbingo Battery",
       "validDate": "2025-05-30",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2025/10137": {
@@ -81490,7 +81490,7 @@
       "location": "Wallareenya Road, Wallareenya, Western Australia, 6721",
       "projectTitle": "Tabba Tabba Lithium-Tantalum Mine Project",
       "validDate": "2026-06-11",
-      "statusReason": "Considering Variation to Proposal",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10530": {
@@ -81760,7 +81760,7 @@
       "location": "Grosvenor Mine, Goonyella Rd, Moranbah, QLD, 4744",
       "projectTitle": "Grosvenor Mine – Additional Drainage & Ventilation Surface Disturbance",
       "validDate": "2026-06-30",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10495": {
@@ -81770,7 +81770,7 @@
       "location": "Moranbah North Mine, Goonyella Rd, Moranbah, QLD, 4744",
       "projectTitle": "Moranbah North Mine Extension – Additional Drainage & Ventilation Surface Disturbance and 100s Longwall Series Extension",
       "validDate": "2026-06-30",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10560": {
@@ -82350,7 +82350,7 @@
       "location": "Ensham Mine, Duck Ponds Road, Comet, QLD 4702, Australia",
       "projectTitle": "Ensham Life of Mine Extension 2",
       "validDate": "2026-09-02",
-      "statusReason": "Awaiting Assessment Approach Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10604": {
@@ -82390,7 +82390,7 @@
       "location": "1434 Ulan-Wollar Road, Wilpinjong NSW 2850",
       "projectTitle": "Wilpinjong Continuation Project",
       "validDate": "2026-09-10",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Awaiting additional information",
       "projectStatus": null
     },
     "2026/10622": {
@@ -82690,7 +82690,7 @@
       "location": "1-9 Gertrude Street, Fitzroy, Victoria",
       "projectTitle": "Construction of a mixed use retail and residential development.",
       "validDate": "2026-10-07",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10667": {
@@ -82750,7 +82750,7 @@
       "location": "165 Williamsons Road, South Morang, Victoria Lot 1 PS822500",
       "projectTitle": "South Morang Data Centre",
       "validDate": "2026-10-15",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10651": {
@@ -82810,7 +82810,7 @@
       "location": "166 (Lot 2946) Halden Road, Bullsbrook, WA",
       "projectTitle": "Residential development - Halden Road",
       "validDate": "2026-10-21",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10684": {
@@ -82850,7 +82850,7 @@
       "location": "256 Losebeys Road, Big Hill, New South Wales",
       "projectTitle": "Kerrawary Power Station",
       "validDate": "2026-10-20",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10656": {
@@ -82860,7 +82860,7 @@
       "location": "56 – 72 Canterbury Road, Montrose, Victoria",
       "projectTitle": "Montrose Quarry Extension",
       "validDate": "2026-10-19",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10685": {
@@ -82870,7 +82870,7 @@
       "location": "256 Losebeys Road, Big Hill, New South Wales",
       "projectTitle": "Kerrawary Power Station - Lateral Gas Pipeline",
       "validDate": "2026-10-19",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10683": {
@@ -82880,7 +82880,7 @@
       "location": "Foxleigh Mine Access Road, Mackenzie River, QLD, 4705.",
       "projectTitle": "Foxleigh Coal Mine – Roper Creek Extension Project",
       "validDate": "2026-10-19",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10672": {
@@ -82890,7 +82890,7 @@
       "location": "Yarrabee Coal Mine, Boonal Haul Road, Bluff, QLD, 4702",
       "projectTitle": "Yarrabee Coal Mine Project",
       "validDate": "2026-10-29",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Awaiting additional information",
       "projectStatus": null
     },
     "2026/10641": {
@@ -82910,7 +82910,7 @@
       "location": "5 Firth Place, Point Cook, Victoria",
       "projectTitle": "Point Cook Industrial and Commercial subdivision",
       "validDate": "2026-10-27",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Awaiting additional information",
       "projectStatus": null
     },
     "2026/10680": {
@@ -82930,7 +82930,7 @@
       "location": "3 Suttor Developmental Road, Lot 3 SP185775",
       "projectTitle": "Mount Britton Battery Energy Storage System",
       "validDate": "2026-10-26",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Assessment Approach Determined",
       "projectStatus": null
     },
     "2026/10675": {
@@ -82960,7 +82960,7 @@
       "location": "Foxleigh Mine Access Road, Mackenzie River, QLD, 4705.",
       "projectTitle": "Foxleigh Mine Extension - Pipeline Pit Expansion",
       "validDate": "2026-11-03",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10653": {
@@ -82970,7 +82970,7 @@
       "location": "Lot 44 on SP295239, Lot 1 on SP295238, Lot 38 on RP187881, Lot 101 on SP312031, Lot 96 on RP187418, Lot 95 on RP1874, George Alexander Way, Coomera",
       "projectTitle": "George Alexander Way Upgrade",
       "validDate": "2026-11-03",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10573": {
@@ -82980,7 +82980,7 @@
       "location": "Offshore of the coast of Gippsland, Victoria, in both Commonwealth and Victorian state waters",
       "projectTitle": "Star of the South Offshore Wind Farm Geophysical and Geotechnical Investigations",
       "validDate": "2026-10-30",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10639": {
@@ -82990,7 +82990,7 @@
       "location": "Lot 1002 Mortimer Road, Casuarina",
       "projectTitle": "Casuarina South Precinct Residential Development - Lot 1002 Mortimer Road",
       "validDate": "2026-10-30",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10707": {
@@ -83061,6 +83061,46 @@
       "projectTitle": "Major Development Plan-Melbourne Airport-Staff Car Park",
       "validDate": "2026-10-05",
       "statusReason": "Advice Decision Made",
+      "projectStatus": null
+    },
+    "2026/10720": {
+      "ticketNumber": "2026/10720",
+      "incidentId": "956ff151-e8db-f111-84e8-6045bde5a88f",
+      "proponent": "Queensland Bulk Water Supply authority",
+      "location": "Vores Road, Whiteside, Queensland 4503",
+      "projectTitle": "North Pine Dam Improvement Project – Concrete Dam, Primary Spillway and Auxiliary Spillway Package",
+      "validDate": "2026-11-20",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10718": {
+      "ticketNumber": "2026/10718",
+      "incidentId": "1b49049f-4fda-f111-84e8-00224810a2d3",
+      "proponent": "Department of Transport and Main Roads",
+      "location": "Bruce Highway, Damper Creek QLD 4816",
+      "projectTitle": "Damper Creek to Nicolson Road, Upgrade Bridges and Wide Centre Line Treatment",
+      "validDate": "2026-11-19",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10679": {
+      "ticketNumber": "2026/10679",
+      "incidentId": "53ee52f1-17c2-f111-aaad-7c1e528a6d22",
+      "proponent": "COLIBAN REGION WATER CORPORATION",
+      "location": "City of Greater Bendigo including Bendigo, Huntly-Goornong, Longlea, Mandurang South, Sedgwick, Marong, Lockwood and Ravenswood.",
+      "projectTitle": "Coliban Rural Water Efficiency Project",
+      "validDate": "2026-11-16",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10700": {
+      "ticketNumber": "2026/10700",
+      "incidentId": "95674a08-00d4-f111-a059-7ced8da11879",
+      "proponent": "EDIFY ENERGY PTY. LTD.",
+      "location": "30 Bellhaven Lane and 500 Bosnjaks Road, Glenarbon, Queensland 4385",
+      "projectTitle": "Glenarbon Solar Power Station",
+      "validDate": "2026-11-16",
+      "statusReason": "Referral Decision - Open for Public Comment",
       "projectStatus": null
     }
   }
