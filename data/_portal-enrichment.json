@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T01:43:57.194Z",
+  "generatedAt": "2026-11-27T02:40:22.656Z",
   "source": "epbc-public-portal",
-  "count": 8310,
+  "count": 8354,
   "records": {
     "2026/10520": {
       "ticketNumber": "2026/10520",
@@ -170,7 +170,7 @@
       "location": "Bribie Island Road, Sandstone Point to Benabrow Avenue, Bongaree within the City of Moreton Bay local government area.",
       "projectTitle": "Bribie Island Bridge Upgrade Project",
       "validDate": "2026-05-07",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Considering Variation to Proposal",
       "projectStatus": null
     },
     "2026/10494": {
@@ -1690,7 +1690,7 @@
       "location": "36–63 Hawkins Road, Stockleigh (Lot 1 RP150150, Lot 901 SP307210, Lot 8 SP307210)",
       "projectTitle": "Hawkins Road Stockleigh Residential Development",
       "validDate": "2025-10-31",
-      "statusReason": "Draft documentation published - Open for Public Comment",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2025/10344": {
@@ -1900,7 +1900,7 @@
       "location": "Ripley Road, Ripley, Queensland, 4306 and Fischer Road, Ripley, Queensland, 4306.",
       "projectTitle": "Ripley Road and Fischer Road Upgrade",
       "validDate": "2025-10-16",
-      "statusReason": "Under Assessment",
+      "statusReason": "Considering Final Decision",
       "projectStatus": null
     },
     "2025/10277": {
@@ -81540,7 +81540,7 @@
       "location": "Neerabup Terminal (Pinjar) to the intersection of Ocean Reef Road and Wanneroo Road, Woodvale",
       "projectTitle": "Wangara to Neerabup Terminal 132 kV Overhead Transmission Line Project",
       "validDate": "2026-06-09",
-      "statusReason": "Under Assessment",
+      "statusReason": "Draft documentation published - Open for Public Comment",
       "projectStatus": null
     },
     "2026/10526": {
@@ -81740,7 +81740,7 @@
       "location": "471 Kororoit Creek Road, Altona",
       "projectTitle": "Project Diamond Industrial and Commercial Development",
       "validDate": "2026-07-02",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10552": {
@@ -81960,7 +81960,7 @@
       "location": "Indian Ocean, Offshore Western Australia",
       "projectTitle": "Browse Carbon Capture and Storage Project",
       "validDate": "2026-07-10",
-      "statusReason": "Under Assessment",
+      "statusReason": "Guidelines Issued",
       "projectStatus": null
     },
     "2026/10571": {
@@ -82110,7 +82110,7 @@
       "location": "Access from Lots 7893 (P146692), 7376 (P141927) and 7806 (P146504) on Jingalup Road, Kojonup, Shire of Kojonup, WA.",
       "projectTitle": "Kojonup Wind Farm Development",
       "validDate": "2026-07-24",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Direction to Publish Draft Preliminary Documentation Issued",
       "projectStatus": null
     },
     "2026/10572": {
@@ -82210,7 +82210,7 @@
       "location": "Parkes Place East, Parkes, ACT 2600",
       "projectTitle": "National Sculpture Garden Renewal, Stage 1",
       "validDate": "2026-07-31",
-      "statusReason": "Assessment Commenced",
+      "statusReason": "Project Withdrawn",
       "projectStatus": null
     },
     "2026/10595": {
@@ -82320,7 +82320,7 @@
       "location": "Burke Developmental Road, Cloncurry, Queensland, 4824.",
       "projectTitle": "Eva Copper Mine Project (Stage 2)",
       "validDate": "2026-08-20",
-      "statusReason": "Draft documentation published - Open for Public Comment",
+      "statusReason": "Under Assessment",
       "projectStatus": null
     },
     "2026/10607": {
@@ -82690,7 +82690,7 @@
       "location": "1-9 Gertrude Street, Fitzroy, Victoria",
       "projectTitle": "Construction of a mixed use retail and residential development.",
       "validDate": "2026-10-07",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10667": {
@@ -82700,7 +82700,7 @@
       "location": "1933 Dalby-Kogan Road, Dalby QLD",
       "projectTitle": "Western Downs Digital Park",
       "validDate": "2026-10-07",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10633": {
@@ -82900,7 +82900,7 @@
       "location": "88 Nicholson Street, Fitzroy, Victoria 3065",
       "projectTitle": "Academy of Mary Immaculate - Redevelopment",
       "validDate": "2026-10-28",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2025/10184": {
@@ -82910,7 +82910,7 @@
       "location": "5 Firth Place, Point Cook, Victoria",
       "projectTitle": "Point Cook Industrial and Commercial subdivision",
       "validDate": "2026-10-27",
-      "statusReason": "Awaiting additional information",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10680": {
@@ -82930,7 +82930,7 @@
       "location": "3 Suttor Developmental Road, Lot 3 SP185775",
       "projectTitle": "Mount Britton Battery Energy Storage System",
       "validDate": "2026-10-26",
-      "statusReason": "Assessment Approach Determined",
+      "statusReason": "Assessment Commenced",
       "projectStatus": null
     },
     "2026/10675": {
@@ -82940,7 +82940,7 @@
       "location": "128 Vances Crossing Road, Joel Joel, VIC, 3384",
       "projectTitle": "Joel Joel Battery Energy Storage System Project",
       "validDate": "2026-10-26",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10673": {
@@ -82970,7 +82970,7 @@
       "location": "Lot 44 on SP295239, Lot 1 on SP295238, Lot 38 on RP187881, Lot 101 on SP312031, Lot 96 on RP187418, Lot 95 on RP1874, George Alexander Way, Coomera",
       "projectTitle": "George Alexander Way Upgrade",
       "validDate": "2026-11-03",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Awaiting additional information",
       "projectStatus": null
     },
     "2026/10573": {
@@ -82990,7 +82990,7 @@
       "location": "Lot 1002 Mortimer Road, Casuarina",
       "projectTitle": "Casuarina South Precinct Residential Development - Lot 1002 Mortimer Road",
       "validDate": "2026-10-30",
-      "statusReason": "Awaiting Delegate Decision",
+      "statusReason": "Referral Decision Made",
       "projectStatus": null
     },
     "2026/10707": {
@@ -83010,7 +83010,7 @@
       "location": "David Evans Reserve, within Macintosh Island Park (Lot 571 SP287549), Main Beach Parade, Surfers Paradise QLD.",
       "projectTitle": "Main Beach Parade Pedestrian Access to Foreshore.",
       "validDate": "2026-11-11",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10693": {
@@ -83020,7 +83020,7 @@
       "location": "Lots 96 and 203 Vittoria Road, Henley Brook 6055",
       "projectTitle": "Starflower Road Residential Development",
       "validDate": "2026-11-10",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10662": {
@@ -83030,7 +83030,7 @@
       "location": "278 Nikalapko Road, Stuart, South Australia 5320",
       "projectTitle": "Riverland BESS",
       "validDate": "2026-11-10",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10678": {
@@ -83040,7 +83040,7 @@
       "location": "405-455 Sandy Creek Road, Little River, VIC 3211",
       "projectTitle": "Subdivision and Battery Storage System, Little River.",
       "validDate": "2026-11-10",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting Delegate Decision",
       "projectStatus": null
     },
     "2026/10669": {
@@ -83050,7 +83050,7 @@
       "location": "20 Hattam Street, Golden Square, VIC",
       "projectTitle": "Bendigo Battery Energy Storage System BESS",
       "validDate": "2026-11-09",
-      "statusReason": "Referral Decision - Open for Public Comment",
+      "statusReason": "Awaiting additional information",
       "projectStatus": null
     },
     "2026/10677": {
@@ -83100,6 +83100,446 @@
       "location": "30 Bellhaven Lane and 500 Bosnjaks Road, Glenarbon, Queensland 4385",
       "projectTitle": "Glenarbon Solar Power Station",
       "validDate": "2026-11-16",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10760": {
+      "ticketNumber": "2026/10760",
+      "incidentId": "b8916adb-57e8-f111-84e9-00224810a2d3",
+      "proponent": "Infrastructure Canberra",
+      "location": "Regatta Place, Parkes, ACT",
+      "projectTitle": "Canberra Aquatic Centre",
+      "validDate": "2026-11-27",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10708": {
+      "ticketNumber": "2026/10708",
+      "incidentId": "66b8fd1d-a4d6-f111-a05b-00224810ab5c",
+      "proponent": "Gympie Regional Council",
+      "location": "Commissioners Gully, Gympie QLD 4570 within Lot 598 on Plan MCH4059 and Lot 439 on Plan MCH4831.",
+      "projectTitle": "Commissioners Gully Flying-fox Roost Relocation",
+      "validDate": "2026-11-27",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10687": {
+      "ticketNumber": "2026/10687",
+      "incidentId": "134d76b3-a2c7-f111-aaaf-6045bde74b83",
+      "proponent": "WATER CORPORATION",
+      "location": "The townsites of Gnarabup and Margaret River, in the Shire of Augusta Margaret River.",
+      "projectTitle": "Gnarabup to Margaret River Wastewater Pipeline",
+      "validDate": "2026-11-27",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10699": {
+      "ticketNumber": "2026/10699",
+      "incidentId": "be71d60b-f8d3-f111-a059-70a8a554ef66",
+      "proponent": "Origin Energy Eraring PTY Limited",
+      "location": "Rocky Point Rd, Eraring NSW 2264",
+      "projectTitle": "Eraring Site Decommissioning Project",
+      "validDate": "2026-11-27",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10722": {
+      "ticketNumber": "2026/10722",
+      "incidentId": "60d516ef-f9db-f111-84e8-7c1e5262cfda",
+      "proponent": "KERANG NO. 1 PROJECTCO PTY LTD",
+      "location": "44 Old Echuca Road, Kerang, Victoria",
+      "projectTitle": "Development of adjoining Battery Energy Storage System to existing Kerang Solar Plant",
+      "validDate": "2026-11-27",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10712": {
+      "ticketNumber": "2026/10712",
+      "incidentId": "d7a6f45d-f9d7-f111-a05b-7c1e5262cfda",
+      "proponent": "VOYAGER RENEWABLES PTY LTD",
+      "location": "Willalooka Rd, Willalooka",
+      "projectTitle": "Black Range Wind Farm",
+      "validDate": "2026-11-27",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10710": {
+      "ticketNumber": "2026/10710",
+      "incidentId": "6f057da0-62d7-f111-a05b-7c1e526310db",
+      "proponent": "Botania Park Financing Pty Ltd",
+      "location": "Four Lots in Mariginiup and Nine Lots in Jandabup, WA (Att. M)",
+      "projectTitle": "Rousset Road, Lakeview Street and Franklin Road Residential Development, Mariginiup/Jandabup.",
+      "validDate": "2026-11-27",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10756": {
+      "ticketNumber": "2026/10756",
+      "incidentId": "8dc0eeec-9de7-f111-84e9-7c1e528a6e56",
+      "proponent": "NQ Villas Management Pty Ltd",
+      "location": "164 & 172 Hoare Street and part 10–30 Pease Street, Manoora, Queensland 4870",
+      "projectTitle": "EPBC ACT – DUE DILIGENCE ASSESSMENT   CAIRNS VILLA AND LEISURE PARK Lot 20SP262379.",
+      "validDate": "2026-11-27",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10723": {
+      "ticketNumber": "2026/10723",
+      "incidentId": "c64fca7d-a0dc-f111-84e8-7ced8d33464b",
+      "proponent": "VYSARN ASSET MANAGEMENT PTY LTD",
+      "location": "Great Northern Highway, East Pilbara region of Western Australia",
+      "projectTitle": "The Kariyarra Water Scheme",
+      "validDate": "2026-11-27",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10739": {
+      "ticketNumber": "2026/10739",
+      "incidentId": "a68a3ac4-50e1-f111-84e8-00224810ab5c",
+      "proponent": "365 FUTURE ENERGY PTY LTD",
+      "location": "1931, 1903, 1885, 1849, and 1827 Riverway Drive and 142 Laudham Road, Pinnacles. Sub-surface electrical cable will be located on Lot 2 on SP313041.",
+      "projectTitle": "Renewable Energy Facility Solar Farm and Battery Energy Storage System",
+      "validDate": "2026-11-26",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10747": {
+      "ticketNumber": "2026/10747",
+      "incidentId": "4331dcb4-95e4-f111-84e8-002248945673",
+      "proponent": "Kingshill Development No 1 Pty Ltd",
+      "location": "3221 Pacific Highway, Kings Hill, NSW 2324",
+      "projectTitle": "Kings Hill Development Precinct 6 and 7",
+      "validDate": "2026-11-26",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10738": {
+      "ticketNumber": "2026/10738",
+      "incidentId": "6772fb6e-49e1-f111-84e8-6045bde5a88f",
+      "proponent": "Vedanta Centre of Sydney",
+      "location": "96 Vedanta Drive, Springfield Lakes, QLD 4300",
+      "projectTitle": "Vedanta Precinct Development",
+      "validDate": "2026-11-26",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10727": {
+      "ticketNumber": "2026/10727",
+      "incidentId": "9145e1ac-9edd-f111-84e8-00224810a980",
+      "proponent": "MARDIE PASTORAL CO PTY LTD",
+      "location": "Mardie Station, Mardie Road, Mardie WA 6714",
+      "projectTitle": "Mardie A - Mesquite Eradication and Pastoral Rehabilitation",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10732": {
+      "ticketNumber": "2026/10732",
+      "incidentId": "75346bfd-84de-f111-84e8-00224810a980",
+      "proponent": "MARQUEE PROJECTS PTY LTD",
+      "location": "Corner of Cedar Road and Mount Juillerat Drive, Redbank Plains, QLD 4301",
+      "projectTitle": "Residential Development",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10742": {
+      "ticketNumber": "2026/10742",
+      "incidentId": "430a1b05-1de2-f111-84e8-00224810a980",
+      "proponent": "FRASERS PROPERTY NEW BEITH PTY LTD",
+      "location": "Lot 1 Olsen Road, New Beith, Queensland 4124",
+      "projectTitle": "Residential Development",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10721": {
+      "ticketNumber": "2026/10721",
+      "incidentId": "3c1630b7-ecdb-f111-84e8-00224810ab5c",
+      "proponent": "FRV Services Australia Pty Limited",
+      "location": "42 Pat Meredith Drive, Parkes, 2870",
+      "projectTitle": "Goonumbla Solar Farm - Addition of Battery Energy Storage System",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10741": {
+      "ticketNumber": "2026/10741",
+      "incidentId": "c1d3a043-9ae1-f111-84e8-00224810ab5c",
+      "proponent": "ALLIGATOR ENERGY LTD",
+      "location": "Lot 4 Lincoln Highway, Middleback Range (CL6171/767)",
+      "projectTitle": "Samphire Uranium Project – in-situ recovery uranium mine, processing plant and associated infrastructure",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10731": {
+      "ticketNumber": "2026/10731",
+      "incidentId": "7dc1de97-63de-f111-84e8-002248945673",
+      "proponent": "KDL DEV 6 PTY LTD",
+      "location": "128 Bryants Road, Ripley QLD",
+      "projectTitle": "128 Bryants Road, Ripley Residential Development",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10737": {
+      "ticketNumber": "2026/10737",
+      "incidentId": "f5936ce9-39e1-f111-84e8-002248945673",
+      "proponent": "REARDON GAIA PTY LTD",
+      "location": "Mansfield Road, Elimbah, Queensland, 4516 described as Lot 3 on SP215165.",
+      "projectTitle": "Elimbah Residential Development Project",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10744": {
+      "ticketNumber": "2026/10744",
+      "incidentId": "500209bf-3ae2-f111-84e8-002248945673",
+      "proponent": "FULTON HOGAN QUARRIES PTY LTD",
+      "location": "Tamaree Road, Cedar Creek, Queensland, 4207 described as Lot 15 on RP151378.",
+      "projectTitle": "Blue Rock Quarry Expansion Project",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10702": {
+      "ticketNumber": "2026/10702",
+      "incidentId": "e07701f1-1ed4-f111-a059-002248945673",
+      "proponent": "Cougar Sand Supplies",
+      "location": "Lot 1001 on Deposited Plan 66023, Lake Clifton Road, Lake Clifton.",
+      "projectTitle": "Cougar Sands Quarry Extraction",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10733": {
+      "ticketNumber": "2026/10733",
+      "incidentId": "f2bb480a-ddde-f111-84e8-6045bde5a88f",
+      "proponent": "Moolarben Coal Operations Pty Ltd",
+      "location": "12 Ulan-Wollar Road, Ulan NSW 2850 Australia",
+      "projectTitle": "Moolarben Coal Complex – Stage 2 Optimisation Modification",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10748": {
+      "ticketNumber": "2026/10748",
+      "incidentId": "1a4d8fd1-cae6-f111-84e7-6045bde65ffb",
+      "proponent": "Department of Transport and Main Roads",
+      "location": "Bruce Highway, Damper Creek and Rungoo QLD 4849",
+      "projectTitle": "Sunday Creek to Bowder Creek, Upgrade Bridges and Wide Centre Line Treatment",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10730": {
+      "ticketNumber": "2026/10730",
+      "incidentId": "ebf11466-5ade-f111-84e8-7c1e5262cfda",
+      "proponent": "Springacre Development Pty LTD ATF The Springacre Developments Unit Trust",
+      "location": "639 Bellmere Rd, Waraba, Queensland, 4513",
+      "projectTitle": "Springacre Developments residential development",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10736": {
+      "ticketNumber": "2026/10736",
+      "incidentId": "cbbfc3d0-3cdf-f111-84e8-7c1e5262cfda",
+      "proponent": "APT PETROLEUM PIPELINES PTY LIMITED",
+      "location": "At the NT/ Qld border approximately 80km south of Camooweal, to southwest Qld, approximately 90km east of Ballera. Refer Att.B",
+      "projectTitle": "North to East Australia Pipeline (Stage 2) - QLD Pipeline Section",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10704": {
+      "ticketNumber": "2026/10704",
+      "incidentId": "a4a90904-29d4-f111-a059-7c1e5262cfda",
+      "proponent": "Pacific Quarry Mining & Civil Pty Limited",
+      "location": "Lot 12 (25) Churcher Road and Lot 500 (1268) Baldivis Road, Baldivis WA 6171",
+      "projectTitle": "Churcher Road and Baldivis Road Special Rural Development Project",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10746": {
+      "ticketNumber": "2026/10746",
+      "incidentId": "8e7f4447-bfe3-f111-84e8-7c1e528a6e56",
+      "proponent": "Holcim (Australia) Pty Ltd",
+      "location": "360 Hawkins Road, Jandabup WA 6077",
+      "projectTitle": "Clearing of rehabilitated vegetation for Jandabup Sand Quarry extension",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10645": {
+      "ticketNumber": "2026/10645",
+      "incidentId": "6ea508c6-3bab-f111-aaab-7ced8d33f340",
+      "proponent": "EDIFY ENERGY PTY. LTD.",
+      "location": "112 Eathorpe Road, Armidale, NSW 2350",
+      "projectTitle": "Kooyong Battery Energy Storage System (BESS)",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10681": {
+      "ticketNumber": "2026/10681",
+      "incidentId": "52250602-9fc2-f111-aaaf-7ced8da106bd",
+      "proponent": "Development WA",
+      "location": "Lot 9009 Stevenson Boulevard, Parmelia (Parcel: DP 430017 9009) Western Australia",
+      "projectTitle": "Lot 9006 Stevenson Boulevard Residential Development",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10715": {
+      "ticketNumber": "2026/10715",
+      "incidentId": "cefab3bb-d1d8-f111-a05b-7ced8da2bef5",
+      "proponent": "Sunshine Coast Regional Council",
+      "location": "Image Flat Quarry, Image Flat Road, Kulangoor, Queensland, 4560",
+      "projectTitle": "Image Flat Quarry Expansion Project",
+      "validDate": "2026-11-25",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10724": {
+      "ticketNumber": "2026/10724",
+      "incidentId": "86eabaae-cddc-f111-84e8-000d3ad19653",
+      "proponent": "AW BIDCO 6 PTY LIMITED",
+      "location": "1034 Ripley Road, South Ripley, described as Lot 3 on RP213767, and the northern and eastern adjoining road reserve",
+      "projectTitle": "South Ripley Urban Development Project",
+      "validDate": "2026-11-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10709": {
+      "ticketNumber": "2026/10709",
+      "incidentId": "53ff8a82-3fd7-f111-a05b-00224810a775",
+      "proponent": "AGL Macquarie Pty Limited",
+      "location": "Liddell Power Station off New England Highway Muswellbrook, New South Wales.",
+      "projectTitle": "Liddell Future Land Use and Enabling Works – MOD2 LAD Closure Design",
+      "validDate": "2026-11-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10713": {
+      "ticketNumber": "2026/10713",
+      "incidentId": "34a5dfed-9dd8-f111-a05b-00224810a980",
+      "proponent": "ACEN AUSTRALIA PTY LTD",
+      "location": "Lot 1 on SP234704, Lot 2 on SP234704, Lot 3 on RP617628, Lot 1 on RP616025",
+      "projectTitle": "Belyando Energy",
+      "validDate": "2026-11-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10697": {
+      "ticketNumber": "2026/10697",
+      "incidentId": "3344bc56-37d3-f111-a059-00224810ab5c",
+      "proponent": "The Skycross Superannuation Fund",
+      "location": "Lot 23 Lyon Road, Banjup",
+      "projectTitle": "Lot 23 Lyon Road, Banjup - Residential Development",
+      "validDate": "2026-11-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10714": {
+      "ticketNumber": "2026/10714",
+      "incidentId": "a192368f-c5d8-f111-a05b-00224810ab5c",
+      "proponent": "AGL Macquarie Pty Limited",
+      "location": "Liddell Power Station off New England Highway Muswellbrook",
+      "projectTitle": "Liddell South Precinct Enabling Works",
+      "validDate": "2026-11-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10695": {
+      "ticketNumber": "2026/10695",
+      "incidentId": "2aad1c36-84d2-f111-a059-002248945673",
+      "proponent": "Westfield Road Pty Ltd",
+      "location": "Lots 9002, 9001, 98 and 99 off 228 Westfield Road, Seville Grove. Corner of Westfield Road and Champion Drive.",
+      "projectTitle": "Westfield Road, Seville Grove Residential Development",
+      "validDate": "2026-11-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10717": {
+      "ticketNumber": "2026/10717",
+      "incidentId": "a8c227d7-92d9-f111-a05b-002248945673",
+      "proponent": "NEOEN AUSTRALIA PTY. LTD.",
+      "location": "731 Livingstone Gully Rd Big Springs Wagga Wagga NSW 2650",
+      "projectTitle": "Livingstone Solar Farm and BESS",
+      "validDate": "2026-11-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10661": {
+      "ticketNumber": "2026/10661",
+      "incidentId": "823c1360-55b5-f111-aaac-6045bdc22e7e",
+      "proponent": "CKTSME DEVCO 2 PTY LTD",
+      "location": "230 Martin Road, Badgerys Creek, NSW, 2555",
+      "projectTitle": "230 Martin Road Warehouse and Logistics Facility",
+      "validDate": "2026-11-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10705": {
+      "ticketNumber": "2026/10705",
+      "incidentId": "50e855a8-59d4-f111-a059-7c1e5262cfda",
+      "proponent": "KALGOORLIE NICKEL PTY LTD",
+      "location": "81km North of Kalgoorlie, via Goldfields Highway",
+      "projectTitle": "Kalgoorlie Nickel Project - Goongarrie Hub",
+      "validDate": "2026-11-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10694": {
+      "ticketNumber": "2026/10694",
+      "incidentId": "c45eff6b-cdd1-f111-a059-7c1e526310db",
+      "proponent": "BORAL RESOURCES (COUNTRY) PTY. LIMITED",
+      "location": "3716 Werris Creek Road, NSW (Liverpool Plains Shire LGA).",
+      "projectTitle": "Currabubula Quarry Extension Project",
+      "validDate": "2026-11-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10666": {
+      "ticketNumber": "2026/10666",
+      "incidentId": "d8ddc508-dcba-f111-aaad-7c1e528a6d22",
+      "proponent": "ELECTRANET PTY LIMITED",
+      "location": "From Bundey Substation (CT 6270/132, Powerline Road, Bundey) to Mount Arden station",
+      "projectTitle": "Northern Transmission Project – North (NTx North)",
+      "validDate": "2026-11-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10725": {
+      "ticketNumber": "2026/10725",
+      "incidentId": "3020dcb2-e8dc-f111-84e8-7ced8d33464b",
+      "proponent": "BOCINA GROUP PTY LTD as Trustee for Bocina Trust",
+      "location": "196 Golf Links Drive, Gatton, Queensland 4343.",
+      "projectTitle": "Residential Development Project",
+      "validDate": "2026-11-24",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10735": {
+      "ticketNumber": "2026/10735",
+      "incidentId": "67fc870c-03df-f111-84e8-00224810a2d3",
+      "proponent": "UNIVERSITY OF TASMANIA",
+      "location": "Frederick Henry Bay, southeastern Tasmania",
+      "projectTitle": "Emergency translocation of red handfish from the wild into captivity during a marine heatwave.",
+      "validDate": "2026-11-23",
+      "statusReason": "Referral Decision - Open for Public Comment",
+      "projectStatus": null
+    },
+    "2026/10676": {
+      "ticketNumber": "2026/10676",
+      "incidentId": "80d3811c-8ec0-f111-aaaf-7c1e522b52b7",
+      "proponent": "Jandakot Superannuation Pty Ltd",
+      "location": "Lot 20 Boeing Rd and Lot 201 Jandakot Road, Jandakot",
+      "projectTitle": "Residential Development, Jandakot",
+      "validDate": "2026-11-23",
       "statusReason": "Referral Decision - Open for Public Comment",
       "projectStatus": null
     }
